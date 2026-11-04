@@ -1,0 +1,415 @@
+[
+  {
+    "outlet": "elDiarioAR",
+    "region": "Argentina",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.eldiarioar.com/rss/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Cenital",
+    "region": "Argentina",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://cenital.com/feed/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Revista Anfibia",
+    "region": "Argentina",
+    "topics": [
+      "Política"
+    ],
+    "rss": "https://www.revistaanfibia.com/feed/",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "El Destape",
+    "region": "Argentina",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.eldestapeweb.com/rss",
+    "independent": true,
+    "verified": false
+  },
+  {
+    "outlet": "Chequeado",
+    "region": "Argentina",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://chequeado.com/feed/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "la diaria",
+    "region": "Uruguay",
+    "topics": [
+      "Política",
+      "Economía",
+      "Fútbol"
+    ],
+    "rss": "https://ladiaria.com.uy/feeds/articulos/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Sudestada",
+    "region": "Uruguay",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.sudestada.com.uy/feed/",
+    "independent": true,
+    "verified": false
+  },
+  {
+    "outlet": "Montevideo Portal",
+    "region": "Uruguay",
+    "topics": [
+      "Política",
+      "Economía",
+      "Fútbol"
+    ],
+    "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Delfino.cr",
+    "region": "Costa Rica",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://delfino.cr/feed",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Semanario Universidad",
+    "region": "Costa Rica",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://semanariouniversidad.com/feed/",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "El Observador CR",
+    "region": "Costa Rica",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://observador.cr/feed/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "elDiario.es",
+    "region": "España",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.eldiario.es/rss/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "El Confidencial",
+    "region": "España",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://rss.elconfidencial.com/espana/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Público",
+    "region": "España",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.publico.es/rss/",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "infoLibre",
+    "region": "España",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.infolibre.es/rss/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Xataka",
+    "region": "España",
+    "topics": [
+      "Tech",
+      "IA"
+    ],
+    "rss": "https://www.xataka.com/index.xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Genbeta",
+    "region": "España",
+    "topics": [
+      "Tech",
+      "IA"
+    ],
+    "rss": "https://www.genbeta.com/index.xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "BBC Mundo",
+    "region": "Mundo",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "DW español",
+    "region": "Mundo",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://rss.dw.com/rdf/rss-sp-all",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "France24 español",
+    "region": "Mundo",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.france24.com/es/rss",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Agencia Pública",
+    "region": "Mundo",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://apublica.org/feed/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "El Faro",
+    "region": "Mundo",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://elfaro.net/es/rss.xml",
+    "independent": true,
+    "verified": false
+  },
+  {
+    "outlet": "Olé",
+    "region": "Argentina",
+    "topics": [
+      "Fútbol",
+      "Básquetbol",
+      "Tenis"
+    ],
+    "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Ovación",
+    "region": "Uruguay",
+    "topics": [
+      "Fútbol",
+      "Básquetbol",
+      "Tenis"
+    ],
+    "rss": "https://www.elpais.com.uy/rss/ovacion",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "ESPN",
+    "region": "Mundo",
+    "topics": [
+      "Fútbol",
+      "Básquetbol",
+      "Tenis"
+    ],
+    "rss": "https://www.espn.com/espn/rss/news?section=deportes",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Marca",
+    "region": "España",
+    "topics": [
+      "Fútbol",
+      "Básquetbol",
+      "Tenis"
+    ],
+    "rss": "https://e00-marca.uecdn.es/rss/portada.xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Gigantes del Basket",
+    "region": "España",
+    "topics": [
+      "Básquetbol"
+    ],
+    "rss": "https://www.gigantes.com/feed/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Punto de Break",
+    "region": "España",
+    "topics": [
+      "Tenis"
+    ],
+    "rss": "https://www.puntodebreak.com/rss.xml",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Lonely Planet ES",
+    "region": "Mundo",
+    "topics": [
+      "Viajes"
+    ],
+    "rss": "https://www.lonelyplanet.es/rss.xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Viajeros Callejeros",
+    "region": "Mundo",
+    "topics": [
+      "Viajes"
+    ],
+    "rss": "https://www.viajeroscallejeros.com/feed/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Hipertextual",
+    "region": "Mundo",
+    "topics": [
+      "Tech",
+      "IA"
+    ],
+    "rss": "https://hipertextual.com/feed",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Microsiervos",
+    "region": "España",
+    "topics": [
+      "Tech",
+      "IA"
+    ],
+    "rss": "https://www.microsiervos.com/index.xml",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "FutbolRed",
+    "region": "Mundo",
+    "topics": [
+      "Fútbol"
+    ],
+    "rss": "https://www.futbolred.com/rss",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "Solo Basket",
+    "region": "España",
+    "topics": [
+      "Básquetbol"
+    ],
+    "rss": "https://www.solobasket.com/rss.xml",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "elDiario.es Viajes",
+    "region": "España",
+    "topics": [
+      "Viajes"
+    ],
+    "rss": "https://www.eldiario.es/rss/viajes/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Viajablog",
+    "region": "Mundo",
+    "topics": [
+      "Viajes"
+    ],
+    "rss": "https://www.viajablog.com/feed/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "El Pachinko",
+    "region": "Mundo",
+    "topics": [
+      "Viajes"
+    ],
+    "rss": "https://www.elpachinko.com/feed/",
+    "independent": true,
+    "verified": true
+  },
+  {
+    "outlet": "Diario del Viajero",
+    "region": "Mundo",
+    "topics": [
+      "Viajes"
+    ],
+    "rss": "https://www.diariodelviajero.com/index.xml",
+    "independent": false,
+    "verified": true
+  }
+]

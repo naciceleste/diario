@@ -1,0 +1,1291 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "generated_at": "2026-11-04T03:17:54.254961+00:00",
+  "timezone": "America/Costa_Rica",
+  "window_hours": 36,
+  "lead": {
+    "title": "Resultados de las 'midterms' en EE.UU.: el mapa de quién gana las elecciones en cada estado",
+    "url": "https://www.eldiarioar.com/mundo/resultados-midterms-eeuu-2026-mapa-ganado-elecciones_1_13636007.html",
+    "outlet": "elDiarioAR",
+    "region": "Argentina",
+    "independent": true,
+    "section": "Política",
+    "published_at": "2026-11-04T01:08:09+00:00",
+    "excerpt": "Consulta en mapas y gráficos el detalle de los resultados de las elecciones legislativas de medio mandato en Estados Unidos 2026 que pueden arrebatar la mayoría republicana a Trump en la Cámara y el…",
+    "coverage": [
+      "elDiario.es",
+      "elDiarioAR"
+    ],
+    "score": 11.64,
+    "id": "b96353b152c4383d",
+    "url_verified": true,
+    "url_status": 200,
+    "url_checked_at": "2026-11-04T03:18:03.750828+00:00",
+    "image": "assets/noticias/bc8c453a1d8c174a3740.jpg",
+    "image_credit": "elDiarioAR"
+  },
+  "destacadas": [
+    {
+      "title": "Trump anunció que terminará con la ayuda anual de 4.000 millones de dólares para Israel",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/trump-anuncio-que-terminara-con-la-ayuda-anual-de-4000-millones-de-dolares-para-israel",
+      "outlet": "la diaria",
+      "region": "Uruguay",
+      "independent": true,
+      "section": "Política",
+      "published_at": "2026-11-03T23:48:35+00:00",
+      "excerpt": "El presidente de Estados Unidos manifestó que los israelíes “no necesitan” ese apoyo, que es motivo de críticas de la oposición. En el día de las elecciones de mitad de mandato, el presidente…",
+      "coverage": [
+        "France24 español",
+        "la diaria"
+      ],
+      "score": 11.419,
+      "id": "ee42e82c6414c471",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-04T03:18:03.764048+00:00",
+      "image": "assets/noticias/d20ab56c222cfb04d856.webp",
+      "image_credit": "la diaria"
+    },
+    {
+      "title": "Dos extensas sesiones en Plenario y presupuesto 2027 sigue sin votarse en primer debate",
+      "url": "https://observador.cr/dos-extensas-sesiones-en-plenario-y-presupuesto-2027-sigue-sin-votarse-en-primer-debate",
+      "outlet": "El Observador CR",
+      "region": "Costa Rica",
+      "independent": true,
+      "section": "Economía",
+      "published_at": "2026-11-04T02:58:36+00:00",
+      "excerpt": "La sesión de Plenario se extendió hasta las 8:42 p.m. -similar a lo que sucedió el lunes- y la presidenta Yara Jiménez le puso fin. The post Dos extensas sesiones en Plenario y presupuesto 2027…",
+      "coverage": [
+        "El Observador CR"
+      ],
+      "score": 9.946,
+      "id": "bc9e63b1e84d01df",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-04T03:18:03.233677+00:00",
+      "image": "assets/noticias/882a0c59c9adc7e97aa2.webp",
+      "image_credit": "El Observador CR"
+    },
+    {
+      "title": "Óscar Puente anuncia su dimisión como ministro y su renuncia a ir en las listas el 29N",
+      "url": "https://www.eldiario.es/politica/oscar-puente-anuncia-dimision-ministro-comparecencia-congreso_1_13635747.html",
+      "outlet": "elDiario.es",
+      "region": "España",
+      "independent": true,
+      "section": "Política",
+      "published_at": "2026-11-03T20:16:16+00:00",
+      "excerpt": "El ministro comunica por sorpresa su dimisión y su renuncia a presentarse a las elecciones Óscar Puente: “El centro de control recibió que el Iryo seguía parado pero no tomó ninguna acción” Óscar…",
+      "coverage": [
+        "Xataka",
+        "elDiario.es"
+      ],
+      "score": 10.829,
+      "id": "20e2f60811d1b519",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-04T03:18:03.704851+00:00",
+      "image": "assets/noticias/08804246ea91aad4d62d.jpg",
+      "image_credit": "elDiario.es"
+    },
+    {
+      "title": "Qué ver en Amsterdam, descubre los lugares imprescindibles para visitar por primera vez la capital de Holanda",
+      "url": "https://queverentusviajes.com/que-ver-en-amsterdam-en-tres-dias",
+      "outlet": "El Pachinko",
+      "region": "Mundo",
+      "independent": true,
+      "section": "Viajes",
+      "published_at": "2026-11-03T15:30:46+00:00",
+      "excerpt": "¿No sabes qué ver en Ámsterdam en un primer viaje a la capital de Países Bajos? Tranquilo, te ayudamos a descifrar esta ciudad de canales, bicicletas, museos de primer nivel y rincones secretos con…",
+      "coverage": [
+        "El Pachinko",
+        "Viajablog"
+      ],
+      "score": 10.036,
+      "id": "5991a34008ace0f7",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-04T03:18:04.168194+00:00",
+      "image": "assets/noticias/ce4d072c3d3b2140e3d2.jpg",
+      "image_credit": "El Pachinko"
+    },
+    {
+      "title": "Windows 11 recibe una mejora que promete salvar a millones de computadoras antiguas",
+      "url": "https://hipertextual.com/software/windows-11-mejora-rendimiento-pcs-8-gb-ram",
+      "outlet": "Hipertextual",
+      "region": "Mundo",
+      "independent": true,
+      "section": "Tech",
+      "published_at": "2026-11-03T23:37:41+00:00",
+      "excerpt": "Uno de los requisitos más estrictos de Windows 11 después del arranque seguro eran los 16 GB de RAM. Si bien el sistema se podía instalar en ordenadores con menos memoria, el rendimiento era tan…",
+      "coverage": [
+        "Hipertextual"
+      ],
+      "score": 9.388,
+      "id": "902c3011f880ae6a",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-04T03:18:04.445054+00:00",
+      "image": "assets/noticias/2db7a01dcaa8228b74ec.jpg",
+      "image_credit": "Hipertextual"
+    }
+  ],
+  "sections": {
+    "Política": [
+      {
+        "title": "Renunció el ministro de Transporte de España tras los accidentes de trenes de alta velocidad que causaron…",
+        "url": "https://www.eldiarioar.com/mundo/renuncio-ministro-transporte-espana-accidentes-trenes-alta-velocidad-causaron-115-muertos_1_13635921.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-03T22:44:41+00:00",
+        "excerpt": "\"Un ministro no puede continuar en su puesto con un accidente de este tipo en menos de un año\", expresó el funcionario saliente. El ministro de Transporte de España, Oscar Puente , presentó su…",
+        "coverage": [
+          "BBC Mundo",
+          "elDiarioAR"
+        ],
+        "score": 11.241,
+        "id": "bebfe4794ce8143d",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:03.896142+00:00"
+      },
+      {
+        "title": "Elecciones de medio periodo en EE.UU.: Primeras victorias demócratas alimentan la posibilidad de arrebatar a…",
+        "url": "https://observador.cr/elecciones-de-medio-periodo-en-ee-uu-el-democrata-chris-pappas-primer-hombre-abiertamente-gay-en-ganar-un-escano-del-senado",
+        "outlet": "El Observador CR",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-04T02:47:00+00:00",
+        "excerpt": "Entretanto, las proyecciones indican que el demócrata Roy Cooper ganó la elección de Carolina del Norte para el Senado. The post Elecciones de medio periodo en EE.UU.: Primeras victorias demócratas…",
+        "coverage": [
+          "El Observador CR"
+        ],
+        "score": 9.914,
+        "id": "b8a479009de796e5",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:03.204091+00:00"
+      },
+      {
+        "title": "Trump afirma que EEUU dejará de dar 4.000 millones de dólares anuales a Israel y venderá armas a Tel Aviv",
+        "url": "https://www.eldiario.es/internacional/trump-afirma-eeuu-dejara-dar-4-000-millones-dolares-anuales-israel-vendera-armas-tel-aviv_1_13634608.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-03T14:34:37+00:00",
+        "excerpt": "\"Les damos 4.000 millones de dólares en material y dinero, y no lo necesitan. Bibi Netanyahu se puso en contacto conmigo y llevamos un par de años hablando de ello porque es mucho dinero\", ha dicho…",
+        "coverage": [
+          "France24 español",
+          "elDiario.es"
+        ],
+        "score": 9.88,
+        "id": "eba10d9189018fb2",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:03.316210+00:00"
+      },
+      {
+        "title": "Una caravana de migrantes en Honduras sale a EE.UU. en un día clave para Trump",
+        "url": "https://observador.cr/una-caravana-de-migrantes-en-honduras-sale-a-ee-uu-en-un-dia-clave-para-trump",
+        "outlet": "El Observador CR",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-04T02:25:00+00:00",
+        "excerpt": "En Honduras, el 61% de los 11,2 millones son pobres y la tasa de violencia se ubica en 24 por cada 100.000 homicidios. The post Una caravana de migrantes en Honduras sale a EE.UU. en un día clave…",
+        "coverage": [
+          "El Observador CR"
+        ],
+        "score": 9.853,
+        "id": "89a719427e4a8383",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:03.216269+00:00"
+      },
+      {
+        "title": "El presidente de la Comisión Departamental del Partido Nacional de Salto responde a planteo del bicentenario…",
+        "url": "https://ladiaria.com.uy/salto/articulo/2026/11/el-presidente-de-la-comision-departamental-del-partido-nacional-de-salto-responde-a-planteo-del-bicentenario-colorado",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-04T00:32:03+00:00",
+        "excerpt": "Sostuvo que reivindicaciones históricas del Partido Colorado no constituyen una prioridad política y que solo da para una charla de boliche o de asado. El presidente de la Comisión Departamental del…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 9.539,
+        "id": "84e090852c248d4d",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:06.710115+00:00"
+      },
+      {
+        "title": "La Iglesia “debe hacer política en el sentido amplio de sentirse responsable del bien común”, consideró…",
+        "url": "https://ladiaria.com.uy/politica/articulo/2026/11/la-iglesia-debe-hacer-politica-en-el-sentido-amplio-de-sentirse-responsable-del-bien-comun-considero-pablo-bonavia",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-04T00:10:42+00:00",
+        "excerpt": "El teólogo y párroco de Jacinto Vera destacó la encíclica de León XIV en la que se expresa sobre “los sectores excluidos de la sociedad” y dijo que la Iglesia debe reposicionarse en torno a la…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 9.48,
+        "id": "7922127548b82438",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:06.574997+00:00"
+      }
+    ],
+    "Economía": [
+      {
+        "title": "Disputa en el SEC deja sin pago de salario a personal administrativo del sindicato",
+        "url": "https://delfino.cr/2026/11/disputa-en-el-sec-deja-sin-pago-de-salario-a-personal-administrativo-del-sindicato",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-04T02:01:42+00:00",
+        "excerpt": "La Secretaría General atribuye el atraso en salarios a actuaciones de la Presidencia del SEC. ANTEP reportó 58 personas trabajadoras afectadas y cuestionó las comunicaciones contradictorias entre…",
+        "coverage": [
+          "Delfino.cr"
+        ],
+        "score": 9.788,
+        "id": "62fdf8221ffb6421",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:07.374562+00:00"
+      },
+      {
+        "title": "Dragado del canal Martín García: sindicato rechazó propuesta de la empresa y presentó otra, pero hay “ganas…",
+        "url": "https://ladiaria.com.uy/trabajo/articulo/2026/11/dragado-del-canal-martin-garcia-sindicato-rechazo-propuesta-de-la-empresa-y-presento-otra-pero-hay-ganas-de-negociar",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-04T00:26:37+00:00",
+        "excerpt": "La Intergremial Marítima, que busca que el 50% de los tripulantes sean uruguayos, espera recibir una respuesta este miércoles y dijo que la empresa acusó que también tiene “presiones del lado…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 9.524,
+        "id": "eb15435096fe3042",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:07.586180+00:00"
+      },
+      {
+        "title": "En Paysandú el desempleo se ubicó en un 8% para el trimestre julio-setiembre",
+        "url": "https://ladiaria.com.uy/paysandu/articulo/2026/11/en-paysandu-el-desempleo-se-ubico-en-un-8-para-el-trimestre-julio-setiembre",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-03T23:46:04+00:00",
+        "excerpt": "Aunque Paysandú mejora, lo hace “navegando en el mismo río” que el resto del país, manteniendo una brecha de desempleo que todavía se sitúa casi un punto por encima de la media nacional. El mercado…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 9.412,
+        "id": "092b2051d2ed25fe",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:07.654119+00:00"
+      },
+      {
+        "title": "La economía de Salto sigue en retroceso, pese a señales de desaceleración de la caída empresarial",
+        "url": "https://ladiaria.com.uy/salto/articulo/2026/11/la-economia-de-salto-sigue-en-retroceso-pese-a-senales-de-desaceleracion-de-la-caida-empresarial",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-03T23:06:57+00:00",
+        "excerpt": "El sondeo empresarial del tercer trimestre muestra una caída más moderada de la actividad en Salto. El Centro Comercial e Industrial de Salto presentó los resultados del sondeo de clima empresarial…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 9.303,
+        "id": "91e6c546f1fbc974",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:07.457838+00:00"
+      },
+      {
+        "title": "El riesgo país trepó a 829 puntos y el dólar alcanzó un nuevo récord",
+        "url": "https://www.eldiarioar.com/economia/riesgo-pais-trepo-829-puntos-dolar-alcanzo-nuevo-record_1_13635798.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-03T20:55:16+00:00",
+        "excerpt": "En una jornada marcada por las elecciones legislativas en Estados Unidos, el indicador de JPMorgan subió un 3% y acumuló un incremento superior al 45% en lo que va del año. Los bonos argentinos…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 8.937,
+        "id": "cbd76112071a3c2a",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:07.467770+00:00"
+      },
+      {
+        "title": "Sindicatos y organizaciones sociales de siete países reclaman una fuerte movilización coordinada en toda…",
+        "url": "https://www.eldiario.es/economia/sindicatos-organizaciones-sociales-siete-paises-reclaman-fuerte-movilizacion-coordinada-europa_1_13635630.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-03T19:15:33+00:00",
+        "excerpt": "Asociaciones de inquilinos, de trabajadores y movimientos ecologistas se reunieron este martes en París para organizar protestas conjuntas contra el coste de la vida los días 20, 21 y 22 de…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 8.66,
+        "id": "77f2cb405934e684",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:07.268750+00:00"
+      }
+    ],
+    "Fútbol": [
+      {
+        "title": "Murió Jesús de Miguel, el futbolista de Tenerife que sufrió un paro cardíaco tras un choque durante un partido",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/murio-jesus-de-miguel-el-futbolista-de-tenerife-que-sufrio-un-paro-cardiaco-tras-un-choque-durante-un-partido",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-03T17:40:03+00:00",
+        "excerpt": "El delantero de 30 años falleció este martes, un día después de recibir un fuerte golpe en el pecho. La policía abrió una investigación para esclarecer y el caso podría tener un proceso penal. El…",
+        "coverage": [
+          "DW español",
+          "la diaria"
+        ],
+        "score": 10.395,
+        "id": "2b017766d4d1fc18",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:08.396931+00:00"
+      },
+      {
+        "title": "Con presencia uruguaya, arrancó otra fecha de la Champions League",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/con-presencia-uruguaya-arranco-otra-fecha-de-la-champions-league",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-04T00:48:28+00:00",
+        "excerpt": "Lucas Torreira, Maximiliano Araújo, Rodrigo Zalazar y Santiago Mouriño tuvieron actividad en Europa. Este martes arrancó la cuarta fecha de la fase de liga de la Champions League, instancia en la…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 9.585,
+        "id": "a9a0472a77294efa",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:08.316476+00:00"
+      },
+      {
+        "title": "Muerte del jugador por golpe del portero: esto es lo que se sabe del caso que enluta al futbol español",
+        "url": "https://observador.cr/muerte-del-jugador-por-golpe-del-portero-esto-es-lo-que-se-sabe-del-caso-que-enluta-al-futbol-espanol",
+        "outlet": "El Observador CR",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-04T00:03:39+00:00",
+        "excerpt": "De Miguel, de 30 años, sufrió lesiones en la cabeza y el pecho durante un partido contra el FC Andorra, el lunes. The post Muerte del jugador por golpe del portero: esto es lo que se sabe del caso…",
+        "coverage": [
+          "El Observador CR"
+        ],
+        "score": 9.46,
+        "id": "983df4eb7c371b41",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:07.866021+00:00"
+      },
+      {
+        "title": "Tras votación ajustada, se mantienen los descensos en la B",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/tras-votacion-ajustada-se-mantienen-los-descensos-en-la-b",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-03T23:57:38+00:00",
+        "excerpt": "El Consejo del Fútbol Profesional rechazó la propuesta de eliminarlos, lo que ratifica el descenso al amateurismo de Uruguay Montevideo. Este martes se reunió el Consejo del Fútbol Profesional para…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 9.444,
+        "id": "45bada0be0a5bd7b",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:08.281202+00:00"
+      },
+      {
+        "title": "Nacional enfrenta a Ferro Carril de Salto en el estadio Artigas de Paysandú",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/nacional-enfrenta-a-ferro-carril-de-salto-en-el-estadio-artigas-de-paysandu",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-03T23:35:01+00:00",
+        "excerpt": "El partido de octavos de final de la Copa Uruguay se juega a las 21.00; antes, en San Carlos, el club albirrojo recibirá a Boston River en el estadio de Atenas. Esta semana, entre miércoles y…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 9.381,
+        "id": "2677767f7a3077f2",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:08.637553+00:00"
+      },
+      {
+        "title": "Sudamericano sub 20: Colombia será la sede del torneo",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/sudamericano-sub-20-colombia-sera-la-sede-del-torneo",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-03T15:22:07+00:00",
+        "excerpt": "La selección uruguaya que dirige Diego Forlán disputará la competencia que va del 22 de enero al 7 de febrero en busca de uno de los cuatro cupos directos al Mundial 2027. La Conmebol anunció que…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 8.012,
+        "id": "68015d7d0e4e59af",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:15.610084+00:00"
+      }
+    ],
+    "Básquetbol": [
+      {
+        "title": "Qué ha pasado en la BCL: Asisa Joventut y Unicaja se mantienen invictos a base de triples",
+        "url": "https://www.gigantes.com/bcl/que-ha-pasado-bcl-hoy-ucam-murcia-surne-bilbao-jornada3",
+        "outlet": "Gigantes del Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-03T21:17:00+00:00",
+        "excerpt": "Los dos equipos españoles perdieron sus respectivos compromisos La entrada Qué ha pasado en la BCL: Asisa Joventut y Unicaja se mantienen invictos a base de triples se publicó primero en Gigantes…",
+        "coverage": [
+          "Gigantes del Basket"
+        ],
+        "score": 8.997,
+        "id": "4071c4638ba51786",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:17.353965+00:00"
+      },
+      {
+        "title": "40 años del día que cambió la historia del baloncesto español en la NBA: del debut de Fernando Martín al…",
+        "url": "https://www.eldiario.es/spin/deportes/40-anos-dia-cambio-historia-baloncesto-espanol-nba-debut-fernando-martin-vinculo-portland-trail-blazers-pm_1_13635786.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-03T20:50:21+00:00",
+        "excerpt": "El jugador había sido escogido en el Draft de 1985 en segunda ronda, en el puesto número 38 por los New Jersey Nets, con los que no firmó el contrato no garantizado que se le ofreció después de la…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 8.923,
+        "id": "eaef83b5e8c1765d",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:15.967535+00:00"
+      },
+      {
+        "title": "Las interesantes reflexiones de Giannis Antetokounmpo sobre Luka Doncic y su nivel",
+        "url": "https://www.gigantes.com/nba/interesantes-reflexiones-giannis-antetokounmpo-luka-doncic",
+        "outlet": "Gigantes del Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-03T20:29:32+00:00",
+        "excerpt": "El esloveno se fue a los 42 puntos ante los Heat de Antetokounmpo La entrada Las interesantes reflexiones de Giannis Antetokounmpo sobre Luka Doncic y su nivel se publicó primero en Gigantes del…",
+        "coverage": [
+          "Gigantes del Basket"
+        ],
+        "score": 8.866,
+        "id": "de94130a3a873d56",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:17.160875+00:00"
+      },
+      {
+        "title": "Cuarta jornada de la EuroLeague Women: ¡Valencia Basket asalta Estambul y Casademont Zaragoza hace lo propio…",
+        "url": "https://www.gigantes.com/euroleague-women/euroleague-women-cuarta-jornada-que-ha-pasado",
+        "outlet": "Gigantes del Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-03T20:01:56+00:00",
+        "excerpt": "Dos visitas complicadas de los equipos españoles que se saldan con sendas victorias. La entrada Cuarta jornada de la EuroLeague Women: ¡Valencia Basket asalta Estambul y Casademont Zaragoza hace lo…",
+        "coverage": [
+          "Gigantes del Basket"
+        ],
+        "score": 8.789,
+        "id": "78fe612029633a18",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:17.290651+00:00"
+      },
+      {
+        "title": "Jorge Sanz, el español de Mike Malone en North Carolina: “A esta gente no le gusta fallar”",
+        "url": "https://www.solobasket.com/internacional/jorge-sanz-espanol-mike-malone-north-carolina",
+        "outlet": "Solo Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-03T18:00:00+00:00",
+        "excerpt": "El técnico zaragozano Jorge Sanz, ayudante de Mike Malone en North Carolina tras ocho temporadas en Gonzaga, cuenta a MARCA cómo llegó a los Tar Heels y su papel.",
+        "coverage": [
+          "Solo Basket"
+        ],
+        "score": 8.45,
+        "id": "e27f6c0d05999616",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:16.134156+00:00"
+      },
+      {
+        "title": "El Kids&Us Manresa anuncia el segundo fichaje en 24 horas: Isaiah Mobley se suma a la pintura",
+        "url": "https://www.gigantes.com/liga-endesa/isaiah-mobley-fichaje-manresa-trayectoria",
+        "outlet": "Gigantes del Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-03T17:43:00+00:00",
+        "excerpt": "El Kids&Us Manresa continúa moviéndose en el mercado para reforzar su juego interior. Después de anunciar la incorporación de Luka Ščuka, el conjunto dirigido por Diego Ocampo ha cerrado el... La…",
+        "coverage": [
+          "Gigantes del Basket"
+        ],
+        "score": 8.403,
+        "id": "c869a92d8057bb7f",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:17.156308+00:00"
+      }
+    ],
+    "Tenis": [
+      {
+        "title": "Rybakina y Sabalenka ya conocen sus rivales de grupo en las WTA Finals 2026",
+        "url": "https://www.puntodebreak.com/2026/11/04/rybakina-sabalenka-conocen-rivales-grupo-wta-finals-2026",
+        "outlet": "Punto de Break",
+        "region": "España",
+        "independent": true,
+        "section": "Tenis",
+        "published_at": "2026-11-03T23:44:50+00:00",
+        "excerpt": "Analizamos la disposición de los dos grupos de la fase de Round Robin en las WTA Finals 2026, de los que saldrán las cuatro semifinalista. Rybakina y Sabalenka podrían cruzarse en esa ronda.",
+        "coverage": [
+          "Punto de Break"
+        ],
+        "score": 9.408,
+        "id": "109598b914898920",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:17.935960+00:00"
+      },
+      {
+        "title": "Michelsen promete batalla ante Alcaraz: \"Cuanto más rápida es la pista, mejor para mí\"",
+        "url": "https://www.puntodebreak.com/2026/11/03/michelsen-promete-batalla-alcaraz-mas-rapida-pista-mejor",
+        "outlet": "Punto de Break",
+        "region": "España",
+        "independent": true,
+        "section": "Tenis",
+        "published_at": "2026-11-03T22:33:15+00:00",
+        "excerpt": "El estadounidense será el rival de Carlos Alcaraz en su debut en el ATP Masters 1000 París 2026 y mostró en rueda de prensa sus ganas de dar una gran campanada.",
+        "coverage": [
+          "Punto de Break"
+        ],
+        "score": 9.209,
+        "id": "056ddd1c336dadd5",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:17.928698+00:00"
+      },
+      {
+        "title": "Shelton desvela cómo se forjó el fichaje de Juan Carlos Ferrero",
+        "url": "https://www.puntodebreak.com/2026/11/03/shelton-desvela-forjo-fichaje-juan-carlos-ferrero",
+        "outlet": "Punto de Break",
+        "region": "España",
+        "independent": true,
+        "section": "Tenis",
+        "published_at": "2026-11-03T21:40:26+00:00",
+        "excerpt": "El tenista estadounidense ha afirmado que en un principio pensó que el ex entrenador español tenía ya otro jugador cerrado, pero finalmente ha conseguido que se una a su equipo.",
+        "coverage": [
+          "Punto de Break"
+        ],
+        "score": 9.063,
+        "id": "efad8b2c266b3bcd",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:17.847421+00:00"
+      },
+      {
+        "title": "Ruud mete en un lío a Jódar",
+        "url": "https://www.puntodebreak.com/2026/11/03/ruud-mete-lio-jodar",
+        "outlet": "Punto de Break",
+        "region": "España",
+        "independent": true,
+        "section": "Tenis",
+        "published_at": "2026-11-03T21:24:00+00:00",
+        "excerpt": "El tenista noruego firma un partido prácticamente perfecto para eliminar al español del ATP París y poner en jaque su clasificación a las ATP Finals.",
+        "coverage": [
+          "Punto de Break"
+        ],
+        "score": 9.017,
+        "id": "031d9fdc335b8590",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:17.785939+00:00"
+      },
+      {
+        "title": "Vacherot se rinde a Djokovic: \"Me llevó al límite\"",
+        "url": "https://www.puntodebreak.com/2026/11/03/vacherot-rinde-djokovic-llevo-limite",
+        "outlet": "Punto de Break",
+        "region": "España",
+        "independent": true,
+        "section": "Tenis",
+        "published_at": "2026-11-03T19:18:34+00:00",
+        "excerpt": "El tenista monegasco no tuvo más que palabras de elogio hacia el tenista serbio tras su derrota en primera ronda del ATP París.",
+        "coverage": [
+          "Punto de Break"
+        ],
+        "score": 8.669,
+        "id": "90b51806200cc6c3",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:18.013372+00:00"
+      },
+      {
+        "title": "A qué hora y dónde ver el debut de Alcaraz en París ante Michelsen",
+        "url": "https://www.puntodebreak.com/2026/11/03/hora-ver-debut-alcaraz-paris-michelsen",
+        "outlet": "Punto de Break",
+        "region": "España",
+        "independent": true,
+        "section": "Tenis",
+        "published_at": "2026-11-03T18:55:00+00:00",
+        "excerpt": "Explicamos los detalles y aspectos más importantes a tener en cuenta de cara al debut de Carlos Alcaraz en el ATP París 2026 contra Alex Michelsen.",
+        "coverage": [
+          "Punto de Break"
+        ],
+        "score": 8.603,
+        "id": "db0e6b27c203b5e6",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:18.037786+00:00"
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Grupo ICE consolida inversiones por más de $1.740 millones en generación y avanza hacia la red móvil 5G",
+        "url": "https://delfino.cr/2026/11/grupo-ice-consolida-inversiones-por-mas-de-1740-millones-en-generacion-y-avanza-hacia-la-red-movil-5g",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-04T00:39:34+00:00",
+        "excerpt": "La corporación estatal impulsa la recuperación de su capacidad constructora con un portafolio que combina nuevas plantas renovables, electrificación rural y la iluminación inteligente de la Ruta 32.",
+        "coverage": [
+          "Delfino.cr"
+        ],
+        "score": 9.56,
+        "id": "8506660a054d5a17",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:18.290361+00:00"
+      },
+      {
+        "title": "Roborock adelanta el Black Friday en El Corte Inglés con fuertes rebajas en robots aspiradores",
+        "url": "https://hipertextual.com/tecnologia/roborock-black-friday-el-corte-ingles-ofertas-aspiradores",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-03T18:58:00+00:00",
+        "excerpt": "Roborock decidió adelantarse al Black Friday y anunció una serie de ofertas en El Corte Inglés que estarán disponibles hasta el 30 de noviembre. La campaña incluye rebajas en algunos de sus robots…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 8.611,
+        "id": "2627bdee3f076a26",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:04.823812+00:00"
+      },
+      {
+        "title": "Apple aún no sabe cuándo tendrá suficientes iPhone Duo para todos sus compradores",
+        "url": "https://hipertextual.com/apple/iphone-duo-dudas-disponibilidad-john-ternus",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-03T16:12:23+00:00",
+        "excerpt": "Con la demanda del iPhone Duo superando con amplitud la cantidad de unidades disponibles para la venta, Apple se está moviendo rápido para tratar de mitigar esa escasez. Sin embargo, aún no sabe…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 8.151,
+        "id": "205f91ec1c4cafda",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:18.266001+00:00"
+      },
+      {
+        "title": "Tu TV box con Android podría traer malware de fábrica: Google desactiva una puerta trasera en millones de…",
+        "url": "https://hipertextual.com/seguridad/tv-box-android-videostrong-malware-botnet",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-03T14:00:54+00:00",
+        "excerpt": "Mucho ojo si tienes un TV box con Android en tu casa. Google descubrió que un fabricante de dispositivos certificados con Android TV y Google TV instaló una puerta trasera que se usó para distribuir…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 7.786,
+        "id": "cf271700f7e488f0",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:18.439762+00:00"
+      },
+      {
+        "title": "Apple pulveriza récords y alcanza los 132.175 millones de beneficio bajo la batuta de su nuevo jefe",
+        "url": "https://www.eldiario.es/tecnologia/apple-pulveriza-records-alcanza-132-175-millones-beneficio-batuta-nuevo-jefe_1_13633006.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-03T09:20:58+00:00",
+        "excerpt": "Las ventas del iPhone impulsan al fabricante de la manzana a su mejor año histórico a pesar de la subida de precio de componentes como la memoria El “afable ingeniero” John Ternus, un perfil…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 7.009,
+        "id": "411ef82528a27e3b",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:18.680607+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "title": "El costo invisible de la Inteligencia Artificial",
+        "url": "https://www.eldiarioar.com/opinion/costo-invisible-inteligencia-artificial_129_13633852.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "IA",
+        "published_at": "2026-11-03T12:07:04+00:00",
+        "excerpt": "Lejos del debate sobre una burbuja, los balances de las Siete Magníficas muestran un cambio más silencioso: empresas que invierten más de lo que generan y cubren la diferencia con deuda. Hacia fines…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 7.47,
+        "id": "b15e2af64195489f",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:18.955161+00:00"
+      },
+      {
+        "title": "Gonçalo M. Tavares, premio Formentor 2026: \"La inteligencia artificial está pensada para contentar a los…",
+        "url": "https://www.eldiario.es/illes-balears/cultura/goncalo-m-tavares-premio-formentor-2026-inteligencia-artificial-pensada-contentar-perezosos_1_13631842.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "IA",
+        "published_at": "2026-11-02T21:07:16+00:00",
+        "excerpt": "El autor de la tetralogía 'El reino' nació en Angola cuando el país africano era todavía una colonia y creció en el Portugal posterior a la Revolución de los Claveles, un tiempo en el que fue…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 4.97,
+        "id": "e6e433fe06fb9b27",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:19.194947+00:00"
+      },
+      {
+        "title": "Olvídate de usar Claude Code para clonar tus juegos favoritos: Anthropic cambia las reglas por la piratería",
+        "url": "https://hipertextual.com/inteligencia-artificial/olvidate-de-usar-claude-code-para-clonar-tus-juegos-favoritos",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "IA",
+        "published_at": "2026-11-02T20:23:57+00:00",
+        "excerpt": "Si pensabas pedirle a Claude Code que te ayude a crear tu propio GTA 6 sin saber programar y sin gastar miles de millones de dólares, ve pensando en una idea mejor. Anthropic ha cambiado las reglas…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 4.85,
+        "id": "faa76cb96f5a58c5",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:19.012103+00:00"
+      },
+      {
+        "title": "Google recibe un revés ante el TJUE por el uso de noticias en Gemini y los medios ganan terreno para…",
+        "url": "https://www.xataka.com/robotica-e-ia/google-recibe-reves-tjue-uso-noticias-gemini-medios-ganan-terreno-para-reclamar-compensaciones",
+        "outlet": "Xataka",
+        "region": "España",
+        "independent": false,
+        "section": "IA",
+        "published_at": "2026-11-03T19:25:52+00:00",
+        "excerpt": "Una noticia puede llegar a millones de personas sin que todas ellas visiten el medio que la publicó. Durante años, los buscadores han servido como intermediarios entre quienes producen información y…",
+        "coverage": [
+          "Xataka"
+        ],
+        "score": 4.689,
+        "id": "1eb63dc776f89fb7",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:19.435085+00:00"
+      },
+      {
+        "title": "La salida a bolsa de Anthropic conseguirá algo tan poco habitual como que el 80% de su plantilla se haga…",
+        "url": "https://www.xataka.com/empresas-y-economia/salida-a-bolsa-anthropic-conseguira-algo-poco-habitual-como-que-80-su-plantilla-se-haga-millonaria",
+        "outlet": "Xataka",
+        "region": "España",
+        "independent": false,
+        "section": "IA",
+        "published_at": "2026-11-03T17:47:31+00:00",
+        "excerpt": "2026 está siendo un año de infarto para los gestores de fondos, no solo por el nivel de beneficios que está reportando a los inversores las cotizaciones estratosféricas de las grandes tecnológicas…",
+        "coverage": [
+          "Xataka"
+        ],
+        "score": 4.416,
+        "id": "088d58acc4b6aa87",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:19.462977+00:00"
+      },
+      {
+        "title": "Anthropic ya ingresa 17.000 millones al trimestre. Su factura de computación es más de 50 veces mayor",
+        "url": "https://www.xataka.com/empresas-y-economia/anthropic-ingresa-17-000-millones-al-trimestre-su-factura-computacion-50-veces-mayor",
+        "outlet": "Xataka",
+        "region": "España",
+        "independent": false,
+        "section": "IA",
+        "published_at": "2026-11-03T15:15:28+00:00",
+        "excerpt": "Anthropic, la empresa de Claude , ha desvelado sus resultados del tercer trimestre a pocas semanas de salir a bolsa . Ha ingresado 17.000 millones de dólares y acumula compromisos de gasto por unos…",
+        "coverage": [
+          "Xataka"
+        ],
+        "score": 3.993,
+        "id": "4fe5a79db15088c4",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:19.443968+00:00"
+      }
+    ],
+    "Viajes": [
+      {
+        "title": "Qué ver en Estrasburgo: 10 lugares imprescindibles que visitar",
+        "url": "https://www.viajablog.com/que-ver-en-estrasburgo",
+        "outlet": "Viajablog",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-03T12:52:16+00:00",
+        "excerpt": "Estrasburgo es una de las escapadas urbanas más interesantes de Francia. Su centro histórico, atravesado por canales y salpicado de […] La entrada Qué ver en Estrasburgo: 10 lugares imprescindibles…",
+        "coverage": [
+          "El Pachinko",
+          "Viajablog"
+        ],
+        "score": 9.595,
+        "id": "3e50c86d424a20bb",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:06.047767+00:00"
+      },
+      {
+        "title": "Curridabat presenta ruta de 22 kilómetros y 41 paradas para conectar sus cuatro distritos",
+        "url": "https://delfino.cr/2026/11/curridabat-presenta-ruta-de-22-kilometros-y-41-paradas-para-conectar-sus-cuatro-distritos",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-03T23:46:38+00:00",
+        "excerpt": "El proyecto Conexión Curridabat permanece a la espera de aprobación del Consejo de Transporte Público. La Municipalidad realizó en octubre una prueba piloto con un autobús eléctrico.",
+        "coverage": [
+          "Delfino.cr"
+        ],
+        "score": 9.413,
+        "id": "baa9c6eacea65667",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:19.859655+00:00"
+      },
+      {
+        "title": "Comunidades de Santa Teresa y Malpaís piden frenar construcción de gasolinera a 150 metros de Playa Carmen",
+        "url": "https://delfino.cr/2026/11/comunidades-de-santa-teresa-y-malpais-piden-frenar-construccion-de-gasolinera-a-150-metros-de-playa-carmen",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-03T23:37:02+00:00",
+        "excerpt": "Organizaciones vecinales advierten sobre posibles riesgos para los acuíferos, los ecosistemas marinos y la fauna silvestre. Solicitan estudios independientes y participación ciudadana antes de que…",
+        "coverage": [
+          "Delfino.cr"
+        ],
+        "score": 9.386,
+        "id": "6e76fe8567d23f67",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:19.844767+00:00"
+      },
+      {
+        "title": "Daniela Hernández asumió la presidencia de la Asociación Turística de Colonia y apuesta a profundizar el…",
+        "url": "https://ladiaria.com.uy/colonia/articulo/2026/11/daniela-hernandez-asumio-la-presidencia-de-la-asociacion-turistica-de-colonia-y-apuesta-a-profundizar-el-turismo-departamental",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-03T19:06:00+00:00",
+        "excerpt": "La nueva titular sucede a Andrés Castellano, que estuvo seis años al frente de la institución. La Asociación Turística del Departamento de Colonia (ATDC) renovó sus autoridades para el período…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 8.634,
+        "id": "098b521a317c6212",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:20.161185+00:00"
+      },
+      {
+        "title": "Los mejores lugares donde alojarse en los Picos de Europa",
+        "url": "https://www.viajablog.com/donde-alojarse-en-picos-de-europa",
+        "outlet": "Viajablog",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-03T18:32:09+00:00",
+        "excerpt": "Repartidos entre Asturias, Cantabria y Castilla y León, los Picos de Europa forman uno de los paisajes de montaña más […] La entrada Los mejores lugares donde alojarse en los Picos de Europa se…",
+        "coverage": [
+          "Viajablog"
+        ],
+        "score": 8.54,
+        "id": "ee78c7d3de2603d7",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:05.508780+00:00"
+      },
+      {
+        "title": "Dónde alojarse en el Valle de Baztán: mejores zonas y alojamientos",
+        "url": "https://www.viajablog.com/donde-alojarse-valle-de-batzan",
+        "outlet": "Viajablog",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-03T18:08:33+00:00",
+        "excerpt": "Elegir dónde alojarse en el Valle de Baztán depende bastante del tipo de escapada que tengas en mente. No es […] La entrada Dónde alojarse en el Valle de Baztán: mejores zonas y alojamientos se…",
+        "coverage": [
+          "Viajablog"
+        ],
+        "score": 8.474,
+        "id": "7a7068a9a4b94e6a",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T03:18:05.420236+00:00"
+      }
+    ]
+  },
+  "resumen": [
+    "Resultados de las 'midterms' en EE.UU.: el mapa de quién gana las elecciones en cada estado (elDiarioAR).",
+    "Trump anunció que terminará con la ayuda anual de 4.000 millones de dólares para Israel (la diaria).",
+    "Dos extensas sesiones en Plenario y presupuesto 2027 sigue sin votarse en primer debate (El Observador CR).",
+    "Óscar Puente anuncia su dimisión como ministro y su renuncia a ir en las listas el 29N (elDiario.es)."
+  ],
+  "resumen_method": "extractivo",
+  "counts": {
+    "total": 53,
+    "lead": 1,
+    "destacadas": 5,
+    "sections": {
+      "Política": 6,
+      "Economía": 6,
+      "Fútbol": 6,
+      "Básquetbol": 6,
+      "Tenis": 6,
+      "Tech": 5,
+      "IA": 6,
+      "Viajes": 6
+    },
+    "independent": 50,
+    "images": 6,
+    "regions": {
+      "Argentina": 4,
+      "Uruguay": 12,
+      "Costa Rica": 8,
+      "España": 20,
+      "Mundo": 9
+    }
+  },
+  "feed_status": [
+    {
+      "outlet": "elDiarioAR",
+      "rss": "https://www.eldiarioar.com/rss/",
+      "status": 200,
+      "recent_items": 14,
+      "note": null,
+      "final_url": "https://www.eldiarioar.com/rss/"
+    },
+    {
+      "outlet": "Cenital",
+      "rss": "https://cenital.com/feed/",
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://cenital.com/feed/"
+    },
+    {
+      "outlet": "Revista Anfibia",
+      "rss": "https://www.revistaanfibia.com/feed/",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://www.revistaanfibia.com/feed/"
+    },
+    {
+      "outlet": "Chequeado",
+      "rss": "https://chequeado.com/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://chequeado.com/feed/"
+    },
+    {
+      "outlet": "la diaria",
+      "rss": "https://ladiaria.com.uy/feeds/articulos/",
+      "status": 200,
+      "recent_items": 38,
+      "note": null,
+      "final_url": "https://ladiaria.com.uy/feeds/articulos/"
+    },
+    {
+      "outlet": "Montevideo Portal",
+      "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
+      "status": 200,
+      "recent_items": 15,
+      "note": null,
+      "final_url": "https://www.montevideo.com.uy/anxml.aspx?58"
+    },
+    {
+      "outlet": "Delfino.cr",
+      "rss": "https://delfino.cr/feed",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://delfino.cr/feed"
+    },
+    {
+      "outlet": "Semanario Universidad",
+      "rss": "https://semanariouniversidad.com/feed/",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://semanariouniversidad.com/feed/"
+    },
+    {
+      "outlet": "El Observador CR",
+      "rss": "https://observador.cr/feed/",
+      "status": 200,
+      "recent_items": 4,
+      "note": null,
+      "final_url": "https://observador.cr/feed/"
+    },
+    {
+      "outlet": "elDiario.es",
+      "rss": "https://www.eldiario.es/rss/",
+      "status": 200,
+      "recent_items": 36,
+      "note": null,
+      "final_url": "https://www.eldiario.es/rss/"
+    },
+    {
+      "outlet": "El Confidencial",
+      "rss": "https://rss.elconfidencial.com/espana/",
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://rss.elconfidencial.com/espana/"
+    },
+    {
+      "outlet": "infoLibre",
+      "rss": "https://www.infolibre.es/rss/",
+      "status": 200,
+      "recent_items": 6,
+      "note": null,
+      "final_url": "https://www.infolibre.es/rss/"
+    },
+    {
+      "outlet": "Xataka",
+      "rss": "https://www.xataka.com/index.xml",
+      "status": 200,
+      "recent_items": 11,
+      "note": null,
+      "final_url": "https://www.xataka.com/feedburner.xml"
+    },
+    {
+      "outlet": "Genbeta",
+      "rss": "https://www.genbeta.com/index.xml",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.genbeta.com/feedburner.xml"
+    },
+    {
+      "outlet": "BBC Mundo",
+      "rss": "https://feeds.bbci.co.uk/mundo/rss.xml",
+      "status": 200,
+      "recent_items": 9,
+      "note": null,
+      "final_url": "https://feeds.bbci.co.uk/mundo/rss.xml"
+    },
+    {
+      "outlet": "DW español",
+      "rss": "https://rss.dw.com/rdf/rss-sp-all",
+      "status": 200,
+      "recent_items": 6,
+      "note": null,
+      "final_url": "https://rss.dw.com/rdf/rss-sp-all"
+    },
+    {
+      "outlet": "France24 español",
+      "rss": "https://www.france24.com/es/rss",
+      "status": 200,
+      "recent_items": 16,
+      "note": null,
+      "final_url": "https://www.france24.com/es/rss"
+    },
+    {
+      "outlet": "Agencia Pública",
+      "rss": "https://apublica.org/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": "Feed verificado, excluido de la edición por idioma: pt-BR",
+      "final_url": "https://apublica.org/feed/"
+    },
+    {
+      "outlet": "Olé",
+      "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
+      "status": 200,
+      "recent_items": 8,
+      "note": null,
+      "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/"
+    },
+    {
+      "outlet": "ESPN",
+      "rss": "https://www.espn.com/espn/rss/news?section=deportes",
+      "status": 200,
+      "recent_items": 0,
+      "note": "Feed verificado, excluido de la edición por idioma: en",
+      "final_url": "https://www.espn.com/espn/rss/news?section=deportes"
+    },
+    {
+      "outlet": "Marca",
+      "rss": "https://e00-marca.uecdn.es/rss/portada.xml",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://e00-xlk-ue-marca.uecdn.es/rss/googlenews/portada.xml"
+    },
+    {
+      "outlet": "Gigantes del Basket",
+      "rss": "https://www.gigantes.com/feed/",
+      "status": 200,
+      "recent_items": 10,
+      "note": null,
+      "final_url": "https://www.gigantes.com/feed/"
+    },
+    {
+      "outlet": "Punto de Break",
+      "rss": "https://www.puntodebreak.com/rss.xml",
+      "status": 200,
+      "recent_items": 10,
+      "note": null,
+      "final_url": "https://www.puntodebreak.com/rss.xml"
+    },
+    {
+      "outlet": "Lonely Planet ES",
+      "rss": "https://www.lonelyplanet.es/rss.xml",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.lonelyplanet.es/rss.xml"
+    },
+    {
+      "outlet": "Viajeros Callejeros",
+      "rss": "https://www.viajeroscallejeros.com/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.viajeroscallejeros.com/feed/"
+    },
+    {
+      "outlet": "Hipertextual",
+      "rss": "https://hipertextual.com/feed",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://hipertextual.com/feed/"
+    },
+    {
+      "outlet": "Microsiervos",
+      "rss": "https://www.microsiervos.com/index.xml",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://www.microsiervos.com/index.xml"
+    },
+    {
+      "outlet": "Solo Basket",
+      "rss": "https://www.solobasket.com/rss.xml",
+      "status": 200,
+      "recent_items": 8,
+      "note": null,
+      "final_url": "https://www.solobasket.com/feed"
+    },
+    {
+      "outlet": "elDiario.es Viajes",
+      "rss": "https://www.eldiario.es/rss/viajes/",
+      "status": 200,
+      "recent_items": 3,
+      "note": null,
+      "final_url": "https://www.eldiario.es/rss/viajes/"
+    },
+    {
+      "outlet": "Viajablog",
+      "rss": "https://www.viajablog.com/feed/",
+      "status": 200,
+      "recent_items": 9,
+      "note": null,
+      "final_url": "https://www.viajablog.com/feed/"
+    },
+    {
+      "outlet": "El Pachinko",
+      "rss": "https://www.elpachinko.com/feed/",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://queverentusviajes.com/feed"
+    },
+    {
+      "outlet": "Diario del Viajero",
+      "rss": "https://www.diariodelviajero.com/index.xml",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://www.diariodelviajero.com/feedburner.xml"
+    }
+  ],
+  "section_shortages": {}
+}

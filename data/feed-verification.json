@@ -1,0 +1,329 @@
+{
+  "checked_at": "2026-11-04T03:14:51.111369+00:00",
+  "results": [
+    {
+      "outlet": "elDiarioAR",
+      "rss": "https://www.eldiarioar.com/rss/",
+      "status": 200,
+      "entries": 97,
+      "final_url": "https://www.eldiarioar.com/rss/",
+      "content_type": "text/xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Cenital",
+      "rss": "https://cenital.com/feed/",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://cenital.com/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Revista Anfibia",
+      "rss": "https://www.revistaanfibia.com/feed/",
+      "status": 200,
+      "entries": 16,
+      "final_url": "https://www.revistaanfibia.com/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "El Destape",
+      "rss": "https://www.eldestapeweb.com/rss",
+      "error": "HTTP Error 404: Not Found",
+      "verified": false
+    },
+    {
+      "outlet": "Chequeado",
+      "rss": "https://chequeado.com/feed/",
+      "status": 200,
+      "entries": 50,
+      "final_url": "https://chequeado.com/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "la diaria",
+      "rss": "https://ladiaria.com.uy/feeds/articulos/",
+      "status": 200,
+      "entries": 361,
+      "final_url": "https://ladiaria.com.uy/feeds/articulos/",
+      "content_type": "application/rss+xml; charset=utf-8",
+      "verified": true
+    },
+    {
+      "outlet": "Sudestada",
+      "rss": "https://www.sudestada.com.uy/feed/",
+      "error": "unbound prefix: line 213, column 3",
+      "verified": false
+    },
+    {
+      "outlet": "Montevideo Portal",
+      "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
+      "status": 200,
+      "entries": 52,
+      "final_url": "https://www.montevideo.com.uy/anxml.aspx?58",
+      "content_type": "text/xml",
+      "verified": true
+    },
+    {
+      "outlet": "Delfino.cr",
+      "rss": "https://delfino.cr/feed",
+      "status": 200,
+      "entries": 21,
+      "final_url": "https://delfino.cr/feed",
+      "content_type": "application/rss+xml; charset=utf-8",
+      "verified": true
+    },
+    {
+      "outlet": "Semanario Universidad",
+      "rss": "https://semanariouniversidad.com/feed/",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://semanariouniversidad.com/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "El Observador CR",
+      "rss": "https://observador.cr/feed/",
+      "status": 200,
+      "entries": 12,
+      "final_url": "https://observador.cr/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "elDiario.es",
+      "rss": "https://www.eldiario.es/rss/",
+      "status": 200,
+      "entries": 120,
+      "final_url": "https://www.eldiario.es/rss/",
+      "content_type": "text/xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "El Confidencial",
+      "rss": "https://rss.elconfidencial.com/espana/",
+      "status": 200,
+      "entries": 15,
+      "final_url": "https://rss.elconfidencial.com/espana/",
+      "content_type": "text/xml, charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Público",
+      "rss": "https://www.publico.es/rss/",
+      "error": "HTTP Error 404: Not Found",
+      "verified": false
+    },
+    {
+      "outlet": "infoLibre",
+      "rss": "https://www.infolibre.es/rss/",
+      "status": 200,
+      "entries": 55,
+      "final_url": "https://www.infolibre.es/rss/",
+      "content_type": "text/xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Xataka",
+      "rss": "https://www.xataka.com/index.xml",
+      "status": 200,
+      "entries": 26,
+      "final_url": "https://www.xataka.com/feedburner.xml",
+      "content_type": "text/xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Genbeta",
+      "rss": "https://www.genbeta.com/index.xml",
+      "status": 200,
+      "entries": 16,
+      "final_url": "https://www.genbeta.com/feedburner.xml",
+      "content_type": "text/xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "BBC Mundo",
+      "rss": "https://feeds.bbci.co.uk/mundo/rss.xml",
+      "status": 200,
+      "entries": 34,
+      "final_url": "https://feeds.bbci.co.uk/mundo/rss.xml",
+      "content_type": "text/xml; charset=utf-8",
+      "verified": true
+    },
+    {
+      "outlet": "DW español",
+      "rss": "https://rss.dw.com/rdf/rss-sp-all",
+      "status": 200,
+      "entries": 21,
+      "final_url": "https://rss.dw.com/rdf/rss-sp-all",
+      "content_type": "text/xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "France24 español",
+      "rss": "https://www.france24.com/es/rss",
+      "status": 200,
+      "entries": 24,
+      "final_url": "https://www.france24.com/es/rss",
+      "content_type": "application/rss+xml; charset=utf-8",
+      "verified": true
+    },
+    {
+      "outlet": "Agencia Pública",
+      "rss": "https://apublica.org/feed/",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://apublica.org/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "El Faro",
+      "rss": "https://elfaro.net/es/rss.xml",
+      "error": "not well-formed (invalid token): line 8, column 76",
+      "verified": false
+    },
+    {
+      "outlet": "Olé",
+      "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/",
+      "content_type": "text/xml; charset=utf-8",
+      "verified": true
+    },
+    {
+      "outlet": "Ovación",
+      "rss": "https://www.elpais.com.uy/rss/ovacion",
+      "error": "HTTP Error 403: Forbidden",
+      "verified": false
+    },
+    {
+      "outlet": "ESPN",
+      "rss": "https://www.espn.com/espn/rss/news?section=deportes",
+      "status": 200,
+      "entries": 36,
+      "final_url": "https://www.espn.com/espn/rss/news?section=deportes",
+      "content_type": "text/xml;charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Marca",
+      "rss": "https://e00-marca.uecdn.es/rss/portada.xml",
+      "status": 200,
+      "entries": 95,
+      "final_url": "https://e00-xlk-ue-marca.uecdn.es/rss/googlenews/portada.xml",
+      "content_type": "text/xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Gigantes del Basket",
+      "rss": "https://www.gigantes.com/feed/",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://www.gigantes.com/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Punto de Break",
+      "rss": "https://www.puntodebreak.com/rss.xml",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://www.puntodebreak.com/rss.xml",
+      "content_type": "application/rss+xml; charset=utf-8",
+      "verified": true
+    },
+    {
+      "outlet": "Lonely Planet ES",
+      "rss": "https://www.lonelyplanet.es/rss.xml",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://www.lonelyplanet.es/rss.xml",
+      "content_type": "application/rss+xml; charset=utf-8",
+      "verified": true
+    },
+    {
+      "outlet": "Viajeros Callejeros",
+      "rss": "https://www.viajeroscallejeros.com/feed/",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://www.viajeroscallejeros.com/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Hipertextual",
+      "rss": "https://hipertextual.com/feed",
+      "status": 200,
+      "entries": 15,
+      "final_url": "https://hipertextual.com/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Microsiervos",
+      "rss": "https://www.microsiervos.com/index.xml",
+      "status": 200,
+      "entries": 15,
+      "final_url": "https://www.microsiervos.com/index.xml",
+      "content_type": "application/xml",
+      "verified": true
+    },
+    {
+      "outlet": "FutbolRed",
+      "rss": "https://www.futbolred.com/rss",
+      "error": "not well-formed (invalid token): line 5, column 280",
+      "verified": false
+    },
+    {
+      "outlet": "Solo Basket",
+      "rss": "https://www.solobasket.com/rss.xml",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://www.solobasket.com/feed",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "elDiario.es Viajes",
+      "rss": "https://www.eldiario.es/rss/viajes/",
+      "status": 200,
+      "entries": 51,
+      "final_url": "https://www.eldiario.es/rss/viajes/",
+      "content_type": "text/xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Viajablog",
+      "rss": "https://www.viajablog.com/feed/",
+      "status": 200,
+      "entries": 9,
+      "final_url": "https://www.viajablog.com/feed/",
+      "content_type": "text/xml;charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "El Pachinko",
+      "rss": "https://www.elpachinko.com/feed/",
+      "status": 200,
+      "entries": 10,
+      "final_url": "https://queverentusviajes.com/feed",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "verified": true
+    },
+    {
+      "outlet": "Diario del Viajero",
+      "rss": "https://www.diariodelviajero.com/index.xml",
+      "status": 200,
+      "entries": 20,
+      "final_url": "https://www.diariodelviajero.com/feedburner.xml",
+      "content_type": "text/xml; charset=UTF-8",
+      "verified": true
+    }
+  ]
+}

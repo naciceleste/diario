@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es-AR" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Diario Celeste: una selección diaria de noticias, con prioridad a las voces independientes. Argentina, Uruguay, Costa Rica, España y el mundo.">
+  <meta name="color-scheme" content="dark light">
+  <title>Diario Celeste — Diario online</title>
+  <script>try{document.documentElement.dataset.theme=localStorage.getItem('diario-theme')==='light'?'light':'dark'}catch(e){}</script>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="diario.js" defer></script>
+</head>
+<body data-page="diario">
+  <a class="skip" href="#contenido">Saltá al contenido</a>
+  <div class="paper">
+    <header>
+      <div class="utility"><a class="home-label" href="index.html"><span class="little-star" aria-hidden="true">✳</span> EL RINCÓN CELESTE <span class="utility-divider">/</span> DIARIO ONLINE</a><button class="theme-toggle" type="button" aria-label="Activar modo día"><span aria-hidden="true">☼</span> <span class="theme-label">Modo día</span></button></div>
+      <div class="masthead"><div class="masthead-aside">Una mirada amplia.<br>Un rato para leer.</div><a href="index.html" class="wordmark">Diario <em>Celeste</em><span aria-hidden="true">✳</span></a><div class="masthead-aside right">Voces independientes.<br>Horizontes compartidos.</div></div>
+      <div class="edition-line"><span id="edition-date">EDICIÓN DEL DÍA</span><span class="edition-center">HECHO PARA LEER CON CALMA</span><a href="archivo.html">Ediciones anteriores <span aria-hidden="true">↗</span></a></div>
+      <nav class="topic-nav" aria-label="Secciones"><a href="#politica">Política</a><a href="#economia">Economía</a><a href="#futbol">Fútbol</a><a href="#basquetbol">Básquetbol</a><a href="#tenis">Tenis</a><a href="#tech">Tech</a><a href="#ia">IA</a><a href="#viajes">Viajes</a></nav>
+    </header>
+    <main id="contenido">
+      <div class="edition-intro"><p><span class="live-dot" aria-hidden="true"></span> <span id="edition-status">Preparando la portada</span></p><span id="updated"></span></div>
+      <div id="archive-banner" class="notice" hidden></div>
+      <div id="stale-banner" class="notice" hidden></div>
+      <div id="loading" class="loading" role="status">Buscando la edición…</div>
+      <div id="news" hidden>
+        <div class="front-grid"><div id="lead"></div><aside class="sidebar"><section class="summary-box" aria-labelledby="summary-title"><div class="summary-top"><span>PARA PONERTE AL DÍA</span><span aria-hidden="true">✦</span></div><h2 id="summary-title">Resumen<br><em>del día</em></h2><ol id="summary"></ol><p id="summary-note" class="summary-note"></p></section><div class="editor-note"><span class="small-label">NUESTRA MIRADA</span><p>Más voces,<br><em>más perspectiva.</em></p><span>Priorizamos medios independientes. Vos elegís qué leer.</span><a href="fuentes.html">Conocé las fuentes <span aria-hidden="true">↗</span></a></div></aside></div>
+        <section class="featured-section" aria-labelledby="featured-title"><div class="section-heading"><h2 id="featured-title">También en portada</h2><span>LAS DESTACADAS</span></div><div id="featured" class="featured-grid"></div></section>
+        <div class="section-heading section-index"><h2>El diario, sección por sección</h2><span>SEGUÍ LEYENDO ↓</span></div>
+        <div id="sections" class="sections-grid"></div>
+        <section class="region-desk" aria-labelledby="regions-title"><div><span class="small-label">DE ACÁ Y DE ALLÁ</span><h2 id="regions-title">Una ventana a cada lugar.</h2></div><div class="region-browser"><div class="region-tabs" id="region-tabs" role="group" aria-label="Elegí una región"></div><div id="region-results" class="region-results" aria-live="polite"></div></div></section>
+      </div>
+      <noscript><p class="notice">Activá JavaScript para leer la edición. También podés consultar los <a href="data/diario.json">datos del diario</a>.</p></noscript>
+    </main>
+    <footer><a class="footer-brand" href="index.html">Diario <em>Celeste</em> <span aria-hidden="true">✳</span></a><p>Un diario online. Muchas miradas.<br><span>Los artículos y las imágenes pertenecen a sus medios de origen.</span></p><div><a href="fuentes.html">Fuentes y criterio editorial</a><a href="archivo.html">Archivo de ediciones ↗</a><a href="#">Volvé arriba ↑</a></div></footer>
+  </div>
+</body>
+</html>
