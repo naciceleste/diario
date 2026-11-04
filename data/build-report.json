@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-04T19:44:42.418161+00:00",
+  "at": "2026-11-04T20:20:47.135077+00:00",
   "feeds": [
     {
       "outlet": "elDiarioAR",
       "rss": "https://www.eldiarioar.com/rss/",
       "status": 200,
-      "recent_items": 22,
+      "recent_items": 23,
       "note": null,
       "final_url": "https://www.eldiarioar.com/rss/"
     },
@@ -37,7 +37,7 @@
       "outlet": "la diaria",
       "rss": "https://ladiaria.com.uy/feeds/articulos/",
       "status": 200,
-      "recent_items": 27,
+      "recent_items": 29,
       "note": null,
       "final_url": "https://ladiaria.com.uy/feeds/articulos/"
     },
@@ -45,7 +45,7 @@
       "outlet": "Montevideo Portal",
       "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
       "status": 200,
-      "recent_items": 15,
+      "recent_items": 13,
       "note": null,
       "final_url": "https://www.montevideo.com.uy/anxml.aspx?58"
     },
@@ -101,7 +101,7 @@
       "outlet": "Xataka",
       "rss": "https://www.xataka.com/index.xml",
       "status": 200,
-      "recent_items": 8,
+      "recent_items": 9,
       "note": null,
       "final_url": "https://www.xataka.com/feedburner.xml"
     },
@@ -149,7 +149,7 @@
       "outlet": "Olé",
       "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 6,
       "note": null,
       "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/"
     },
@@ -205,7 +205,7 @@
       "outlet": "Hipertextual",
       "rss": "https://hipertextual.com/feed",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://hipertextual.com/feed/"
     },
@@ -261,7 +261,7 @@
       "outlet": "Infobae",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 35,
+      "recent_items": 44,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -269,7 +269,7 @@
       "outlet": "La Nación",
       "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 22,
+      "recent_items": 24,
       "note": null,
       "final_url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -277,7 +277,7 @@
       "outlet": "Clarín",
       "rss": "https://www.clarin.com/rss/lo-ultimo/",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://www.clarin.com/rss/lo-ultimo/"
     },
@@ -285,7 +285,7 @@
       "outlet": "Perfil",
       "rss": "https://www.perfil.com/feed",
       "status": 200,
-      "recent_items": 16,
+      "recent_items": 15,
       "note": null,
       "final_url": "https://www.perfil.com/feed"
     },
@@ -293,7 +293,7 @@
       "outlet": "Infobae Deportes",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
       "status": 200,
-      "recent_items": 28,
+      "recent_items": 30,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"
     },
@@ -317,7 +317,7 @@
       "outlet": "El País",
       "rss": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
       "status": 200,
-      "recent_items": 57,
+      "recent_items": 55,
       "note": null,
       "final_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
     },
@@ -333,7 +333,7 @@
       "outlet": "Euronews en español",
       "rss": "https://es.euronews.com/rss",
       "status": 200,
-      "recent_items": 18,
+      "recent_items": 19,
       "note": null,
       "final_url": "https://es.euronews.com/rss"
     },
@@ -351,16 +351,6 @@
       "url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-archiva-querella-ceuta-1tps_4458859",
       "outlet": "El Confidencial",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "url": "https://elpais.com/economia/2026-11-04/la-inflacion-de-la-zona-euro-repunta-al-4-en-octubre-por-el-encarecimiento-de-la-energia.html",
-      "outlet": "El País",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "url": "https://www.montevideo.com.uy/auc.aspx",
-      "outlet": "Montevideo Portal",
-      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "https://perfil.com/deportes/manchester-city-con-enzo-fernandez-visita-al-leipzig-de-demichelis-seguilo-en-vivo-aGRME5S4UxYY",
@@ -386,7 +376,7 @@
   "section_shortages": {},
   "success": true,
   "counts": {
-    "total": 48,
+    "total": 49,
     "lead": 1,
     "destacadas": 5,
     "sections": {
@@ -394,17 +384,17 @@
       "Economía": 6,
       "Fútbol": 6,
       "Básquetbol": 6,
-      "Tenis": 4,
-      "Tech": 4,
-      "IA": 5,
-      "Viajes": 5
+      "Tenis": 5,
+      "Tech": 6,
+      "IA": 4,
+      "Viajes": 4
     },
     "independent": 35,
-    "images": 48,
+    "images": 49,
     "regions": {
       "Argentina": 15,
       "Uruguay": 8,
-      "Costa Rica": 7,
+      "Costa Rica": 8,
       "España": 10,
       "Mundo": 8
     }
