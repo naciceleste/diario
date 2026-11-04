@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-11-03",
-  "generated_at": "2026-11-04T03:17:54.254961+00:00",
+  "generated_at": "2026-11-04T03:20:34.251111+00:00",
   "timezone": "America/Costa_Rica",
   "window_hours": 36,
   "lead": {
@@ -17,11 +17,11 @@
       "elDiario.es",
       "elDiarioAR"
     ],
-    "score": 11.64,
+    "score": 11.632,
     "id": "b96353b152c4383d",
     "url_verified": true,
     "url_status": 200,
-    "url_checked_at": "2026-11-04T03:18:03.750828+00:00",
+    "url_checked_at": "2026-11-04T03:20:52.875968+00:00",
     "image": "assets/noticias/bc8c453a1d8c174a3740.jpg",
     "image_credit": "elDiarioAR"
   },
@@ -39,11 +39,11 @@
         "France24 español",
         "la diaria"
       ],
-      "score": 11.419,
+      "score": 11.411,
       "id": "ee42e82c6414c471",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T03:18:03.764048+00:00",
+      "url_checked_at": "2026-11-04T03:20:52.930193+00:00",
       "image": "assets/noticias/d20ab56c222cfb04d856.webp",
       "image_credit": "la diaria"
     },
@@ -59,11 +59,11 @@
       "coverage": [
         "El Observador CR"
       ],
-      "score": 9.946,
+      "score": 9.939,
       "id": "bc9e63b1e84d01df",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T03:18:03.233677+00:00",
+      "url_checked_at": "2026-11-04T03:20:52.485975+00:00",
       "image": "assets/noticias/882a0c59c9adc7e97aa2.webp",
       "image_credit": "El Observador CR"
     },
@@ -80,11 +80,11 @@
         "Xataka",
         "elDiario.es"
       ],
-      "score": 10.829,
+      "score": 10.821,
       "id": "20e2f60811d1b519",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T03:18:03.704851+00:00",
+      "url_checked_at": "2026-11-04T03:20:52.965060+00:00",
       "image": "assets/noticias/08804246ea91aad4d62d.jpg",
       "image_credit": "elDiario.es"
     },
@@ -101,11 +101,11 @@
         "El Pachinko",
         "Viajablog"
       ],
-      "score": 10.036,
+      "score": 10.028,
       "id": "5991a34008ace0f7",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T03:18:04.168194+00:00",
+      "url_checked_at": "2026-11-04T03:20:53.489224+00:00",
       "image": "assets/noticias/ce4d072c3d3b2140e3d2.jpg",
       "image_credit": "El Pachinko"
     },
@@ -121,11 +121,11 @@
       "coverage": [
         "Hipertextual"
       ],
-      "score": 9.388,
+      "score": 9.381,
       "id": "902c3011f880ae6a",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T03:18:04.445054+00:00",
+      "url_checked_at": "2026-11-04T03:20:53.504209+00:00",
       "image": "assets/noticias/2db7a01dcaa8228b74ec.jpg",
       "image_credit": "Hipertextual"
     }
@@ -145,11 +145,11 @@
           "BBC Mundo",
           "elDiarioAR"
         ],
-        "score": 11.241,
+        "score": 11.234,
         "id": "bebfe4794ce8143d",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:03.896142+00:00"
+        "url_checked_at": "2026-11-04T03:20:52.632409+00:00"
       },
       {
         "title": "Elecciones de medio periodo en EE.UU.: Primeras victorias demócratas alimentan la posibilidad de arrebatar a…",
@@ -163,11 +163,11 @@
         "coverage": [
           "El Observador CR"
         ],
-        "score": 9.914,
+        "score": 9.907,
         "id": "b8a479009de796e5",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:03.204091+00:00"
+        "url_checked_at": "2026-11-04T03:20:52.423972+00:00"
       },
       {
         "title": "Trump afirma que EEUU dejará de dar 4.000 millones de dólares anuales a Israel y venderá armas a Tel Aviv",
@@ -182,11 +182,11 @@
           "France24 español",
           "elDiario.es"
         ],
-        "score": 9.88,
+        "score": 9.872,
         "id": "eba10d9189018fb2",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:03.316210+00:00"
+        "url_checked_at": "2026-11-04T03:20:52.921896+00:00"
       },
       {
         "title": "Una caravana de migrantes en Honduras sale a EE.UU. en un día clave para Trump",
@@ -200,11 +200,11 @@
         "coverage": [
           "El Observador CR"
         ],
-        "score": 9.853,
+        "score": 9.846,
         "id": "89a719427e4a8383",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:03.216269+00:00"
+        "url_checked_at": "2026-11-04T03:20:52.379732+00:00"
       },
       {
         "title": "El presidente de la Comisión Departamental del Partido Nacional de Salto responde a planteo del bicentenario…",
@@ -218,11 +218,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.539,
+        "score": 9.532,
         "id": "84e090852c248d4d",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:06.710115+00:00"
+        "url_checked_at": "2026-11-04T03:20:59.268678+00:00"
       },
       {
         "title": "La Iglesia “debe hacer política en el sentido amplio de sentirse responsable del bien común”, consideró…",
@@ -236,11 +236,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.48,
+        "score": 9.473,
         "id": "7922127548b82438",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:06.574997+00:00"
+        "url_checked_at": "2026-11-04T03:20:58.983665+00:00"
       }
     ],
     "Economía": [
@@ -256,11 +256,11 @@
         "coverage": [
           "Delfino.cr"
         ],
-        "score": 9.788,
+        "score": 9.781,
         "id": "62fdf8221ffb6421",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:07.374562+00:00"
+        "url_checked_at": "2026-11-04T03:20:59.657609+00:00"
       },
       {
         "title": "Dragado del canal Martín García: sindicato rechazó propuesta de la empresa y presentó otra, pero hay “ganas…",
@@ -274,11 +274,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.524,
+        "score": 9.517,
         "id": "eb15435096fe3042",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:07.586180+00:00"
+        "url_checked_at": "2026-11-04T03:20:59.758119+00:00"
       },
       {
         "title": "En Paysandú el desempleo se ubicó en un 8% para el trimestre julio-setiembre",
@@ -292,11 +292,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.412,
+        "score": 9.404,
         "id": "092b2051d2ed25fe",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:07.654119+00:00"
+        "url_checked_at": "2026-11-04T03:21:00.111362+00:00"
       },
       {
         "title": "La economía de Salto sigue en retroceso, pese a señales de desaceleración de la caída empresarial",
@@ -310,11 +310,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.303,
+        "score": 9.295,
         "id": "91e6c546f1fbc974",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:07.457838+00:00"
+        "url_checked_at": "2026-11-04T03:20:59.918062+00:00"
       },
       {
         "title": "El riesgo país trepó a 829 puntos y el dólar alcanzó un nuevo récord",
@@ -328,11 +328,11 @@
         "coverage": [
           "elDiarioAR"
         ],
-        "score": 8.937,
+        "score": 8.93,
         "id": "cbd76112071a3c2a",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:07.467770+00:00"
+        "url_checked_at": "2026-11-04T03:21:00.079024+00:00"
       },
       {
         "title": "Sindicatos y organizaciones sociales de siete países reclaman una fuerte movilización coordinada en toda…",
@@ -346,11 +346,11 @@
         "coverage": [
           "elDiario.es"
         ],
-        "score": 8.66,
+        "score": 8.653,
         "id": "77f2cb405934e684",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:07.268750+00:00"
+        "url_checked_at": "2026-11-04T03:20:59.674786+00:00"
       }
     ],
     "Fútbol": [
@@ -367,11 +367,11 @@
           "DW español",
           "la diaria"
         ],
-        "score": 10.395,
+        "score": 10.387,
         "id": "2b017766d4d1fc18",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:08.396931+00:00"
+        "url_checked_at": "2026-11-04T03:21:00.766853+00:00"
       },
       {
         "title": "Con presencia uruguaya, arrancó otra fecha de la Champions League",
@@ -385,11 +385,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.585,
+        "score": 9.577,
         "id": "a9a0472a77294efa",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:08.316476+00:00"
+        "url_checked_at": "2026-11-04T03:21:00.730775+00:00"
       },
       {
         "title": "Muerte del jugador por golpe del portero: esto es lo que se sabe del caso que enluta al futbol español",
@@ -403,11 +403,11 @@
         "coverage": [
           "El Observador CR"
         ],
-        "score": 9.46,
+        "score": 9.453,
         "id": "983df4eb7c371b41",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:07.866021+00:00"
+        "url_checked_at": "2026-11-04T03:21:00.279643+00:00"
       },
       {
         "title": "Tras votación ajustada, se mantienen los descensos en la B",
@@ -421,11 +421,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.444,
+        "score": 9.436,
         "id": "45bada0be0a5bd7b",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:08.281202+00:00"
+        "url_checked_at": "2026-11-04T03:21:00.848833+00:00"
       },
       {
         "title": "Nacional enfrenta a Ferro Carril de Salto en el estadio Artigas de Paysandú",
@@ -439,11 +439,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.381,
+        "score": 9.373,
         "id": "2677767f7a3077f2",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:08.637553+00:00"
+        "url_checked_at": "2026-11-04T03:21:00.855305+00:00"
       },
       {
         "title": "Sudamericano sub 20: Colombia será la sede del torneo",
@@ -457,11 +457,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 8.012,
+        "score": 8.004,
         "id": "68015d7d0e4e59af",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:15.610084+00:00"
+        "url_checked_at": "2026-11-04T03:21:00.980444+00:00"
       }
     ],
     "Básquetbol": [
@@ -477,11 +477,11 @@
         "coverage": [
           "Gigantes del Basket"
         ],
-        "score": 8.997,
+        "score": 8.99,
         "id": "4071c4638ba51786",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:17.353965+00:00"
+        "url_checked_at": "2026-11-04T03:21:02.487333+00:00"
       },
       {
         "title": "40 años del día que cambió la historia del baloncesto español en la NBA: del debut de Fernando Martín al…",
@@ -495,11 +495,11 @@
         "coverage": [
           "elDiario.es"
         ],
-        "score": 8.923,
+        "score": 8.916,
         "id": "eaef83b5e8c1765d",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:15.967535+00:00"
+        "url_checked_at": "2026-11-04T03:21:01.599283+00:00"
       },
       {
         "title": "Las interesantes reflexiones de Giannis Antetokounmpo sobre Luka Doncic y su nivel",
@@ -513,11 +513,11 @@
         "coverage": [
           "Gigantes del Basket"
         ],
-        "score": 8.866,
+        "score": 8.858,
         "id": "de94130a3a873d56",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:17.160875+00:00"
+        "url_checked_at": "2026-11-04T03:21:02.653483+00:00"
       },
       {
         "title": "Cuarta jornada de la EuroLeague Women: ¡Valencia Basket asalta Estambul y Casademont Zaragoza hace lo propio…",
@@ -531,11 +531,11 @@
         "coverage": [
           "Gigantes del Basket"
         ],
-        "score": 8.789,
+        "score": 8.782,
         "id": "78fe612029633a18",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:17.290651+00:00"
+        "url_checked_at": "2026-11-04T03:21:02.722438+00:00"
       },
       {
         "title": "Jorge Sanz, el español de Mike Malone en North Carolina: “A esta gente no le gusta fallar”",
@@ -549,11 +549,11 @@
         "coverage": [
           "Solo Basket"
         ],
-        "score": 8.45,
+        "score": 8.443,
         "id": "e27f6c0d05999616",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:16.134156+00:00"
+        "url_checked_at": "2026-11-04T03:21:01.519968+00:00"
       },
       {
         "title": "El Kids&Us Manresa anuncia el segundo fichaje en 24 horas: Isaiah Mobley se suma a la pintura",
@@ -567,11 +567,11 @@
         "coverage": [
           "Gigantes del Basket"
         ],
-        "score": 8.403,
+        "score": 8.396,
         "id": "c869a92d8057bb7f",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:17.156308+00:00"
+        "url_checked_at": "2026-11-04T03:21:02.597520+00:00"
       }
     ],
     "Tenis": [
@@ -587,11 +587,11 @@
         "coverage": [
           "Punto de Break"
         ],
-        "score": 9.408,
+        "score": 9.401,
         "id": "109598b914898920",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:17.935960+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.367813+00:00"
       },
       {
         "title": "Michelsen promete batalla ante Alcaraz: \"Cuanto más rápida es la pista, mejor para mí\"",
@@ -605,11 +605,11 @@
         "coverage": [
           "Punto de Break"
         ],
-        "score": 9.209,
+        "score": 9.202,
         "id": "056ddd1c336dadd5",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:17.928698+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.279589+00:00"
       },
       {
         "title": "Shelton desvela cómo se forjó el fichaje de Juan Carlos Ferrero",
@@ -623,11 +623,11 @@
         "coverage": [
           "Punto de Break"
         ],
-        "score": 9.063,
+        "score": 9.055,
         "id": "efad8b2c266b3bcd",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:17.847421+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.389537+00:00"
       },
       {
         "title": "Ruud mete en un lío a Jódar",
@@ -641,11 +641,11 @@
         "coverage": [
           "Punto de Break"
         ],
-        "score": 9.017,
+        "score": 9.01,
         "id": "031d9fdc335b8590",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:17.785939+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.105800+00:00"
       },
       {
         "title": "Vacherot se rinde a Djokovic: \"Me llevó al límite\"",
@@ -659,11 +659,11 @@
         "coverage": [
           "Punto de Break"
         ],
-        "score": 8.669,
+        "score": 8.661,
         "id": "90b51806200cc6c3",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:18.013372+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.206805+00:00"
       },
       {
         "title": "A qué hora y dónde ver el debut de Alcaraz en París ante Michelsen",
@@ -677,11 +677,11 @@
         "coverage": [
           "Punto de Break"
         ],
-        "score": 8.603,
+        "score": 8.596,
         "id": "db0e6b27c203b5e6",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:18.037786+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.276643+00:00"
       }
     ],
     "Tech": [
@@ -697,11 +697,11 @@
         "coverage": [
           "Delfino.cr"
         ],
-        "score": 9.56,
+        "score": 9.553,
         "id": "8506660a054d5a17",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:18.290361+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.907851+00:00"
       },
       {
         "title": "Roborock adelanta el Black Friday en El Corte Inglés con fuertes rebajas en robots aspiradores",
@@ -715,11 +715,11 @@
         "coverage": [
           "Hipertextual"
         ],
-        "score": 8.611,
+        "score": 8.604,
         "id": "2627bdee3f076a26",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:04.823812+00:00"
+        "url_checked_at": "2026-11-04T03:20:53.438174+00:00"
       },
       {
         "title": "Apple aún no sabe cuándo tendrá suficientes iPhone Duo para todos sus compradores",
@@ -733,11 +733,11 @@
         "coverage": [
           "Hipertextual"
         ],
-        "score": 8.151,
+        "score": 8.144,
         "id": "205f91ec1c4cafda",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:18.266001+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.675533+00:00"
       },
       {
         "title": "Tu TV box con Android podría traer malware de fábrica: Google desactiva una puerta trasera en millones de…",
@@ -751,11 +751,11 @@
         "coverage": [
           "Hipertextual"
         ],
-        "score": 7.786,
+        "score": 7.779,
         "id": "cf271700f7e488f0",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:18.439762+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.874030+00:00"
       },
       {
         "title": "Apple pulveriza récords y alcanza los 132.175 millones de beneficio bajo la batuta de su nuevo jefe",
@@ -769,11 +769,11 @@
         "coverage": [
           "elDiario.es"
         ],
-        "score": 7.009,
+        "score": 7.001,
         "id": "411ef82528a27e3b",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:18.680607+00:00"
+        "url_checked_at": "2026-11-04T03:21:03.945618+00:00"
       }
     ],
     "IA": [
@@ -789,11 +789,11 @@
         "coverage": [
           "elDiarioAR"
         ],
-        "score": 7.47,
+        "score": 7.462,
         "id": "b15e2af64195489f",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:18.955161+00:00"
+        "url_checked_at": "2026-11-04T03:21:04.507937+00:00"
       },
       {
         "title": "Gonçalo M. Tavares, premio Formentor 2026: \"La inteligencia artificial está pensada para contentar a los…",
@@ -807,11 +807,11 @@
         "coverage": [
           "elDiario.es"
         ],
-        "score": 4.97,
+        "score": 4.963,
         "id": "e6e433fe06fb9b27",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:19.194947+00:00"
+        "url_checked_at": "2026-11-04T03:21:04.427919+00:00"
       },
       {
         "title": "Olvídate de usar Claude Code para clonar tus juegos favoritos: Anthropic cambia las reglas por la piratería",
@@ -825,11 +825,11 @@
         "coverage": [
           "Hipertextual"
         ],
-        "score": 4.85,
+        "score": 4.843,
         "id": "faa76cb96f5a58c5",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:19.012103+00:00"
+        "url_checked_at": "2026-11-04T03:21:04.205061+00:00"
       },
       {
         "title": "Google recibe un revés ante el TJUE por el uso de noticias en Gemini y los medios ganan terreno para…",
@@ -843,11 +843,11 @@
         "coverage": [
           "Xataka"
         ],
-        "score": 4.689,
+        "score": 4.681,
         "id": "1eb63dc776f89fb7",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:19.435085+00:00"
+        "url_checked_at": "2026-11-04T03:21:04.790055+00:00"
       },
       {
         "title": "La salida a bolsa de Anthropic conseguirá algo tan poco habitual como que el 80% de su plantilla se haga…",
@@ -861,11 +861,11 @@
         "coverage": [
           "Xataka"
         ],
-        "score": 4.416,
+        "score": 4.408,
         "id": "088d58acc4b6aa87",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:19.462977+00:00"
+        "url_checked_at": "2026-11-04T03:21:04.778992+00:00"
       },
       {
         "title": "Anthropic ya ingresa 17.000 millones al trimestre. Su factura de computación es más de 50 veces mayor",
@@ -879,11 +879,11 @@
         "coverage": [
           "Xataka"
         ],
-        "score": 3.993,
+        "score": 3.986,
         "id": "4fe5a79db15088c4",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:19.443968+00:00"
+        "url_checked_at": "2026-11-04T03:21:04.745124+00:00"
       }
     ],
     "Viajes": [
@@ -900,11 +900,11 @@
           "El Pachinko",
           "Viajablog"
         ],
-        "score": 9.595,
+        "score": 9.588,
         "id": "3e50c86d424a20bb",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:06.047767+00:00"
+        "url_checked_at": "2026-11-04T03:20:54.622203+00:00"
       },
       {
         "title": "Curridabat presenta ruta de 22 kilómetros y 41 paradas para conectar sus cuatro distritos",
@@ -918,11 +918,11 @@
         "coverage": [
           "Delfino.cr"
         ],
-        "score": 9.413,
+        "score": 9.406,
         "id": "baa9c6eacea65667",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:19.859655+00:00"
+        "url_checked_at": "2026-11-04T03:21:05.252286+00:00"
       },
       {
         "title": "Comunidades de Santa Teresa y Malpaís piden frenar construcción de gasolinera a 150 metros de Playa Carmen",
@@ -936,11 +936,11 @@
         "coverage": [
           "Delfino.cr"
         ],
-        "score": 9.386,
+        "score": 9.379,
         "id": "6e76fe8567d23f67",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:19.844767+00:00"
+        "url_checked_at": "2026-11-04T03:21:05.246137+00:00"
       },
       {
         "title": "Daniela Hernández asumió la presidencia de la Asociación Turística de Colonia y apuesta a profundizar el…",
@@ -954,11 +954,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 8.634,
+        "score": 8.626,
         "id": "098b521a317c6212",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:20.161185+00:00"
+        "url_checked_at": "2026-11-04T03:21:08.713176+00:00"
       },
       {
         "title": "Los mejores lugares donde alojarse en los Picos de Europa",
@@ -972,11 +972,11 @@
         "coverage": [
           "Viajablog"
         ],
-        "score": 8.54,
+        "score": 8.532,
         "id": "ee78c7d3de2603d7",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:05.508780+00:00"
+        "url_checked_at": "2026-11-04T03:20:54.582165+00:00"
       },
       {
         "title": "Dónde alojarse en el Valle de Baztán: mejores zonas y alojamientos",
@@ -990,11 +990,11 @@
         "coverage": [
           "Viajablog"
         ],
-        "score": 8.474,
+        "score": 8.467,
         "id": "7a7068a9a4b94e6a",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T03:18:05.420236+00:00"
+        "url_checked_at": "2026-11-04T03:20:54.337396+00:00"
       }
     ]
   },
@@ -1082,7 +1082,7 @@
       "outlet": "Delfino.cr",
       "rss": "https://delfino.cr/feed",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://delfino.cr/feed"
     },

@@ -6,6 +6,7 @@ import sys
 import tempfile
 import unittest
 from unittest.mock import patch
+import xml.etree.ElementTree as ET
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]/'scripts'))
 import build_diario as b
@@ -13,8 +14,12 @@ import build_diario as b
 NOW = datetime(2026,11,4,3,tzinfo=timezone.utc)
 SOURCE = dict(outlet='Prueba',region='Argentina',topics=['Política','Economía'],independent=True,rss='https://example.org/feed',verified=True)
 
-def item(title, outlet='A', independent=True, section='Política', index=0):
-    return dict(title=title,url=f'https://example.org/{outlet}/{index}',outlet=outlet,region='Argentina',independent=independent,section=section,published_at=NOW.isoformat(),excerpt='')
+def item(title, outlet='A', independent=True, section='Política', index=0, region='Argentina'):
+    return dict(title=title,url=f'https://example.org/{outlet}/{section}/{index}',outlet=outlet,region=region,independent=independent,section=section,published_at=NOW.isoformat(),excerpt='',image_src=None)
+
+def only_entry(xml):
+    root = ET.fromstring(xml)
+    return next(e for e in root.iter() if b.local_tag(e) in ('item','entry'))
 
 class BuildTests(unittest.TestCase):
     def test_dates_rss_atom_and_window(self):
@@ -67,6 +72,69 @@ class BuildTests(unittest.TestCase):
                 self.assertEqual(b.build(),1)
             self.assertEqual((root/'data/diario.json').read_bytes(),previous)
             self.assertFalse((root/'data/archivo').exists())
+
+    def test_feed_image_extraction_order(self):
+        media = '<rss xmlns:media="http://search.yahoo.com/mrss/"><channel><item><title>t</title>'\
+                '<media:thumbnail url="img/thumb.jpg"/>'\
+                '<media:content medium="image" url="https://cdn.example.org/big.jpg"/>'\
+                '</item></channel></rss>'
+        self.assertEqual(b.feed_image(only_entry(media), 'https://example.org/n/'), 'https://example.org/n/img/thumb.jpg')
+        content = '<rss xmlns:media="http://search.yahoo.com/mrss/"><channel><item><title>t</title>'\
+                  '<media:content medium="video" url="https://cdn.example.org/clip.mp4"/>'\
+                  '<media:content type="image/jpeg" url="https://cdn.example.org/photo.jpg"/>'\
+                  '</item></channel></rss>'
+        self.assertEqual(b.feed_image(only_entry(content), 'https://example.org/n/'), 'https://cdn.example.org/photo.jpg')
+        enclosure = '<rss><channel><item><title>t</title><enclosure url="https://cdn.example.org/e.png" type="image/png"/></item></channel></rss>'
+        self.assertEqual(b.feed_image(only_entry(enclosure), 'https://example.org/n/'), 'https://cdn.example.org/e.png')
+        html = '<rss><channel><item><title>t</title><description>&lt;p&gt;Hola &lt;img src="/media/foto.webp"&gt;&lt;/p&gt;</description></item></channel></rss>'
+        self.assertEqual(b.feed_image(only_entry(html), 'https://example.org/n/'), 'https://example.org/media/foto.webp')
+        atom = '<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>t</title><content type="html">sin imagen</content></entry></feed>'
+        self.assertIsNone(b.feed_image(only_entry(atom), 'https://example.org/n/'))
+
+    def test_feed_image_populated_by_parse(self):
+        xml = '<rss xmlns:media="http://search.yahoo.com/mrss/"><channel><item>'\
+              '<title>El gobierno anuncia elecciones</title><link>https://example.org/hoy</link>'\
+              '<pubDate>Tue, 03 Nov 2026 22:00:00 -0300</pubDate>'\
+              '<media:thumbnail url="https://cdn.example.org/x.jpg"/></item></channel></rss>'
+        articles, _ = b.parse_feed(xml.encode(), SOURCE, NOW)
+        self.assertEqual(articles[0]['image_src'], 'https://cdn.example.org/x.jpg')
+
+    def test_select_caps_region_and_section(self):
+        import random
+        rng = random.Random(1234)
+        vocab = [a + v + c + v2 for a in 'bcdfgp' for v in 'aeiou' for c in 'lmnrst' for v2 in 'aeiou']
+        articles = []
+        n = 0
+        # Each title is five distinct words so dedupe keeps every story separate;
+        # both regions then supply far more than their cap across every section, so
+        # the per-region caps (not the section pools) decide the final balance.
+        def title(k):
+            return ' '.join(rng.sample(vocab, 5))
+        for section in b.SECTIONS:
+            for region in ('Argentina', 'España'):
+                for i in range(6):
+                    n += 1
+                    articles.append(item(title(n), outlet=f'{region[:2]}{n}',
+                                         independent=(i % 2 == 0), section=section, index=n, region=region))
+        for region in ('Uruguay', 'Costa Rica', 'Mundo'):
+            for i in range(2):
+                n += 1
+                articles.append(item(title(n), outlet=f'{region[:2]}{n}',
+                                     independent=True, section='Política', index=n, region=region))
+        ranked = b.dedupe_rank(articles, NOW)
+        with patch.object(b, 'verify_article', lambda it: (dict(it, url_verified=True, url_status=200), None)):
+            lead, featured, sections, _ = b.select(ranked)
+        edition = [lead, *featured, *(a for g in sections.values() for a in g)]
+        counts = {r: sum(a['region'] == r for a in edition) for r in b.REGIONS}
+        # España offered 24 verifiable stories but is held at or under its cap.
+        self.assertLessEqual(counts['España'], b.REGION_CAPS['España'])
+        self.assertLess(counts['España'], 24)
+        self.assertLessEqual(counts['Argentina'], b.REGION_CAPS['Argentina'])
+        self.assertGreater(counts['Argentina'], counts['España'])  # Argentina keeps a strong presence
+        for topic, group in sections.items():
+            for region in b.REGIONS:
+                self.assertLessEqual(sum(a['region'] == region for a in group), b.SECTION_REGION_CAP, f'{topic}/{region}')
+        self.assertEqual(len({a['id'] for a in edition}), len(edition))  # no duplicates across the edition
 
     def test_optional_summary_falls_back(self):
         articles=[item('Titular '+str(n)) for n in range(4)]

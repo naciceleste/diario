@@ -28,7 +28,7 @@
       "Política"
     ],
     "rss": "https://www.revistaanfibia.com/feed/",
-    "independent": false,
+    "independent": true,
     "verified": true
   },
   {
@@ -409,6 +409,207 @@
       "Viajes"
     ],
     "rss": "https://www.diariodelviajero.com/index.xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Infobae",
+    "region": "Argentina",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "La Nación",
+    "region": "Argentina",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Clarín",
+    "region": "Argentina",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.clarin.com/rss/lo-ultimo/",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Perfil",
+    "region": "Argentina",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.perfil.com/feed",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "Página/12",
+    "region": "Argentina",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.pagina12.com.ar/rss/portada",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "Infobae Deportes",
+    "region": "Argentina",
+    "topics": [
+      "Fútbol",
+      "Básquetbol",
+      "Tenis"
+    ],
+    "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "TyC Sports",
+    "region": "Argentina",
+    "topics": [
+      "Fútbol",
+      "Básquetbol",
+      "Tenis"
+    ],
+    "rss": "https://www.tycsports.com/rss.xml",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "El País UY",
+    "region": "Uruguay",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.elpais.com.uy/rss/",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "El Observador UY",
+    "region": "Uruguay",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.elobservador.com.uy/rss/home.xml",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "Montevideo Deportes",
+    "region": "Uruguay",
+    "topics": [
+      "Fútbol",
+      "Básquetbol",
+      "Tenis"
+    ],
+    "rss": "https://www.montevideo.com.uy/anxml.aspx?59",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "La Nación CR",
+    "region": "Costa Rica",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "CRHoy",
+    "region": "Costa Rica",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.crhoy.com/feed/",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "Teletica",
+    "region": "Costa Rica",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://www.teletica.com/rss/",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "El País",
+    "region": "España",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "RTVE",
+    "region": "España",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://api2.rtve.es/rss/temas_noticias.xml",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "CNN en Español",
+    "region": "Mundo",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://cnnespanol.cnn.com/feed/",
+    "independent": false,
+    "verified": false
+  },
+  {
+    "outlet": "Euronews en español",
+    "region": "Mundo",
+    "topics": [
+      "Política",
+      "Economía"
+    ],
+    "rss": "https://es.euronews.com/rss",
+    "independent": false,
+    "verified": true
+  },
+  {
+    "outlet": "MIT Technology Review en español",
+    "region": "Mundo",
+    "topics": [
+      "Tech",
+      "IA"
+    ],
+    "rss": "https://www.technologyreview.es/rss",
     "independent": false,
     "verified": true
   }

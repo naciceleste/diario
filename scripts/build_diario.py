@@ -34,6 +34,10 @@ HOURS = 36
 TIMEOUT = 10
 WORKERS = 12
 MIN_ITEMS = 20
+# Keep one region from flooding the edition: España is held back and Argentina
+# is given headroom, while the smaller regions are left effectively uncapped.
+REGION_CAPS = {'Argentina': 15, 'Uruguay': 8, 'Costa Rica': 8, 'España': 10, 'Mundo': 12}
+SECTION_REGION_CAP = 3  # At most this many stories from one region inside a single section.
 # Matching uses whole words; categories are hints, never a blanket assignment.
 HINTS = {
     'Política': 'politica gobierno presidente presidenta elecciones electoral congreso senado diputado diputados ministra ministro ministerio defensa justicia judicial guerra parlamento trump milei sanchez orsi bukele legislativo fiscalia democracia derechos',
@@ -130,6 +134,37 @@ def field(element, names):
     return next((''.join(e.itertext()).strip() for e in element if local_tag(e) in names and ''.join(e.itertext()).strip()), '')
 
 
+IMAGE_EXT = re.compile(r'\.(?:jpe?g|png|webp|gif)(?:[?#]|$)', re.I)
+
+
+def feed_image(entry, base):
+    """Best image the feed itself offers, before any article page is fetched."""
+    # media:content / media:thumbnail (RSS media module).
+    for e in entry.iter():
+        tag = local_tag(e)
+        url = e.get('url', '')
+        if not url:
+            continue
+        if tag == 'thumbnail':
+            return urljoin(base, url)
+        if tag == 'content':  # may be an Atom body element too; require an image hint.
+            medium, mime = e.get('medium', ''), e.get('type', '')
+            if medium == 'image' or mime.startswith('image/') or IMAGE_EXT.search(url):
+                return urljoin(base, url)
+    # enclosure (classic RSS attachment).
+    for e in entry.iter():
+        if local_tag(e) == 'enclosure':
+            url, mime = e.get('url', ''), e.get('type', '')
+            if url and (mime.startswith('image/') or IMAGE_EXT.search(url)):
+                return urljoin(base, url)
+    # First <img> inside the HTML body (content:encoded, description, summary).
+    blob = ' '.join(''.join(e.itertext()) for e in entry if local_tag(e) in ('encoded', 'description', 'summary', 'content'))
+    match = re.search(r'<img[^>]+\bsrc\s*=\s*["\']([^"\']+)["\']', blob, re.I)
+    if match:
+        return urljoin(base, unescape(match.group(1).strip()))
+    return None
+
+
 def classify(title, description, categories, feed_topics):
     # A dedicated sports/travel feed provides stronger evidence than a stray keyword.
     if len(feed_topics) == 1:
@@ -184,7 +219,8 @@ def parse_feed(raw, source, now):
         if section:
             items.append(dict(title=title, url=canonical(link), outlet=source['outlet'],
                               region=source['region'], independent=source['independent'], section=section,
-                              published_at=published.isoformat(), excerpt=shorten(description, 200)))
+                              published_at=published.isoformat(), excerpt=shorten(description, 200),
+                              image_src=feed_image(entry, link)))
     return items, None
 
 
@@ -242,29 +278,52 @@ def verify_article(item):
 def select(ranked):
     """Reserve a lead + five highlights, then 4–6 unique items per section.
 
-    Independent candidates are exhausted before filling shortages with fallback media.
+    Independent candidates are exhausted before filling shortages with fallback
+    media, and per-region caps keep any single region from flooding the edition.
     """
     checked, failures, rejected = {}, [], set()
-    def ensure(candidates, count, used):
-        eligible = [a for a in candidates if a['id'] not in used]
-        for independent in (True, False):
-            tier = [a for a in eligible if a['independent'] == independent]
-            for start in range(0, len(tier), 8):
-                available = [checked[a['id']] for a in eligible if a['id'] in checked]
-                primary = [a for a in available if a['independent']]
-                if (independent and len(primary) >= count) or (not independent and len(available) >= count):
-                    break
-                batch = [a for a in tier[start:start+8] if a['id'] not in checked and a['id'] not in rejected]
-                with futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
-                    for a, (ok, err) in zip(batch, pool.map(verify_article, batch)):
-                        if ok: checked[a['id']] = ok
-                        else:
-                            rejected.add(a['id']); failures.append(err)
-            if len([a for a in eligible if a['id'] in checked and a['independent']]) >= min(4, count):
+    region_used = {r: 0 for r in REGIONS}
+
+    def verify_pool(candidates, used, budget):
+        # Verify link-by-link in independent-first order until enough survive, so
+        # autonomous outlets are preferred for every slot and caps still have slack.
+        order = sorted((a for a in candidates if a['id'] not in used),
+                       key=lambda a: (not a['independent'], -a['score'], a['url']))
+        got = sum(1 for a in order if a['id'] in checked)
+        for start in range(0, len(order), 8):
+            if got >= budget:
                 break
-        return sorted([checked[a['id']] for a in eligible if a['id'] in checked], key=lambda a: (not a['independent'], -a['score'], a['url']))[:count]
+            batch = [a for a in order[start:start+8] if a['id'] not in checked and a['id'] not in rejected]
+            if not batch:
+                continue
+            with futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
+                for a, (ok, err) in zip(batch, pool.map(verify_article, batch)):
+                    if ok:
+                        checked[a['id']] = ok; got += 1
+                    else:
+                        rejected.add(a['id']); failures.append(err)
+        return [checked[a['id']] for a in order if a['id'] in checked]
+
+    def pick(candidates, count, used, per_region=SECTION_REGION_CAP):
+        if count <= 0:
+            return []
+        local = {}
+        chosen = []
+        # Over-verify so that cap skips do not starve a slot of fallback candidates.
+        for a in verify_pool(candidates, used, count * 3 + 2):
+            if len(chosen) >= count:
+                break
+            region = a['region']
+            if region_used[region] >= REGION_CAPS.get(region, count):
+                continue
+            if per_region is not None and local.get(region, 0) >= per_region:
+                continue
+            chosen.append(a); local[region] = local.get(region, 0) + 1
+            region_used[region] += 1  # update immediately so caps hold within this call too
+        return chosen
+
     used = set()
-    main = ensure([a for a in ranked if a['section'] in ('Política', 'Economía')], 1, used)
+    main = pick([a for a in ranked if a['section'] in ('Política', 'Economía')], 1, used)
     if not main:
         raise ValueError('No hay una apertura verificada')
     lead = main[0]; used.add(lead['id'])
@@ -273,15 +332,15 @@ def select(ranked):
     for region in REGIONS:
         if region == lead['region']: continue
         candidates = [a for a in ranked if a['region'] == region]
-        chosen = ensure(candidates, 1, used)
+        chosen = pick(candidates, 1, used, per_region=None)
         if chosen:
             featured.extend(chosen); used.add(chosen[0]['id'])
-    more = ensure([a for a in ranked if a['section'] in ('Tech', 'IA', 'Fútbol', 'Básquetbol', 'Tenis')], 5-len(featured), used)
+    more = pick([a for a in ranked if a['section'] in ('Tech', 'IA', 'Fútbol', 'Básquetbol', 'Tenis')], 5-len(featured), used)
     featured.extend(more); used.update(a['id'] for a in more)
     sections = {}
     for topic in SECTIONS:
         candidates = [a for a in ranked if a['section'] == topic]
-        chosen = ensure(candidates, 6, used)
+        chosen = pick(candidates, 6, used)
         sections[topic] = chosen
         used.update(a['id'] for a in chosen)
     return lead, featured, sections, failures
@@ -296,19 +355,43 @@ class Metadata(HTMLParser):
             self.image = attrs.get('content')
 
 
-def add_image(item):
+def store_image(url, timeout=5):
+    """Download an image URL and save it locally; return the asset path or None."""
+    raw, _, content_type = fetch(url, limit=2_000_001, timeout=timeout)
+    # Save local raster files only; no third-party assets requested by the browser.
+    ext = '.jpg' if raw.startswith(b'\xff\xd8\xff') else '.png' if raw.startswith(b'\x89PNG\r\n\x1a\n') else '.webp' if raw[:4] == b'RIFF' and raw[8:12] == b'WEBP' else None
+    if ext and len(raw) <= 2_000_000 and content_type.startswith('image/'):
+        name = 'assets/noticias/' + hashlib.sha256(raw).hexdigest()[:20] + ext
+        path = ROOT / name; path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(raw)
+        return name
+    return None
+
+
+def image_from_feed(item):
+    # Cheap first pass: the feed already named an image, no article fetch needed.
     try:
-        raw, final, _ = fetch(item['url'], limit=260_000, timeout=5)
+        if item.get('image') or not item.get('image_src'):
+            return
+        name = store_image(item['image_src'])
+        if name:
+            item['image'] = name
+            item['image_credit'] = item['outlet']
+    except Exception:
+        pass  # Missing thumbnails never invalidate an edition.
+
+
+def image_from_og(item):
+    # Fallback: read the article page's og:image. Short timeout, applied sparingly.
+    try:
+        if item.get('image'):
+            return
+        raw, final, _ = fetch(item['url'], limit=260_000, timeout=4)
         parser = Metadata(); parser.feed(raw.decode('utf-8', errors='replace'))
-        if not parser.image: return
-        image_url = urljoin(final, parser.image)
-        raw, _, content_type = fetch(image_url, limit=2_000_001, timeout=5)
-        # Save local raster files only; no third-party assets requested by the browser.
-        ext = '.jpg' if raw.startswith(b'\xff\xd8\xff') else '.png' if raw.startswith(b'\x89PNG\r\n\x1a\n') else '.webp' if raw[:4] == b'RIFF' and raw[8:12] == b'WEBP' else None
-        if ext and len(raw) <= 2_000_000 and content_type.startswith('image/'):
-            name = 'assets/noticias/' + hashlib.sha256(raw).hexdigest()[:20] + ext
-            path = ROOT / name; path.parent.mkdir(parents=True, exist_ok=True)
-            path.write_bytes(raw)
+        if not parser.image:
+            return
+        name = store_image(urljoin(final, parser.image), timeout=4)
+        if name:
             item['image'] = name
             item['image_credit'] = item['outlet']
     except Exception:
@@ -390,9 +473,16 @@ def build():
             raise ValueError('Edición insuficiente después de verificar los enlaces')
         for a in selected:
             a['title'] = shorten(a['title'])
-        print(f'Enlaces HTTP 200: {len(selected)}. Buscando imágenes de portada…', flush=True)
-        with futures.ThreadPoolExecutor(max_workers=6) as pool:
-            list(pool.map(add_image, [lead, *featured]))
+        print(f'Enlaces HTTP 200: {len(selected)}. Buscando imágenes…', flush=True)
+        # Feed-provided images first (no extra page load), then og:image for the
+        # stories still missing one, capped so the edition never stalls on images.
+        with futures.ThreadPoolExecutor(max_workers=8) as pool:
+            list(pool.map(image_from_feed, selected))
+        pending = [a for a in selected if not a.get('image')][:40]
+        with futures.ThreadPoolExecutor(max_workers=8) as pool:
+            list(pool.map(image_from_og, pending))
+        for a in selected:
+            a.pop('image_src', None)
         lines, method = summary([lead, *featured])
         counts = dict(total=len(selected), lead=1, destacadas=len(featured), sections={k: len(v) for k, v in sections.items()},
                       independent=sum(a['independent'] for a in selected), images=sum(bool(a.get('image')) for a in selected),
