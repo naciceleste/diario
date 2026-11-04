@@ -13,7 +13,7 @@ git pull -q --ff-only origin "$(git rev-parse --abbrev-ref HEAD)"
 python3 scripts/build_diario.py
 
 # Stage only the generated data; source and template changes are published by hand.
-git add -A data
+git add -A data assets/noticias
 
 if git diff --cached --quiet; then
   echo "[daily_update] sin cambios en data/: no se crea commit."
