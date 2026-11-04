@@ -9,6 +9,7 @@ REPO="$(pwd)"
 echo "[daily_update] $(date -u +%Y-%m-%dT%H:%M:%SZ) rebuilding in ${REPO}"
 
 # A failed build exits non-zero and leaves data/diario.json untouched (see build_diario.py).
+git pull -q --ff-only origin "$(git rev-parse --abbrev-ref HEAD)"
 python3 scripts/build_diario.py
 
 # Stage only the generated data; source and template changes are published by hand.
