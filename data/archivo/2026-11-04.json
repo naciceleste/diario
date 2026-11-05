@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T19:44:42.418161+00:00",
+  "generated_at": "2026-11-04T20:20:47.135077+00:00",
   "timezone": "America/Costa_Rica",
   "window_hours": 36,
   "lead": {
@@ -18,34 +18,34 @@
       "elDiario.es",
       "infoLibre"
     ],
-    "score": 12.209,
+    "score": 12.109,
     "id": "7ddbcab39c476c77",
     "url_verified": true,
     "url_status": 200,
-    "url_checked_at": "2026-11-04T19:45:11.820536+00:00",
+    "url_checked_at": "2026-11-04T20:21:20.365959+00:00",
     "image": "assets/noticias/59cd4cbfd2c71bf3c0bf.jpg",
     "image_credit": "elDiario.es"
   },
   "destacadas": [
     {
-      "title": "Por qué perdió Trump: un presidente muy impopular, precios disparados y una sociedad civil resistente",
-      "url": "https://www.eldiarioar.com/mundo/perdio-trump-presidente-impopular-precios-disparados-sociedad-civil-resistente_129_13638126.html",
+      "title": "Las victorias históricas de los demócratas que más duelen a Trump: musulmanes, latinos, negras, indígenas y…",
+      "url": "https://www.eldiarioar.com/mundo/victorias-historicas-democratas-duelen-trump-musulmanes-latinos-negras-indigenas-primer-senador-gay_1_13639338.html",
       "outlet": "elDiarioAR",
       "region": "Argentina",
       "independent": true,
       "section": "Política",
-      "published_at": "2026-11-04T14:21:49+00:00",
-      "excerpt": "La derrota de los republicanos tiene pocos precedentes en la historia de Estados Unidos, especialmente en los lugares más conservadores, y recuerda la impopularidad profunda de las acciones del…",
+      "published_at": "2026-11-04T20:10:11+00:00",
+      "excerpt": "Estos candidatos demócratas voltearon el dominio trumpista y pusieron al presidente contra las cuerdas: Abdul el-Sayed, en Michigan; Keisha Bottoms, en Georgia; Gina Hinojosa, en Texas; Chris…",
       "coverage": [
         "elDiario.es",
         "elDiarioAR"
       ],
-      "score": 11.103,
-      "id": "7ca123f6aa8e2e28",
+      "score": 11.971,
+      "id": "35d5f659cae09dde",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T19:45:12.160383+00:00",
-      "image": "assets/noticias/1cdb52ea98e2769d8821.jpg",
+      "url_checked_at": "2026-11-04T20:21:19.996283+00:00",
+      "image": "assets/noticias/1fe1120c158712677cc7.jpg",
       "image_credit": "elDiarioAR"
     },
     {
@@ -61,11 +61,11 @@
         "El País",
         "la diaria"
       ],
-      "score": 11.779,
+      "score": 11.679,
       "id": "bb56347c462923b1",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T19:45:18.782727+00:00",
+      "url_checked_at": "2026-11-04T20:21:24.646488+00:00",
       "image": "assets/noticias/8ecaa09c109376850a0b.webp",
       "image_credit": "la diaria"
     },
@@ -82,11 +82,11 @@
         "BBC Mundo",
         "El Observador CR"
       ],
-      "score": 11.779,
+      "score": 11.678,
       "id": "4cd13e83a4440b06",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T19:45:11.786477+00:00",
+      "url_checked_at": "2026-11-04T20:21:21.043987+00:00",
       "image": "assets/noticias/9b0b2add389c8cad1d8a.jpg",
       "image_credit": "El Observador CR"
     },
@@ -102,11 +102,11 @@
       "coverage": [
         "Hipertextual"
       ],
-      "score": 9.959,
+      "score": 9.859,
       "id": "5b1a2135d8e551b7",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T19:45:20.026675+00:00",
+      "url_checked_at": "2026-11-04T20:21:27.580938+00:00",
       "image": "assets/noticias/95d3fd2baef9eb3e564d.jpg",
       "image_credit": "Hipertextual"
     },
@@ -125,11 +125,11 @@
         "Punto de Break",
         "elDiario.es"
       ],
-      "score": 14.76,
+      "score": 14.66,
       "id": "0b698d2571016e48",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-04T19:45:23.140476+00:00",
+      "url_checked_at": "2026-11-04T20:21:29.229091+00:00",
       "image": "assets/noticias/a65789ee0881c900a60a.jpg",
       "image_credit": "elDiario.es"
     }
@@ -150,34 +150,34 @@
           "elDiario.es",
           "infoLibre"
         ],
-        "score": 12.12,
+        "score": 12.02,
         "id": "588b987508c6d614",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:11.812318+00:00",
+        "url_checked_at": "2026-11-04T20:21:19.972563+00:00",
         "image": "assets/noticias/b155e45412be479636f1.jpg",
         "image_credit": "infoLibre"
       },
       {
-        "title": "El presidente de Adif renuncia al cargo ante Carlos Cuerpo",
-        "url": "https://www.eldiario.es/economia/presidente-adif-luis-pedro-marco-pena-presenta-cuerpo-renuncia-cargo_1_13639153.html",
-        "outlet": "elDiario.es",
-        "region": "España",
+        "title": "Por qué perdió Trump: un presidente muy impopular, precios disparados y una sociedad civil resistente",
+        "url": "https://www.eldiarioar.com/mundo/perdio-trump-presidente-impopular-precios-disparados-sociedad-civil-resistente_129_13638126.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
         "independent": true,
         "section": "Política",
-        "published_at": "2026-11-04T18:49:24+00:00",
-        "excerpt": "Luis Pedro Marco de la Peña ha presentado su dimisión ante el vicepresidente primero. Fuentes gubernamentales aseguran que él le ha agradecido la labor desarrollada Sánchez encarga al vicepresidente…",
+        "published_at": "2026-11-04T14:21:49+00:00",
+        "excerpt": "La derrota de los republicanos tiene pocos precedentes en la historia de Estados Unidos, especialmente en los lugares más conservadores, y recuerda la impopularidad profunda de las acciones del…",
         "coverage": [
-          "Infobae",
-          "elDiario.es"
+          "elDiario.es",
+          "elDiarioAR"
         ],
-        "score": 11.846,
-        "id": "f506dbba16121ae3",
+        "score": 11.003,
+        "id": "7ca123f6aa8e2e28",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:11.908538+00:00",
-        "image": "assets/noticias/f16e0fc08330d8b7eb2e.jpg",
-        "image_credit": "elDiario.es"
+        "url_checked_at": "2026-11-04T20:21:20.206422+00:00",
+        "image": "assets/noticias/1cdb52ea98e2769d8821.jpg",
+        "image_credit": "elDiarioAR"
       },
       {
         "title": "Sin excusas para las ZBE: el Gobierno obliga a los ayuntamientos a multar ya a los coches contaminantes",
@@ -192,11 +192,11 @@
           "El País",
           "elDiario.es"
         ],
-        "score": 10.633,
+        "score": 10.533,
         "id": "341b1ae1d83816c1",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:12.309990+00:00",
+        "url_checked_at": "2026-11-04T20:21:20.073098+00:00",
         "image": "assets/noticias/3b21ff2ebdea634fa1b0.jpg",
         "image_credit": "elDiario.es"
       },
@@ -213,11 +213,11 @@
           "elDiario.es",
           "elDiarioAR"
         ],
-        "score": 10.2,
+        "score": 10.1,
         "id": "b8b4d7333bd68743",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:12.772303+00:00",
+        "url_checked_at": "2026-11-04T20:21:21.789533+00:00",
         "image": "assets/noticias/5aca8d2fecf924636bcf.jpg",
         "image_credit": "elDiarioAR"
       },
@@ -234,34 +234,33 @@
           "elDiario.es",
           "elDiarioAR"
         ],
-        "score": 10.168,
+        "score": 10.068,
         "id": "49087c3b2917c862",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:12.844880+00:00",
+        "url_checked_at": "2026-11-04T20:21:21.753916+00:00",
         "image": "assets/noticias/67a62c360076df820289.jpg",
         "image_credit": "elDiarioAR"
       },
       {
-        "title": "EE.UU. le da la espalda a la gestión de Trump con una rotunda victoria demócrata en el Congreso",
-        "url": "https://www.eldiarioar.com/mundo/ee-uu-le-da-espalda-gestion-trump-rotunda-victoria-democrata-congreso_1_13636311.html",
-        "outlet": "elDiarioAR",
-        "region": "Argentina",
+        "title": "Sala IV ordena al Ministerio de Salud intervenir contaminación por vertidos de Sigma Alimentos en Cartago",
+        "url": "https://delfino.cr/2026/11/sala-iv-ordena-al-ministerio-de-salud-intervenir-contaminacion-por-vertidos-de-sigma-alimentos-en-cartago",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
         "independent": true,
         "section": "Política",
-        "published_at": "2026-11-04T08:19:11+00:00",
-        "excerpt": "Los demócratas logran una cómoda victoria en la Cámara de Representantes y la mayoría absoluta en el Senado con victorias clave en Texas, Iowa, Carolina del Sur, Carolina del Norte, Maine y Kansas…",
+        "published_at": "2026-11-04T20:00:24+00:00",
+        "excerpt": "La resolución responde a una denuncia por contaminación de una quebrada en Oreamuno. Análisis de agosto detectaron que las aguas residuales de la empresa superaban los límites permitidos de materia…",
         "coverage": [
-          "elDiario.es",
-          "elDiarioAR"
+          "Delfino.cr"
         ],
-        "score": 10.096,
-        "id": "4351a732171463ab",
+        "score": 9.943,
+        "id": "c51346a4497547f5",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:13.425511+00:00",
-        "image": "assets/noticias/9066cadc80d32cf7cf9f.jpg",
-        "image_credit": "elDiarioAR"
+        "url_checked_at": "2026-11-04T20:21:25.485468+00:00",
+        "image": "assets/noticias/e558b145ba31197f981d.jpg",
+        "image_credit": "Delfino.cr"
       }
     ],
     "Economía": [
@@ -278,11 +277,11 @@
           "El País",
           "elDiario.es"
         ],
-        "score": 10.546,
+        "score": 10.445,
         "id": "94fc25b9e4f77ca6",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:12.032544+00:00",
+        "url_checked_at": "2026-11-04T20:21:19.957237+00:00",
         "image": "assets/noticias/0344414b1423514f0e8c.jpg",
         "image_credit": "elDiario.es"
       },
@@ -298,11 +297,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.966,
+        "score": 9.865,
         "id": "52ef9bc3d595d5ff",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:18.433470+00:00",
+        "url_checked_at": "2026-11-04T20:21:24.984667+00:00",
         "image": "assets/noticias/3bd09e0a74c863ec5a26.webp",
         "image_credit": "la diaria"
       },
@@ -318,11 +317,11 @@
         "coverage": [
           "Delfino.cr"
         ],
-        "score": 9.717,
+        "score": 9.616,
         "id": "b2c1f51ed34fe4fd",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:19.217316+00:00",
+        "url_checked_at": "2026-11-04T20:21:25.407103+00:00",
         "image": "assets/noticias/fbd5440e06a6b09a44ee.jpg",
         "image_credit": "Delfino.cr"
       },
@@ -338,11 +337,11 @@
         "coverage": [
           "elDiario.es"
         ],
-        "score": 9.566,
+        "score": 9.466,
         "id": "180b377b66ac456b",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:25.282119+00:00",
+        "url_checked_at": "2026-11-04T20:21:33.751996+00:00",
         "image": "assets/noticias/59c7942cafff914d0aaf.jpg",
         "image_credit": "elDiario.es"
       },
@@ -358,11 +357,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.317,
+        "score": 9.217,
         "id": "76eece055c5a0e54",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:18.287053+00:00",
+        "url_checked_at": "2026-11-04T20:21:33.839424+00:00",
         "image": "assets/noticias/892cee2be78fbf6f3d59.webp",
         "image_credit": "la diaria"
       },
@@ -378,11 +377,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.273,
+        "score": 9.173,
         "id": "8529bcff91841ca7",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:18.459234+00:00",
+        "url_checked_at": "2026-11-04T20:21:33.811703+00:00",
         "image": "assets/noticias/82ef5f32d87103670548.webp",
         "image_credit": "la diaria"
       }
@@ -401,11 +400,11 @@
           "DW español",
           "la diaria"
         ],
-        "score": 7.654,
+        "score": 7.554,
         "id": "2b017766d4d1fc18",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:28.668450+00:00",
+        "url_checked_at": "2026-11-04T20:21:36.803971+00:00",
         "image": "assets/noticias/2491fe145a8d4a350406.webp",
         "image_credit": "la diaria"
       },
@@ -421,11 +420,11 @@
         "coverage": [
           "Delfino.cr"
         ],
-        "score": 7.292,
+        "score": 7.191,
         "id": "6119153571a6f95a",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:27.967352+00:00",
+        "url_checked_at": "2026-11-04T20:21:36.229758+00:00",
         "image": "assets/noticias/1c7c8900e3e407988629.jpg",
         "image_credit": "Delfino.cr"
       },
@@ -441,11 +440,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 6.844,
+        "score": 6.744,
         "id": "a9a0472a77294efa",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:28.572413+00:00",
+        "url_checked_at": "2026-11-04T20:21:36.553264+00:00",
         "image": "assets/noticias/d4b142ac17b6bdcd2292.webp",
         "image_credit": "la diaria"
       },
@@ -461,11 +460,11 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 6.703,
+        "score": 6.602,
         "id": "45bada0be0a5bd7b",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:28.595863+00:00",
+        "url_checked_at": "2026-11-04T20:21:36.839552+00:00",
         "image": "assets/noticias/352e1a7c8e88dafeee70.webp",
         "image_credit": "la diaria"
       },
@@ -481,11 +480,11 @@
         "coverage": [
           "elDiarioAR"
         ],
-        "score": 4.771,
+        "score": 4.671,
         "id": "d52063737a342977",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:28.127400+00:00",
+        "url_checked_at": "2026-11-04T20:21:36.654953+00:00",
         "image": "assets/noticias/242f5ad66c4ec680e39b.jpg",
         "image_credit": "elDiarioAR"
       },
@@ -501,11 +500,11 @@
         "coverage": [
           "elDiarioAR"
         ],
-        "score": 4.531,
+        "score": 4.431,
         "id": "d3f6919bb3e9df56",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:29.744411+00:00",
+        "url_checked_at": "2026-11-04T20:21:37.512228+00:00",
         "image": "assets/noticias/a68e2f66728cf5d4dcec.jpg",
         "image_credit": "elDiarioAR"
       }
@@ -523,11 +522,11 @@
         "coverage": [
           "Gigantes del Basket"
         ],
-        "score": 9.758,
+        "score": 9.657,
         "id": "3d32dcbdf1b3eb61",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:24.258736+00:00",
+        "url_checked_at": "2026-11-04T20:21:33.119165+00:00",
         "image": "assets/noticias/b246470d0452984b7124.webp",
         "image_credit": "Gigantes del Basket"
       },
@@ -543,11 +542,11 @@
         "coverage": [
           "Gigantes del Basket"
         ],
-        "score": 9.724,
+        "score": 9.623,
         "id": "94fcb066f65071de",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:24.334188+00:00",
+        "url_checked_at": "2026-11-04T20:21:33.183494+00:00",
         "image": "assets/noticias/096a043c52f060cd91b9.webp",
         "image_credit": "Gigantes del Basket"
       },
@@ -563,11 +562,11 @@
         "coverage": [
           "Solo Basket"
         ],
-        "score": 9.709,
+        "score": 9.609,
         "id": "e1c534e93482719f",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:23.365230+00:00",
+        "url_checked_at": "2026-11-04T20:21:29.371390+00:00",
         "image": "assets/noticias/9060b4953a4a75d1886d.jpg",
         "image_credit": "Solo Basket"
       },
@@ -583,33 +582,13 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 9.173,
+        "score": 9.072,
         "id": "ec0f1bbe605be3d0",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:30.727728+00:00",
+        "url_checked_at": "2026-11-04T20:21:40.064457+00:00",
         "image": "assets/noticias/152a60fa1a43138f02c5.webp",
         "image_credit": "la diaria"
-      },
-      {
-        "title": "NBA en México: rutas de transporte y diferentes formas para llegar a la Arena CDMX",
-        "url": "https://www.infobae.com/mexico/deportes/2026/11/04/nba-en-mexico-rutas-de-transporte-y-diferentes-formas-para-llegar-a-la-arena-cdmx",
-        "outlet": "Infobae",
-        "region": "Argentina",
-        "independent": false,
-        "section": "Básquetbol",
-        "published_at": "2026-11-04T19:31:39+00:00",
-        "excerpt": "El mejor basquetbol del mundo regresa a territorio mexicano para el encuentro que se disputará entre los Denver Nuggets y los Indiana Pacers",
-        "coverage": [
-          "Infobae"
-        ],
-        "score": 5.964,
-        "id": "bc1d7d623fdf30cd",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:34.129659+00:00",
-        "image": "assets/noticias/f7bfc03732c635be85d2.jpg",
-        "image_credit": "Infobae"
       },
       {
         "title": "Jugó en la NBA y una lesión lo llevó “a la etapa más oscura” de su vida: Greivis Vásquez contó cómo superó…",
@@ -623,16 +602,58 @@
         "coverage": [
           "Infobae Deportes"
         ],
-        "score": 3.343,
+        "score": 3.243,
         "id": "35100de9d0a46d38",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:34.187502+00:00",
+        "url_checked_at": "2026-11-04T20:21:47.871055+00:00",
         "image": "assets/noticias/379ec3b267e6142f76b9.jpg",
+        "image_credit": "Infobae Deportes"
+      },
+      {
+        "title": "El curioso incidente de LeBron James con un hincha y una copa de vino durante un partido de la NBA: “Quise…",
+        "url": "https://www.infobae.com/deportes/2026/11/03/el-curioso-incidente-de-lebron-james-con-un-hincha-y-una-copa-de-vino-durante-un-partido-de-la-nba-quise-ver-si-valia-la-pena",
+        "outlet": "Infobae Deportes",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Básquetbol",
+        "published_at": "2026-11-03T20:26:46+00:00",
+        "excerpt": "La estrella de Philadelphia 76ers chocó contra un espectador y su reacción se hizo viral",
+        "coverage": [
+          "Infobae Deportes"
+        ],
+        "score": 2.017,
+        "id": "028922b5f746faf1",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T20:21:47.753535+00:00",
+        "image": "assets/noticias/1784535c6c499858d410.jpg",
         "image_credit": "Infobae Deportes"
       }
     ],
     "Tenis": [
+      {
+        "title": "Rafa Nadal se une a la Junta Directiva del Real Madrid",
+        "url": "https://www.puntodebreak.com/2026/11/04/rafa-nadal-une-junta-directiva-real-madrid",
+        "outlet": "Punto de Break",
+        "region": "España",
+        "independent": true,
+        "section": "Tenis",
+        "published_at": "2026-11-04T12:06:57+00:00",
+        "excerpt": "El mallorquín ha aceptado el cargo propuesto por el presidente del club blanco y eso puede que le aleje, momentáneamente, del tenis.",
+        "coverage": [
+          "La Nación CR",
+          "Punto de Break",
+          "elDiario.es"
+        ],
+        "score": 12.628,
+        "id": "06ee0a58f5d89783",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T20:21:29.581120+00:00",
+        "image": "assets/noticias/662fae1f030492a360b1.jpg",
+        "image_credit": "Punto de Break"
+      },
       {
         "title": "Rafa Nadal entrará en la directiva del Real Madrid",
         "url": "https://www.nacion.com/puro-deporte/rafa-nadal-entrara-en-la-directiva-del-real-madrid/AOJFTO6WNBBI5AKHAG6X7PCEMM/story",
@@ -647,13 +668,33 @@
           "Punto de Break",
           "elDiario.es"
         ],
-        "score": 9.282,
+        "score": 9.182,
         "id": "9fc29335c18f6ccf",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:36.928861+00:00",
+        "url_checked_at": "2026-11-04T20:21:53.356655+00:00",
         "image": "assets/noticias/d4c3fcc43f9bff9b7107.jpg",
         "image_credit": "La Nación CR"
+      },
+      {
+        "title": "Alcaraz se mantiene firme en un Masters 1.000 de París donde caen los favoritos",
+        "url": "https://www.infobae.com/america/agencias/2026/11/04/alcaraz-se-mantiene-firme-en-un-masters-1000-de-paris-donde-caen-los-favoritos",
+        "outlet": "Infobae",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Tenis",
+        "published_at": "2026-11-04T20:00:30+00:00",
+        "excerpt": "",
+        "coverage": [
+          "Infobae"
+        ],
+        "score": 5.944,
+        "id": "5bdc7a6720e9ccbb",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T20:21:52.939844+00:00",
+        "image": "assets/noticias/3e81bb9b51a55587fe79.png",
+        "image_credit": "Infobae"
       },
       {
         "title": "Tomás Etcheverry puso la cara por el tenis argentino en el Masters de París con gran victoria sobre Álex de…",
@@ -667,11 +708,11 @@
         "coverage": [
           "Perfil"
         ],
-        "score": 5.722,
+        "score": 5.622,
         "id": "5e9bb940594ebfdf",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:36.681653+00:00",
+        "url_checked_at": "2026-11-04T20:21:52.872390+00:00",
         "image": "assets/noticias/af27cef6dbcbb40f28ae.webp",
         "image_credit": "Perfil"
       },
@@ -687,32 +728,12 @@
         "coverage": [
           "Infobae Deportes"
         ],
-        "score": 5.715,
+        "score": 5.615,
         "id": "fe94ce4864027405",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:36.829617+00:00",
+        "url_checked_at": "2026-11-04T20:21:53.927266+00:00",
         "image": "assets/noticias/9e97a64f56f4ed7d6b5f.jpg",
-        "image_credit": "Infobae Deportes"
-      },
-      {
-        "title": "Batacazo del argentino Tomás Etcheverry en el Masters 1000 de París: venció al 9° del mundo y terminó con…",
-        "url": "https://www.infobae.com/deportes/2026/11/04/batacazo-del-argentino-tomas-etcheverry-en-el-masters-1000-de-paris-vencio-al-9-del-mundo-y-le-puso-punto-final-a-una-racha-negativa-en-su-carrera",
-        "outlet": "Infobae Deportes",
-        "region": "Argentina",
-        "independent": false,
-        "section": "Tenis",
-        "published_at": "2026-11-04T17:16:56+00:00",
-        "excerpt": "El platense se impuso ante Alex de Miñaur por 7-6 (2) y 6-3 y avanzó a los octavos de final, donde podría enfrentar a Novak Djokovic. Es su primera victoria ante un rival del Top 10: había perdido…",
-        "coverage": [
-          "Infobae Deportes"
-        ],
-        "score": 5.59,
-        "id": "7288b286d268ffba",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:36.948104+00:00",
-        "image": "assets/noticias/4253276852666b39edea.jpg",
         "image_credit": "Infobae Deportes"
       }
     ],
@@ -729,11 +750,11 @@
         "coverage": [
           "Hipertextual"
         ],
-        "score": 6.647,
+        "score": 6.547,
         "id": "902c3011f880ae6a",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:38.927514+00:00",
+        "url_checked_at": "2026-11-04T20:21:56.187598+00:00",
         "image": "assets/noticias/56d07c17f75f4e35a187.jpg",
         "image_credit": "Hipertextual"
       },
@@ -749,33 +770,53 @@
         "coverage": [
           "Hipertextual"
         ],
-        "score": 5.87,
+        "score": 5.77,
         "id": "2627bdee3f076a26",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:38.975217+00:00",
+        "url_checked_at": "2026-11-04T20:21:55.401656+00:00",
         "image": "assets/noticias/f7f69805bf3c644d6df1.jpg",
         "image_credit": "Hipertextual"
       },
       {
-        "title": "Apple aún no sabe cuándo tendrá suficientes iPhone Duo para todos sus compradores",
-        "url": "https://hipertextual.com/apple/iphone-duo-dudas-disponibilidad-john-ternus",
-        "outlet": "Hipertextual",
-        "region": "Mundo",
-        "independent": true,
+        "title": "Robots de reparto bajo sospecha de escanear rostros y manos de sus clientes sin autorización",
+        "url": "https://www.infobae.com/tecno/2026/11/04/robots-de-reparto-bajo-sospecha-de-escanear-rostros-y-manos-de-sus-clientes-sin-autorizacion",
+        "outlet": "Infobae",
+        "region": "Argentina",
+        "independent": false,
         "section": "Tech",
-        "published_at": "2026-11-03T16:12:23+00:00",
-        "excerpt": "Con la demanda del iPhone Duo superando con amplitud la cantidad de unidades disponibles para la venta, Apple se está moviendo rápido para tratar de mitigar esa escasez. Sin embargo, aún no sabe…",
+        "published_at": "2026-11-04T20:15:00+00:00",
+        "excerpt": "Demandas colectivas presentadas en Chicago cuestionan el uso de cámaras y sensores LiDAR en robots que realizan entregas de comida a domicilio",
         "coverage": [
-          "Hipertextual"
+          "Infobae"
         ],
-        "score": 5.41,
-        "id": "205f91ec1c4cafda",
+        "score": 5.984,
+        "id": "8fc83e4ae8534621",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:38.350335+00:00",
-        "image": "assets/noticias/1f4ff7c9f596c2b87b2e.jpg",
-        "image_credit": "Hipertextual"
+        "url_checked_at": "2026-11-04T20:21:55.422628+00:00",
+        "image": "assets/noticias/0b7a25653fdf75c64b2e.jpg",
+        "image_credit": "Infobae"
+      },
+      {
+        "title": "El principal fabricante de chips de los cartuchos de Switch dejará ese negocio por los centros de datos de IA",
+        "url": "https://www.infobae.com/tecno/2026/11/04/el-principal-fabricante-de-chips-de-los-cartuchos-de-switch-dejara-ese-negocio-por-los-centros-de-datos-de-ia",
+        "outlet": "Infobae",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Tech",
+        "published_at": "2026-11-04T20:06:27+00:00",
+        "excerpt": "La empresa ganó un récord de USD 337,8 millones en un trimestre con memorias que piden los centros de datos",
+        "coverage": [
+          "Infobae"
+        ],
+        "score": 5.96,
+        "id": "0da44355894f1a2b",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T20:21:55.442879+00:00",
+        "image": "assets/noticias/d8612e613e6eb5a31967.jpg",
+        "image_credit": "Infobae"
       },
       {
         "title": "Viceministro contradice a ministra de Ciencia y Tecnología: niega que se hayan comprado datos crediticios de…",
@@ -789,13 +830,33 @@
         "coverage": [
           "La Nación CR"
         ],
-        "score": 4.376,
+        "score": 4.276,
         "id": "b473adc3be84883b",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:39.597480+00:00",
+        "url_checked_at": "2026-11-04T20:21:56.586345+00:00",
         "image": "assets/noticias/93356f2e66a9f64035d3.jpg",
         "image_credit": "La Nación CR"
+      },
+      {
+        "title": "Apple inicia en China la prueba de su IA con el asistente Qwen de Alibaba",
+        "url": "https://es.euronews.com/2026/11/04/apple-inicia-en-china-prueba-de-su-ia-con-el-asistente-qwen-de-alibaba",
+        "outlet": "Euronews en español",
+        "region": "Mundo",
+        "independent": false,
+        "section": "Tech",
+        "published_at": "2026-11-04T09:49:55+00:00",
+        "excerpt": "Apple ha empezado a probar sus herramientas de IA con desarrolladores en China, dos años después de lanzarlas en EE.UU. Para cumplir las normas de Pekín, confía en el modelo Qwen de Alibaba.",
+        "coverage": [
+          "Euronews en español"
+        ],
+        "score": 4.248,
+        "id": "971782b91e7d67fc",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-04T20:21:56.273828+00:00",
+        "image": "assets/noticias/96be52f550a01716b69d.jpg",
+        "image_credit": "Euronews en español"
       }
     ],
     "IA": [
@@ -811,33 +872,13 @@
         "coverage": [
           "elDiarioAR"
         ],
-        "score": 4.729,
+        "score": 4.629,
         "id": "b15e2af64195489f",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:40.629677+00:00",
+        "url_checked_at": "2026-11-04T20:21:58.282475+00:00",
         "image": "assets/noticias/3b67625c6bb3edadc946.jpg",
         "image_credit": "elDiarioAR"
-      },
-      {
-        "title": "Gustavo Petro se refirió al supuesto encuentro privado en un apartamento con la exministra de Cultura Yanai…",
-        "url": "https://www.infobae.com/colombia/2026/11/04/gustavo-petro-se-refirio-al-supuesto-encuentro-privado-en-un-apartamento-con-la-exministra-de-cultura-yanai-kadamani-una-foto-hecha-en-inteligencia-artificial",
-        "outlet": "Infobae",
-        "region": "Argentina",
-        "independent": false,
-        "section": "IA",
-        "published_at": "2026-11-04T19:13:09+00:00",
-        "excerpt": "Una serie de imágenes que se difundieron en redes sociales desde algunas cuentas en X resultaron ser falsas, luego de que el portal La Silla Vacía verificó las fotos y el video, lo que llevó al…",
-        "coverage": [
-          "Infobae"
-        ],
-        "score": 5.912,
-        "id": "9e7ae1c5e2a6cfc0",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:40.324966+00:00",
-        "image": "assets/noticias/8363070daf4c6c6612cd.jpg",
-        "image_credit": "Infobae"
       },
       {
         "title": "CENSA lanza Escuela de Inteligencia Artificial y ofrece cinco cursos gratuitos",
@@ -851,11 +892,11 @@
         "coverage": [
           "La Nación CR"
         ],
-        "score": 5.008,
+        "score": 4.908,
         "id": "a8462ea51da686c0",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:40.467196+00:00",
+        "url_checked_at": "2026-11-04T20:21:57.759726+00:00",
         "image": "assets/noticias/b1cccb424ce44a88589c.jpg",
         "image_credit": "La Nación CR"
       },
@@ -871,11 +912,11 @@
         "coverage": [
           "MIT Technology Review en español"
         ],
-        "score": 4.042,
+        "score": 3.942,
         "id": "f1cc5e2c96813115",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:40.386291+00:00",
+        "url_checked_at": "2026-11-04T20:21:57.488246+00:00",
         "image": "assets/noticias/5b475ced5c5f1edd4e76.png",
         "image_credit": "MIT Technology Review en español"
       },
@@ -891,11 +932,11 @@
         "coverage": [
           "La Nación CR"
         ],
-        "score": 2.672,
+        "score": 2.572,
         "id": "dfb656b945bc761a",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:40.590073+00:00",
+        "url_checked_at": "2026-11-04T20:21:57.653428+00:00",
         "image": "assets/noticias/43b7bffe75b1606507a1.jpg",
         "image_credit": "La Nación CR"
       }
@@ -913,11 +954,11 @@
         "coverage": [
           "Viajablog"
         ],
-        "score": 9.95,
+        "score": 9.85,
         "id": "ec4a58493505a643",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:20.821299+00:00",
+        "url_checked_at": "2026-11-04T20:21:28.130628+00:00",
         "image": "assets/noticias/dbd0469cb29915aa80ff.jpg",
         "image_credit": "Viajablog"
       },
@@ -933,11 +974,11 @@
         "coverage": [
           "Viajablog"
         ],
-        "score": 9.427,
+        "score": 9.326,
         "id": "cd607e33a2bba844",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:20.990013+00:00",
+        "url_checked_at": "2026-11-04T20:21:28.061057+00:00",
         "image": "assets/noticias/b87e4fb036fe2d3131ec.jpg",
         "image_credit": "Viajablog"
       },
@@ -953,65 +994,45 @@
         "coverage": [
           "Viajablog"
         ],
-        "score": 8.961,
+        "score": 8.861,
         "id": "f5311322f2a80bf4",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:21.004763+00:00",
+        "url_checked_at": "2026-11-04T20:21:28.120841+00:00",
         "image": "assets/noticias/b44eb8eb9f48ef30bab8.jpg",
         "image_credit": "Viajablog"
       },
       {
-        "title": "Sin Diego Simeone, Carla Pereyra compartió la emoción de viajar a Jujuy con sus hijas: “Descubrir mi país de…",
-        "url": "https://www.lanacion.com.ar/espectaculos/sin-diego-simeone-carla-pereyra-compartio-la-emocion-de-viajar-a-jujuy-con-sus-hijas-descubrir-mi-nid03112026",
-        "outlet": "La Nación",
-        "region": "Argentina",
-        "independent": false,
-        "section": "Viajes",
-        "published_at": "2026-11-04T19:33:06+00:00",
-        "excerpt": "La empresaria compartió las mejores postales de sus vacaciones junto a las mujeres de su familia y dejó una profunda reflexión sobre su experiencia en el norte argentino",
-        "coverage": [
-          "La Nación"
-        ],
-        "score": 5.968,
-        "id": "24986bbd964f4113",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:44.450991+00:00",
-        "image": "assets/noticias/6d0fc8978e04e2641480.jpg",
-        "image_credit": "La Nación"
-      },
-      {
-        "title": "Los hutíes de Yemen reivindicaron un nuevo misil contra el aeropuerto de Riad y pidieron a las aerolíneas…",
-        "url": "https://www.infobae.com/america/mundo/2026/11/04/los-huties-de-yemen-reivindicaron-un-nuevo-misil-contra-el-aeropuerto-de-riad-y-pidieron-a-las-aerolineas-evitar-arabia-saudita",
+        "title": "Machu Picchu: cómo verificar si tu boleto de ingreso es válido y recuperar la entrada si la perdiste antes…",
+        "url": "https://www.infobae.com/peru/2026/11/04/machu-picchu-como-verificar-si-tu-boleto-de-ingreso-es-valido-y-recuperar-la-entrada-si-la-perdiste-antes-de-visitar-la-ciudadela-inca",
         "outlet": "Infobae",
         "region": "Argentina",
         "independent": false,
         "section": "Viajes",
-        "published_at": "2026-11-04T19:22:06+00:00",
-        "excerpt": "El aeropuerto había reabierto dos terminales el 25 de octubre, dos semanas después de un ataque que dejó al menos 13 muertos. Las autoridades del reino no han confirmado el impacto que denuncia el…",
+        "published_at": "2026-11-04T20:12:48+00:00",
+        "excerpt": "El Ministerio de Cultura habilitó una herramienta en TuBoleto para consultar la validez de las entradas mediante el documento de identidad",
         "coverage": [
           "Infobae"
         ],
-        "score": 5.937,
-        "id": "a2197ed1db70e946",
+        "score": 5.978,
+        "id": "4fc3d6d727af5ce5",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-04T19:45:45.086836+00:00",
-        "image": "assets/noticias/7b86dd1f8da14a0f52bc.jpg",
+        "url_checked_at": "2026-11-04T20:22:01.228781+00:00",
+        "image": "assets/noticias/f7bb7448c75f49e049cb.jpg",
         "image_credit": "Infobae"
       }
     ]
   },
   "resumen": [
     "Sánchez encarga al vicepresidente Carlos Cuerpo la gestión de Transportes tras la dimisión de Óscar Puente (elDiario.es).",
-    "Por qué perdió Trump: un presidente muy impopular, precios disparados y una sociedad civil resistente (elDiarioAR).",
+    "Las victorias históricas de los demócratas que más duelen a Trump: musulmanes, latinos, negras, indígenas y… (elDiarioAR).",
     "Owono se expresó tras la muerte de Jesús de Miguel: “Son los días más difíciles de mi vida” (la diaria).",
     "“Esto es un desastre”: republicanos indignados culpan a Trump de la estrepitosa derrota en las elecciones de… (El Observador CR)."
   ],
   "resumen_method": "extractivo",
   "counts": {
-    "total": 48,
+    "total": 49,
     "lead": 1,
     "destacadas": 5,
     "sections": {
@@ -1019,17 +1040,17 @@
       "Economía": 6,
       "Fútbol": 6,
       "Básquetbol": 6,
-      "Tenis": 4,
-      "Tech": 4,
-      "IA": 5,
-      "Viajes": 5
+      "Tenis": 5,
+      "Tech": 6,
+      "IA": 4,
+      "Viajes": 4
     },
     "independent": 35,
-    "images": 48,
+    "images": 49,
     "regions": {
       "Argentina": 15,
       "Uruguay": 8,
-      "Costa Rica": 7,
+      "Costa Rica": 8,
       "España": 10,
       "Mundo": 8
     }
@@ -1039,7 +1060,7 @@
       "outlet": "elDiarioAR",
       "rss": "https://www.eldiarioar.com/rss/",
       "status": 200,
-      "recent_items": 22,
+      "recent_items": 23,
       "note": null,
       "final_url": "https://www.eldiarioar.com/rss/"
     },
@@ -1071,7 +1092,7 @@
       "outlet": "la diaria",
       "rss": "https://ladiaria.com.uy/feeds/articulos/",
       "status": 200,
-      "recent_items": 27,
+      "recent_items": 29,
       "note": null,
       "final_url": "https://ladiaria.com.uy/feeds/articulos/"
     },
@@ -1079,7 +1100,7 @@
       "outlet": "Montevideo Portal",
       "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
       "status": 200,
-      "recent_items": 15,
+      "recent_items": 13,
       "note": null,
       "final_url": "https://www.montevideo.com.uy/anxml.aspx?58"
     },
@@ -1135,7 +1156,7 @@
       "outlet": "Xataka",
       "rss": "https://www.xataka.com/index.xml",
       "status": 200,
-      "recent_items": 8,
+      "recent_items": 9,
       "note": null,
       "final_url": "https://www.xataka.com/feedburner.xml"
     },
@@ -1183,7 +1204,7 @@
       "outlet": "Olé",
       "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 6,
       "note": null,
       "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/"
     },
@@ -1239,7 +1260,7 @@
       "outlet": "Hipertextual",
       "rss": "https://hipertextual.com/feed",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://hipertextual.com/feed/"
     },
@@ -1295,7 +1316,7 @@
       "outlet": "Infobae",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 35,
+      "recent_items": 44,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -1303,7 +1324,7 @@
       "outlet": "La Nación",
       "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 22,
+      "recent_items": 24,
       "note": null,
       "final_url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -1311,7 +1332,7 @@
       "outlet": "Clarín",
       "rss": "https://www.clarin.com/rss/lo-ultimo/",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://www.clarin.com/rss/lo-ultimo/"
     },
@@ -1319,7 +1340,7 @@
       "outlet": "Perfil",
       "rss": "https://www.perfil.com/feed",
       "status": 200,
-      "recent_items": 16,
+      "recent_items": 15,
       "note": null,
       "final_url": "https://www.perfil.com/feed"
     },
@@ -1327,7 +1348,7 @@
       "outlet": "Infobae Deportes",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
       "status": 200,
-      "recent_items": 28,
+      "recent_items": 30,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"
     },
@@ -1351,7 +1372,7 @@
       "outlet": "El País",
       "rss": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
       "status": 200,
-      "recent_items": 57,
+      "recent_items": 55,
       "note": null,
       "final_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
     },
@@ -1367,7 +1388,7 @@
       "outlet": "Euronews en español",
       "rss": "https://es.euronews.com/rss",
       "status": 200,
-      "recent_items": 18,
+      "recent_items": 19,
       "note": null,
       "final_url": "https://es.euronews.com/rss"
     },
