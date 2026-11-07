@@ -1,341 +1,352 @@
 {
   "schema_version": 1,
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T12:07:42.099468+00:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T12:04:04.817007+00:00",
   "timezone": "America/Costa_Rica",
   "window_hours": 36,
   "lead": {
-    "title": "Por qué el Congreso de Paraguay no acepta la renuncia de Santiago Peña como presidente y qué supone ahora el…",
-    "url": "https://observador.cr/por-que-el-congreso-de-paraguay-no-acepta-la-renuncia-de-santiago-pena-como-presidente-y-que-supone-ahora-el-juicio-politico-en-su-contra",
+    "title": "El presidente destituido de Paraguay, Santiago Peña, fue detenido en su casa en Asunción",
+    "url": "https://observador.cr/el-presidente-destituido-de-paraguay-santiago-pena-fue-detenido-en-su-casa-en-asuncion",
     "outlet": "El Observador CR",
     "region": "Costa Rica",
     "independent": true,
     "section": "Política",
-    "published_at": "2026-11-06T03:23:37+00:00",
-    "excerpt": "Peña podrá quedar expuesto a un posible procesamiento penal sin que sea necesario iniciar un procedimiento de desafuero. The post Por qué el Congreso de Paraguay no acepta la renuncia de Santiago…",
+    "published_at": "2026-11-07T00:12:00+00:00",
+    "excerpt": "(Asunción, Paraguay) El expresidente paraguayo Santiago Peña fue detenido este viernes en su casa en Asunción minutos después de haber sido destituido en un acelerado juicio político iniciado a raíz…",
     "coverage": [
       "BBC Mundo",
-      "Delfino.cr",
       "El Observador CR",
-      "Infobae",
-      "La Nación",
-      "elDiarioAR",
-      "la diaria"
+      "El País",
+      "France24 español",
+      "La Nación CR"
     ],
-    "score": 18.544,
-    "id": "e2e69fd0ed7b525b",
+    "score": 16.022,
+    "id": "44b5f26fe5cc5e1b",
     "url_verified": true,
     "url_status": 200,
-    "url_checked_at": "2026-11-06T12:08:02.277949+00:00",
-    "image": "assets/noticias/bb695cd642a31a74eb70.jpg",
+    "url_checked_at": "2026-11-07T12:04:20.547821+00:00",
+    "image": "assets/noticias/ab7e5855132f47424ff8.webp",
     "image_credit": "El Observador CR"
   },
   "destacadas": [
     {
-      "title": "¿Quién es Santiago Peña, el presidente de Paraguay que presentó la renuncia tras un escándalo financiero?",
-      "url": "https://www.eldiarioar.com/politica/santiago-pena-presidente-paraguay-presento-renuncia-escandalo-financiero_1_13643600.html",
+      "title": "La debacle de Trump en las 'midterms' evidencia el desgaste de las guerras culturales impulsadas por la…",
+      "url": "https://www.eldiarioar.com/mundo/debacle-trump-midterms-evidencia-desgaste-guerras-culturales-impulsadas-ultraderecha_1_13645827.html",
       "outlet": "elDiarioAR",
       "region": "Argentina",
       "independent": true,
       "section": "Política",
-      "published_at": "2026-11-06T11:14:48+00:00",
-      "excerpt": "El mandatario, de 47 años, presentó su renuncia este jueves, después de perder el respaldo de su propia formación política y ante la amenaza de un juicio político en el Congreso, impulsado tras la…",
+      "published_at": "2026-11-07T03:01:56+00:00",
+      "excerpt": "Las elecciones de medio término situaron en la Cámara Alta al primer senador abiertamente gay y al primer senador musulmán, al tiempo que mostraron un avance socialista y el agotamiento movilizador…",
       "coverage": [
-        "Delfino.cr",
-        "Euronews en español",
+        "elDiario.es",
         "elDiarioAR"
       ],
-      "score": 13.853,
-      "id": "65e018b1a5de2ebe",
+      "score": 10.494,
+      "id": "85f7a4487b791827",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-06T12:08:01.862487+00:00",
-      "image": "assets/noticias/2868c48c1271ebf53fd0.jpg",
+      "url_checked_at": "2026-11-07T12:04:20.753587+00:00",
+      "image": "assets/noticias/2fe1712c93e5292a77d9.jpg",
       "image_credit": "elDiarioAR"
     },
     {
-      "title": "Santiago Peña, quien sigue siendo el presidente paraguayo pese a su renuncia, se defenderá en el juicio…",
-      "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/santiago-pena-quien-sigue-siendo-el-presidente-paraguayo-pese-a-su-renuncia-se-defendera-en-el-juicio-politico-en-su-contra",
+      "title": "El Senado de Paraguay destituyó por unanimidad al presidente Santiago Peña",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/el-senado-de-paraguay-destituyo-por-unanimidad-al-presidente-santiago-pena",
       "outlet": "la diaria",
       "region": "Uruguay",
       "independent": true,
       "section": "Política",
-      "published_at": "2026-11-06T00:09:52+00:00",
-      "excerpt": "El Congreso comenzó a tratar en la noche del jueves el juicio político al mandatario, que había renunciado horas antes por su responsabilidad en la quiebra fraudulenta del Ueno Bank. En la mañana…",
+      "published_at": "2026-11-06T22:44:53+00:00",
+      "excerpt": "El exmandatario fue detenido en su casa en Asunción, investigado por diversos delitos vinculados a las maniobras fraudulentas de Ueno Bank. El presidente paraguayo, Santiago Peña, fue destituido…",
       "coverage": [
-        "El Observador CR",
+        "El País",
+        "France24 español",
+        "La Nación CR",
+        "elDiarioAR",
         "la diaria"
       ],
-      "score": 10.006,
-      "id": "d17f474eef0c47e0",
+      "score": 15.78,
+      "id": "a42541c4106d3de8",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-06T12:08:04.121721+00:00",
-      "image": "assets/noticias/d294f9254dc469bdc73e.webp",
+      "url_checked_at": "2026-11-07T12:04:20.361391+00:00",
+      "image": "assets/noticias/15ffd17d42e2b95629d6.webp",
       "image_credit": "la diaria"
     },
     {
-      "title": "La Fiscalía Europea abre otra investigación por fraude en la alta velocidad tras el accidente de Urda",
-      "url": "https://www.eldiario.es/politica/fiscalia-europea-abre-investigacion-fraude-alta-velocidad-accidente-urda_1_13643016.html",
-      "outlet": "elDiario.es",
+      "title": "Kristaps Porzingis se aparta del baloncesto: “He tomado la decisión de priorizar mi salud”",
+      "url": "https://www.solobasket.com/nba/porzingis-se-aparta-baloncesto-priorizar-salud",
+      "outlet": "Solo Basket",
       "region": "España",
       "independent": true,
-      "section": "Política",
-      "published_at": "2026-11-06T09:19:50+00:00",
-      "excerpt": "Agentes de la UCO se han personado para requerir información en la sede del Administrador de Infraestructuras Ferroviarias (ADIF), en la Agencia Estatal de Seguridad Ferroviaria (AESF) y en el…",
+      "section": "Básquetbol",
+      "published_at": "2026-11-07T10:00:00+00:00",
+      "excerpt": "Kristaps Porzingis, pívot de los Warriors formado en la cantera del Baloncesto Sevilla, anuncia que se aparta del baloncesto porque su cuerpo no respondió.",
       "coverage": [
-        "El País",
-        "Euronews en español",
-        "elDiario.es",
-        "infoLibre"
+        "Infobae",
+        "Solo Basket"
       ],
-      "score": 15.534,
-      "id": "816e1c9ab36b4051",
+      "score": 11.655,
+      "id": "2c90427e195baaa6",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-06T12:08:01.731568+00:00",
-      "image": "assets/noticias/c858e28558b459d385bd.jpg",
-      "image_credit": "elDiario.es"
+      "url_checked_at": "2026-11-07T12:04:23.210296+00:00",
+      "image": "assets/noticias/93677b8e3cec4340e414.jpg",
+      "image_credit": "Solo Basket"
     },
     {
-      "title": "Dónde alojarse en Ölüdeniz: mejores zonas y hoteles recomendados",
-      "url": "https://www.viajablog.com/donde-alojarse-en-oludeniz",
-      "outlet": "Viajablog",
+      "title": "Llevo meses usando esta app gratuita para Android y mis auriculares suenan mejor que nunca",
+      "url": "https://hipertextual.com/mobile/wavelet-android-mejorar-sonido-auriculares",
+      "outlet": "Hipertextual",
       "region": "Mundo",
       "independent": true,
-      "section": "Viajes",
-      "published_at": "2026-11-06T12:05:39+00:00",
-      "excerpt": "Ölüdeniz es uno de los destinos más conocidos de la costa licia de Turquía. Su famosa Laguna Azul, las aguas […] La entrada Dónde alojarse en Ölüdeniz: mejores zonas y hoteles recomendados se…",
+      "section": "Tech",
+      "published_at": "2026-11-07T12:00:00+00:00",
+      "excerpt": "Cuando compras unos auriculares, uno de los procesos más comunes es buscar reseñas, comparar modelos y elegir la mejor opción calidad/precio. Algunos considerarán ciertas marcas, mientras que otros…",
       "coverage": [
-        "Viajablog"
+        "Hipertextual"
       ],
-      "score": 9.994,
-      "id": "b3e8d2f979bf451b",
+      "score": 9.989,
+      "id": "901d040bd2b6e8eb",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-06T12:08:07.856138+00:00",
-      "image": "assets/noticias/b628ccb1e2c00f232b9f.jpg",
-      "image_credit": "Viajablog"
+      "url_checked_at": "2026-11-07T12:04:25.173514+00:00",
+      "image": "assets/noticias/3d73b633bd233fe420ae.jpg",
+      "image_credit": "Hipertextual"
     },
     {
-      "title": "Moses Malone: ¿El jugador más infravalorado de la historia?",
-      "url": "https://www.gigantes.com/nba/moses-malone-jugador-mas-infravalorado-historia",
+      "title": "La liga española vuelve a ser la competición con más extranjeros, según un informe de FIBA",
+      "url": "https://www.gigantes.com/mas-basket/liga-endesa-mas-jugadores-extranjeros-informe-fiba",
       "outlet": "Gigantes del Basket",
       "region": "España",
       "independent": true,
       "section": "Básquetbol",
-      "published_at": "2026-11-06T12:03:59+00:00",
-      "excerpt": "Repasamos su trayectoria, mayores logros e impacto en la NBA La entrada Moses Malone: ¿El jugador más infravalorado de la historia? se publicó primero en Gigantes del Basket .",
+      "published_at": "2026-11-07T09:32:04+00:00",
+      "excerpt": "Repite como la liga con más presencia extranjera, aunque el porcentaje ha bajado ligeramente. La entrada La liga española vuelve a ser la competición con más extranjeros, según un informe de FIBA se…",
       "coverage": [
-        "Gigantes del Basket"
+        "Gigantes del Basket",
+        "Solo Basket"
       ],
-      "score": 9.99,
-      "id": "87d6eacb9a5c4acd",
+      "score": 11.578,
+      "id": "a01cae8582b1e34b",
       "url_verified": true,
       "url_status": 200,
-      "url_checked_at": "2026-11-06T12:08:05.975531+00:00",
-      "image": "assets/noticias/096a043c52f060cd91b9.webp",
+      "url_checked_at": "2026-11-07T12:04:23.869717+00:00",
+      "image": "assets/noticias/8e00cabee4fc92609f8b.jpg",
       "image_credit": "Gigantes del Basket"
     }
   ],
   "sections": {
     "Política": [
       {
-        "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
-        "url": "https://observador.cr/que-es-ueno-bank-y-que-provoco-la-crisis-por-la-que-santiago-pena-renuncio-como-presidente-de-paraguay",
+        "title": "Cómo la caída del banco Ueno en Paraguay acabó con el gobierno del presidente Santiago Peña",
+        "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/como-la-caida-del-banco-ueno-en-paraguay-acabo-con-el-gobierno-del-presidente-santiago-pena",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-07T00:23:35+00:00",
+        "excerpt": "El destape de una descomunal estafa financiera dejó a millones de ciudadanos sin acceder a sus ahorros y llevó al colorado Peña a un juicio político. El martes 3 de noviembre de 2026, casi tres…",
+        "coverage": [
+          "BBC Mundo",
+          "elDiarioAR",
+          "la diaria"
+        ],
+        "score": 12.054,
+        "id": "9ee0d1d45aae815c",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:20.584811+00:00",
+        "image": "assets/noticias/8baf6cb19dc3804cb8a7.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Presidente de Paraguay es destituido en juicio político por escándalo bancario",
+        "url": "https://observador.cr/presidente-de-paraguay-es-destituido-en-juicio-politico-por-escandalo-bancario",
         "outlet": "El Observador CR",
         "region": "Costa Rica",
         "independent": true,
         "section": "Política",
-        "published_at": "2026-11-06T02:30:00+00:00",
-        "excerpt": "El martes, el Banco Central del Paraguay (BCP) anunció el inicio de un procedimiento de disolución de Ueno Bank. The post Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció…",
+        "published_at": "2026-11-06T23:08:40+00:00",
+        "excerpt": "(Asunción, Paraguay). El Senado de Paraguay destituyó este viernes al presidente Santiago Peña en un juicio político por un escándalo bancario que afectó a tres millones de clientes, algunos de los…",
         "coverage": [
-          "BBC Mundo",
           "El Observador CR",
-          "Euronews en español",
-          "France24 español",
-          "elDiarioAR"
+          "La Nación CR",
+          "elDiario.es"
         ],
-        "score": 16.395,
-        "id": "5c9b5c008e64bfca",
+        "score": 11.846,
+        "id": "1a1d14a627b8ab65",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:02.316669+00:00",
-        "image": "assets/noticias/8862f11cc23a7bee54bd.jpg",
+        "url_checked_at": "2026-11-07T12:04:20.652668+00:00",
+        "image": "assets/noticias/4f1f7e690cd4af529591.webp",
         "image_credit": "El Observador CR"
       },
       {
-        "title": "El futuro político de Santiago Peña queda en manos del Congreso de Paraguay tras su renuncia a la presidencia",
-        "url": "https://www.eldiarioar.com/latinoamerica/futuro-politico-santiago-pena-queda-manos-congreso-paraguay-renuncia-presidencia_1_13643554.html",
-        "outlet": "elDiarioAR",
-        "region": "Argentina",
+        "title": "La Policía de Paraguay detiene al expresidente Santiago Peña tras su destitución",
+        "url": "https://www.eldiario.es/internacional/policia-paraguay-detiene-expresidente-santiago-pena-destitucion_1_13645965.html",
+        "outlet": "elDiario.es",
+        "region": "España",
         "independent": true,
         "section": "Política",
-        "published_at": "2026-11-06T11:08:41+00:00",
-        "excerpt": "Acorralado por el escándalo, el mandatario presentó este jueves su renuncia para evitar el juicio político, que podría dejarle sin fueros si se determina su responsabilidad en la caída del banco…",
+        "published_at": "2026-11-07T07:29:39+00:00",
+        "excerpt": "La destitución activó la sucesión en el Ejecutivo, que pasó a manos del vicepresidente, Pedro Alliana, quien juró en una sesión extraordinaria del Congreso. Ejercerá el cargo hasta agosto de 2028…",
         "coverage": [
-          "BBC Mundo",
-          "El Observador CR",
-          "elDiarioAR"
-        ],
-        "score": 13.836,
-        "id": "469fcb33ed18ad9b",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:01.877381+00:00",
-        "image": "assets/noticias/505c20ffbdd90503b5e0.jpg",
-        "image_credit": "elDiarioAR"
-      },
-      {
-        "title": "Paraguay no acepta renuncia del presidente Santiago Peña para evitar que adquiera inmunidad",
-        "url": "https://delfino.cr/2026/11/paraguay-no-acepta-renuncia-del-presidente-santiago-pena-para-evitar-que-adquiera-inmunidad",
-        "outlet": "Delfino.cr",
-        "region": "Costa Rica",
-        "independent": true,
-        "section": "Política",
-        "published_at": "2026-11-06T08:23:15+00:00",
-        "excerpt": "Además, organización revela lista de 77 religiosos acusados de abusos sexuales a menores en Perú.",
-        "coverage": [
-          "Delfino.cr",
-          "El Observador CR",
-          "elDiarioAR"
-        ],
-        "score": 13.377,
-        "id": "d214695d1c1a1587",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:01.587489+00:00",
-        "image": "assets/noticias/ed515124becfa7f6cdc9.jpg",
-        "image_credit": "Delfino.cr"
-      },
-      {
-        "title": "Santiago Peña renunció como presidente de Paraguay por el escándalo del Ueno Bank",
-        "url": "https://www.eldiarioar.com/mundo/santiago-pena-renuncio-presidente-paraguay-escandalo-ueno-bank_1_13641943.html",
-        "outlet": "elDiarioAR",
-        "region": "Argentina",
-        "independent": true,
-        "section": "Política",
-        "published_at": "2026-11-05T16:41:27+00:00",
-        "excerpt": "El ahora ex mandatario iba a ser sometido a juicio político por el Congreso con el apoyo de su propio partido tras el cierre del banco en el que casi tres millones de ahorristas tienen congelados…",
-        "coverage": [
-          "El Observador CR",
-          "Euronews en español",
           "France24 español",
-          "elDiarioAR"
+          "elDiario.es"
         ],
-        "score": 12.76,
-        "id": "a576d7d569dd7407",
+        "score": 11.238,
+        "id": "c8af942d9f2386b0",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:01.837600+00:00",
-        "image": "assets/noticias/2aa1649eb0f5128335b6.jpg",
-        "image_credit": "elDiarioAR"
+        "url_checked_at": "2026-11-07T12:04:20.189625+00:00",
+        "image": "assets/noticias/7a664238409377d2d48e.jpg",
+        "image_credit": "elDiario.es"
       },
       {
-        "title": "La Fiscalía Europea abre una segunda investigación por un posible fraude en el mantenimiento del AVE",
-        "url": "https://www.infolibre.es/economia-y-sociedad/fiscalia-europea-abre-segunda-investigacion-posible-fraude-mantenimiento-ave_1_2239603.html",
+        "title": "Sánchez acude este lunes al programa de Javier Ruiz en La Séptima",
+        "url": "https://www.infolibre.es/politica/sanchez-acude-lunes-programa-javier-ruiz-septima_1_2239681.html",
         "outlet": "infoLibre",
         "region": "España",
         "independent": true,
         "section": "Política",
-        "published_at": "2026-11-06T09:42:14+00:00",
-        "excerpt": "La Fiscalía Europea (EPPO) informó este viernes de la apertura de una segunda investigación sobre posible fraude de fondos europeos en la renovación y mejora de la seguridad, señalización y sistemas…",
+        "published_at": "2026-11-07T11:20:00+00:00",
+        "excerpt": "El presidente del Gobierno y candidato del PSOE a la reelección será entrevistado este lunes a las nueve de la noche en el programa ‘La Última Hora’ en La Séptima. Así lo ha confirmado oficialmente…",
         "coverage": [
-          "elDiario.es",
           "infoLibre"
         ],
-        "score": 11.596,
-        "id": "aa8005e0aac1abe7",
+        "score": 9.878,
+        "id": "ea3dc9b2bc968acd",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:01.746469+00:00",
-        "image": "assets/noticias/21d5fb1ac0bf2fa0c3ec.jpg",
+        "url_checked_at": "2026-11-07T12:04:20.114705+00:00",
+        "image": "assets/noticias/4e3af00917b0c1123a5b.jpg",
         "image_credit": "infoLibre"
       },
       {
-        "title": "El Papa arranca su gira más exigente con una reunión con Milei y encuentros con víctimas de abusos en…",
-        "url": "https://www.eldiarioar.com/mundo/papa-arranca-gira-exigente-reunion-milei-encuentros-victimas-abusos-latinoamerica_1_13642741.html",
+        "title": "De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a un juicio político tras la…",
+        "url": "https://observador.cr/de-que-se-acusa-a-santiago-pena-el-presidente-de-paraguay-que-se-enfrenta-a-un-juicio-politico-tras-la-crisis-de-ueno-bank",
+        "outlet": "El Observador CR",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-06T22:10:00+00:00",
+        "excerpt": "La acusación por conflicto de intereses está relacionada con participación accionarial de Peña en Ueno Holding. The post De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a…",
+        "coverage": [
+          "BBC Mundo",
+          "El Observador CR"
+        ],
+        "score": 9.683,
+        "id": "7f035088991c5321",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:20.581210+00:00",
+        "image": "assets/noticias/bae81fc02b9d3687a1a5.jpg",
+        "image_credit": "El Observador CR"
+      },
+      {
+        "title": "Paraguay: el Senado destituyó a Santiago Peña tras el escándalo del banco Ueno",
+        "url": "https://www.eldiarioar.com/latinoamerica/paraguay-senado-destituyo-santiago-pena-escandalo-banco-ueno_1_13645805.html",
         "outlet": "elDiarioAR",
         "region": "Argentina",
         "independent": true,
         "section": "Política",
-        "published_at": "2026-11-06T08:59:12+00:00",
-        "excerpt": "León XIV inicia un viaje por Uruguay, Argentina y Perú justo después de las derrotas de Trump y Bolsonaro, que frenan el impulso de la ultraderecha en Latinoamérica, donde apostará por el…",
+        "published_at": "2026-11-06T22:06:43+00:00",
+        "excerpt": "El mandatario fue apartado de la Presidencia en un juicio político por mal desempeño de sus funciones. Había presentado su renuncia, pero el Congreso no llegó a tratarla. Pedro Alliana deberá asumir…",
         "coverage": [
-          "elDiario.es",
-          "elDiarioAR"
+          "elDiarioAR",
+          "la diaria"
         ],
-        "score": 11.476,
-        "id": "2afa00c2a7734d35",
+        "score": 9.674,
+        "id": "94929cd45799cdbb",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:03.076076+00:00",
-        "image": "assets/noticias/64d1cfadfc6d120009fb.jpg",
+        "url_checked_at": "2026-11-07T12:04:21.658509+00:00",
+        "image": "assets/noticias/2868c48c1271ebf53fd0.jpg",
         "image_credit": "elDiarioAR"
       }
     ],
     "Economía": [
       {
-        "title": "PPSO aprueba en primer debate presupuesto 2027 y no esperará respuesta de la Sala IV sobre su…",
-        "url": "https://delfino.cr/2026/11/ppso-aprueba-en-primer-debate-presupuesto-2027-y-no-esperara-respuesta-de-la-sala-iv-sobre-su-constitucionalidad",
-        "outlet": "Delfino.cr",
-        "region": "Costa Rica",
-        "independent": true,
-        "section": "Economía",
-        "published_at": "2026-11-06T03:05:35+00:00",
-        "excerpt": "Yara Jiménez anunció que el segundo debate iniciará el lunes, pese a que hay tres consultas constitucionales en estudio de la Sala IV.",
-        "coverage": [
-          "Delfino.cr",
-          "El Observador CR"
-        ],
-        "score": 10.494,
-        "id": "bc43906dd273b1f5",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:11.302493+00:00",
-        "image": "assets/noticias/fd95326ebf03b0928175.jpg",
-        "image_credit": "Delfino.cr"
-      },
-      {
-        "title": "Asamblea Legislativa aprueba en primer debate el presupuesto ordinario 2027",
-        "url": "https://observador.cr/asamblea-legislativa-aprueba-en-primer-debate-el-presupuesto-ordinario-2027",
-        "outlet": "El Observador CR",
-        "region": "Costa Rica",
-        "independent": true,
-        "section": "Economía",
-        "published_at": "2026-11-06T02:11:59+00:00",
-        "excerpt": "Pueblo Soberano lo apoyó; la oposición votó en contra debido a los recortes en educación y seguridad The post Asamblea Legislativa aprueba en primer debate el presupuesto ordinario 2027 appeared…",
-        "coverage": [
-          "Delfino.cr",
-          "El Observador CR"
-        ],
-        "score": 10.345,
-        "id": "99969500de1cad94",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:12.069543+00:00",
-        "image": "assets/noticias/4200e56b34b9c62bfb62.webp",
-        "image_credit": "El Observador CR"
-      },
-      {
-        "title": "Rodrigo Sorogoyen, Alana S. Portero, David Uclés y más de 750 firmas apoyan la huelga del 11N: \"La cultura…",
-        "url": "https://www.eldiario.es/cultura/rodrigo-sorogoyen-alana-s-portero-david-ucles-750-firmas-apoyan-huelga-11n-cultura_1_13643645.html",
+        "title": "Cómo se organiza la huelga del 11N: del desahucio de Maricarmen a parar un país por la vivienda",
+        "url": "https://www.eldiario.es/economia/organiza-huelga-11n-desahucio-maricarmen-parar-pais-vivienda_1_13639701.html",
         "outlet": "elDiario.es",
         "region": "España",
         "independent": true,
         "section": "Economía",
-        "published_at": "2026-11-06T11:40:29+00:00",
-        "excerpt": "\"Sin casa, sin locales y con el espacio público convertido en un escaparate, no quedan lugares donde viva la cultura\", reivindican en su manifiesto La productora de 'El rey león' rectifica y…",
+        "published_at": "2026-11-06T21:22:07+00:00",
+        "excerpt": "Una agenda frenética de asambleas, de barrio y de trabajadores, impulsan la llama de indignación por la vivienda para vaciar los centros de trabajo, con sindicatos e Inquilinas unidos de manera…",
         "coverage": [
           "elDiario.es"
         ],
-        "score": 9.924,
-        "id": "6aa5755e7fb6d30d",
+        "score": 7.55,
+        "id": "dcfc25514faff0a7",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:04.932683+00:00",
-        "image": "assets/noticias/fc6463f93d93c91a1af4.jpg",
+        "url_checked_at": "2026-11-07T12:04:27.813697+00:00",
+        "image": "assets/noticias/ecadcdccb1a57568b94f.jpg",
         "image_credit": "elDiario.es"
+      },
+      {
+        "title": "Francia, entre la tensión social y la deuda",
+        "url": "https://www.eldiario.es/opinion/tribuna-abierta/francia-tension-social-deuda_129_13634676.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-06T21:22:14+00:00",
+        "excerpt": "Solo hay dos formas de abordar la crisis de deuda. O se limitan los gastos públicos o se aumentan los impuestos de un modo progresivo. No es posible adoptar las dos políticas a la vez A escasos…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 7.55,
+        "id": "680dd4aff9769d51",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:27.917357+00:00",
+        "image": "assets/noticias/9b2f7089806f0c5729ac.jpg",
+        "image_credit": "elDiario.es"
+      },
+      {
+        "title": "Las ideas de PP y Vox en lo laboral: cuestionar las bajas o presionar a los sindicatos para parar la huelga",
+        "url": "https://www.infolibre.es/economia-y-sociedad/empleo/ideas-pp-vox-laboral-cuestionar-bajas-presionar-sindicatos-parar-huelga_1_2239546.html",
+        "outlet": "infoLibre",
+        "region": "España",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-06T19:21:44+00:00",
+        "excerpt": "En lo relativo al mercado laboral, las discrepancias entre el Gobierno y los principales partidos de la oposición, PP y Vox, se suelen escenificar en cuestiones como la subida del SMI, la gestión…",
+        "coverage": [
+          "infoLibre"
+        ],
+        "score": 7.216,
+        "id": "b1b30c0a0fe11a00",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:27.632145+00:00",
+        "image": "assets/noticias/b0dba99c67fdbc3d65cd.jpg",
+        "image_credit": "infoLibre"
+      },
+      {
+        "title": "La inflación en la Ciudad de Buenos Aires fue de 1,9% en octubre y acumula un alza de 26,1% en 2026",
+        "url": "https://www.eldiarioar.com/economia/inflacion-ciudad-buenos-aires-1-9-octubre-acumula-alza-26-1-2026_1_13644646.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-06T14:43:41+00:00",
+        "excerpt": "En septiembre, el dato había sido de 1,8%. La suba fue de 32,5% en los últimos 12 meses. La inflación en la Ciudad de Buenos Aires en octubre fue del 1,9% con una leve aceleración con relación al…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 6.443,
+        "id": "26ab853bea52779a",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:21.617857+00:00",
+        "image": "assets/noticias/1e963ca19e308ef0d550.jpg",
+        "image_credit": "elDiarioAR"
       },
       {
         "title": "He probado el Lepas L6 PHEV en China: ¿va a reventar el mercado este nuevo SUV?",
@@ -349,56 +360,56 @@
         "coverage": [
           "Hipertextual"
         ],
-        "score": 9.69,
+        "score": 5.7,
         "id": "7ee6de1fd0c25baf",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:06.819562+00:00",
+        "url_checked_at": "2026-11-07T12:04:28.195635+00:00",
         "image": "assets/noticias/aa8f81c302edbc4b7f99.jpg",
         "image_credit": "Hipertextual"
       },
       {
-        "title": "Sindicatos europeos se desmarcan de la cúpula mundial y apoyan a Yolanda Díaz para dirigir la OIT",
-        "url": "https://www.eldiario.es/economia/sindicatos-europeos-desmarcan-cupula-mundial-apoyan-yolanda-diaz-dirigir-oit_1_13640099.html",
-        "outlet": "elDiario.es",
-        "region": "España",
+        "title": "Sindicato pide a la CCSS solución para restablecer servicio de radiografías en hospital de San Vito",
+        "url": "https://delfino.cr/2026/11/sindicato-pide-a-la-ccss-solucion-para-restablecer-servicio-de-radiografias-en-hospital-de-san-vito",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
         "independent": true,
         "section": "Economía",
-        "published_at": "2026-11-06T09:42:27+00:00",
-        "excerpt": "Gran \"enfado\" en la Confederación Europea por el respaldo de la CSI al actual director, Gilbert F. Houngbo, ante lo que trabajan para impulsar el voto a la candidata española de las organizaciones…",
+        "published_at": "2026-11-06T04:47:18+00:00",
+        "excerpt": "Siprocimeca solicita una alternativa mientras la Caja adquiere e instala un nuevo equipo de rayos X para el Hospital Juana Pirola.",
         "coverage": [
-          "elDiario.es"
+          "Delfino.cr"
         ],
-        "score": 9.597,
-        "id": "42abe5f6976ac5ac",
+        "score": 4.787,
+        "id": "7183e5a682ada4fc",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:11.336082+00:00",
-        "image": "assets/noticias/8deda090fa79e2828481.jpg",
-        "image_credit": "elDiario.es"
-      },
-      {
-        "title": "¿Tiene la cultura derecho a huelga?",
-        "url": "https://www.eldiario.es/cultura/cultura-derecho-huelga_129_13642942.html",
-        "outlet": "elDiario.es",
-        "region": "España",
-        "independent": true,
-        "section": "Economía",
-        "published_at": "2026-11-06T09:35:48+00:00",
-        "excerpt": "Algunas empresas promotoras de espectáculos teatrales han movido la función prevista para el miércoles 11 de noviembre al día libre de esa semana, para evitar coincidir con el paro de ese día…",
-        "coverage": [
-          "elDiario.es"
-        ],
-        "score": 9.578,
-        "id": "b967b372a75da5dd",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:11.470191+00:00",
-        "image": "assets/noticias/5c4cc9d970f4452ef37c.jpg",
-        "image_credit": "elDiario.es"
+        "url_checked_at": "2026-11-07T12:04:28.560261+00:00",
+        "image": "assets/noticias/217a7046a5a065dc7315.jpg",
+        "image_credit": "Delfino.cr"
       }
     ],
     "Fútbol": [
+      {
+        "title": "Se confirmó la lista de Forlán para los amistosos con Argentina y República Dominicana",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/se-confirmo-la-lista-de-forlan-para-los-amistosos-con-argentina-y-republica-dominicana",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-06T15:08:45+00:00",
+        "excerpt": "Entre los convocados están los goleros Diego Jaume e Ignacio de Arruabarrena, y el delantero Bruno Damiani, también vuelven Nicolás de la Cruz y Agustín Canobbio. La Asociación Uruguaya de Fútbol…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 6.513,
+        "id": "52c919003f536a34",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:32.092731+00:00",
+        "image": "assets/noticias/ec393b07acd272d66244.webp",
+        "image_credit": "la diaria"
+      },
       {
         "title": "Montevideo City Torque se metió entre los ocho mejores de la Copa AUF Uruguay",
         "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/montevideo-city-torque-se-metio-entre-los-ocho-mejores-de-la-copa-auf-uruguay",
@@ -411,257 +422,241 @@
         "coverage": [
           "la diaria"
         ],
-        "score": 8.372,
+        "score": 4.382,
         "id": "4afd821ada2fd24b",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:04.003263+00:00",
+        "url_checked_at": "2026-11-07T12:04:32.374448+00:00",
         "image": "assets/noticias/aaab72127ebb8a565f40.webp",
         "image_credit": "la diaria"
       },
       {
-        "title": "Costa Rica cierra su histórica participación en fútbol sala femenino en Dakar 2026",
-        "url": "https://delfino.cr/2026/11/costa-rica-cierra-su-historica-participacion-en-futbol-sala-femenino-en-dakar-2026-2",
-        "outlet": "Delfino.cr",
-        "region": "Costa Rica",
-        "independent": true,
-        "section": "Fútbol",
-        "published_at": "2026-11-06T01:25:04+00:00",
-        "excerpt": "Ojo a la data. La FIFA destacó el impacto de una inversión superior a un millón de dólares mediante el programa FIFA Forward para construir el BN Arena, en San Rafael de Alajuela, donde la Selección…",
-        "coverage": [
-          "Delfino.cr"
-        ],
-        "score": 8.215,
-        "id": "1829f56fba86ec4c",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:14.475201+00:00",
-        "image": "assets/noticias/8c0869a6ab5dd70a9918.jpg",
-        "image_credit": "Delfino.cr"
-      },
-      {
-        "title": "Liverpool a cuartos de final de la Copa Uruguay",
-        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/liverpool-a-cuartos-de-final-de-la-copa-uruguay",
-        "outlet": "la diaria",
-        "region": "Uruguay",
-        "independent": true,
-        "section": "Fútbol",
-        "published_at": "2026-11-06T00:00:26+00:00",
-        "excerpt": "En Tacuarembó venció 2-0 a Gladiador de Salto y ahora se las verá con Juventud por un lugar en semifinales. Liverpool le ganó 2-0 a Gladiador de Salto en el estadio Goyenola de Tacuarembó, donde, en…",
-        "coverage": [
-          "la diaria"
-        ],
-        "score": 7.98,
-        "id": "c09a845236a6035f",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:03.909778+00:00",
-        "image": "assets/noticias/b08a2fbc97d52a9e7863.webp",
-        "image_credit": "la diaria"
-      },
-      {
-        "title": "Nacional jugará dos partidos sin público por los incidentes ante Maldonado y Liverpool",
-        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/nacional-jugara-dos-partidos-sin-publico-por-los-incidentes-ante-maldonado-y-liverpool",
-        "outlet": "la diaria",
-        "region": "Uruguay",
-        "independent": true,
-        "section": "Fútbol",
-        "published_at": "2026-11-05T23:49:35+00:00",
-        "excerpt": "La Comisión Disciplinaria falló por los incidentes de Nacional ante Deportivo Maldonado y Liverpool en el Gran Parque Central; la sanción comenzará a cumplirse en la fecha que viene, ante Albion. La…",
-        "coverage": [
-          "la diaria"
-        ],
-        "score": 7.95,
-        "id": "8adb6919ff3e12ef",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:04.123763+00:00",
-        "image": "assets/noticias/e275721e1169760c39fa.webp",
-        "image_credit": "la diaria"
-      },
-      {
-        "title": "Nicolas Cage rompe su silencio por el fichaje de Ryan Gosling como nuevo ‘Ghost Rider’ de Marvel",
-        "url": "https://hipertextual.com/cine-television/nicolas-cage-rompe-su-silencio-por-el-fichaje-de-ryan-gosling-como-nuevo-ghost-rider-de-marvel",
-        "outlet": "Hipertextual",
-        "region": "Mundo",
-        "independent": true,
-        "section": "Fútbol",
-        "published_at": "2026-11-05T10:20:17+00:00",
-        "excerpt": "Marvel ya prepara su próxima gran película de Ghost Rider con Ryan Gosling como protagonista. El actor de La La Land y Barbie se pondrá en la piel del Motorista Fantasma para una entrega que llegará…",
-        "coverage": [
-          "Hipertextual"
-        ],
-        "score": 5.702,
-        "id": "c53ee6c6fd0224ba",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:14.673617+00:00",
-        "image": "assets/noticias/af2abf4e154d1b15d2c1.jpg",
-        "image_credit": "Hipertextual"
-      },
-      {
-        "title": "La NFL Experience traslada el ambiente del fútbol americano al corazón de Madrid",
-        "url": "https://www.infobae.com/espana/agencias/2026/11/06/la-nfl-experience-traslada-el-ambiente-del-futbol-americano-al-corazon-de-madrid",
+        "title": "Boca, Argentinos Juniors y Rosario Central buscarán el título de la Tabla Anual: hora y todo lo que hay que…",
+        "url": "https://www.infobae.com/deportes/2026/11/07/boca-argentinos-juniors-y-rosario-central-buscaran-el-titulo-de-la-tabla-anual-hora-y-todo-lo-que-hay-que-saber",
         "outlet": "Infobae",
         "region": "Argentina",
         "independent": false,
         "section": "Fútbol",
-        "published_at": "2026-11-06T12:02:30+00:00",
-        "excerpt": "",
+        "published_at": "2026-11-07T11:47:58+00:00",
+        "excerpt": "Este sábado se define quién se quedará con el trofeo de campeón de Liga en el fútbol argentino. Los encuentros arrancarán a las 17:30",
         "coverage": [
-          "Infobae"
+          "Infobae",
+          "Infobae Deportes"
         ],
-        "score": 5.986,
-        "id": "1b2a7fa985f75c5b",
+        "score": 7.955,
+        "id": "87aa166cb673cdd4",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:15.749253+00:00",
-        "image": "assets/noticias/3e81bb9b51a55587fe79.png",
+        "url_checked_at": "2026-11-07T12:04:31.608337+00:00",
+        "image": "assets/noticias/cc8926e618ef7a491458.jpg",
         "image_credit": "Infobae"
+      },
+      {
+        "title": "A qué hora juega Boca vs. Defensa y Justicia y por dónde se puede ver en vivo",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-boca-vs-defensa-y-justicia-y-por-donde-se-puede-ver-en-vivo-nid07112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-07T12:00:00+00:00",
+        "excerpt": "El xeneize recibe al Halcón de Varela con la ilusión de quedarse con la Tabla Anual, que dejaría atrás su sequía de títulos de tres años",
+        "coverage": [
+          "La Nación"
+        ],
+        "score": 5.989,
+        "id": "131672a4e98c3185",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:31.663468+00:00",
+        "image": "assets/noticias/1d5f6e074f6fa472c84b.jpg",
+        "image_credit": "La Nación"
+      },
+      {
+        "title": "El balance de Pedro Troglio antes de enfrentar a Boca",
+        "url": "https://www.ole.com.ar/banfield/copa-argentina-banfield-pedro-troglio-boca-semi_0_brOe7pK3wM.html",
+        "outlet": "Olé",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-07T11:01:04+00:00",
+        "excerpt": "Tras empatar 2-2 con Atlético Tucumán en la fecha 16 del Torneo Clausura, el entrenador de Banfield palpitó el cruce que tendrá con el Xeneize en la semi de la Copa Argentina.",
+        "coverage": [
+          "Olé"
+        ],
+        "score": 5.825,
+        "id": "369a2fb8498559b5",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:31.397493+00:00",
+        "image": "assets/noticias/e42ebac9e21f20bc7533.jpg",
+        "image_credit": "Olé"
+      },
+      {
+        "title": "Rafa Nadal, alumno de Florentino Pérez para aprender a ser presidente del Real Madrid",
+        "url": "https://elpais.com/deportes/futbol/2026-11-07/rafa-nadal-alumno-de-florentino-perez-para-aprender-a-ser-presidente-del-real-madrid.html",
+        "outlet": "El País",
+        "region": "España",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-07T04:30:01+00:00",
+        "excerpt": "Una vez entre en la directiva del club, el extenista acompañará al mandatario para empaparse del funcionamiento de la entidad con vistas a un posible acceso al cargo",
+        "coverage": [
+          "El País"
+        ],
+        "score": 4.739,
+        "id": "8aea58eadb954957",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:32.527564+00:00",
+        "image": "assets/noticias/0916a95bc4dfdfa92085.jpg",
+        "image_credit": "El País"
       }
     ],
     "Básquetbol": [
       {
-        "title": "La lista de Montenegro, rival de España, para las ventanas FIBA de noviembre, con un canterano del Real Madrid",
-        "url": "https://www.gigantes.com/selecciones/convocados-montenegro-ventanas-fiba-espana-noviembre-2026",
+        "title": "Kristaps Porzingis se aleja del mundo del baloncesto: Su comunicado en redes sociales",
+        "url": "https://www.gigantes.com/nba/kristaps-porzingis-warriors-baloncesto-comunicado-aleja",
         "outlet": "Gigantes del Basket",
         "region": "España",
         "independent": true,
         "section": "Básquetbol",
-        "published_at": "2026-11-06T11:20:31+00:00",
-        "excerpt": "Estos son los 19 convocados de Montenegro, con presencia de varios jugadores de la Liga Endesa y de un joven canterano del Real Madrid La entrada La lista de Montenegro, rival de España, para las…",
+        "published_at": "2026-11-06T21:58:58+00:00",
+        "excerpt": "El letón abre una nueva etapa para centrarse en su recuperación. La entrada Kristaps Porzingis se aleja del mundo del baloncesto: Su comunicado en redes sociales se publicó primero en Gigantes del…",
         "coverage": [
-          "Gigantes del Basket"
+          "Gigantes del Basket",
+          "Infobae"
         ],
-        "score": 9.869,
-        "id": "b53cdac50b5f146a",
+        "score": 9.652,
+        "id": "412150ffb1207842",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:06.075864+00:00",
-        "image": "assets/noticias/096a043c52f060cd91b9.webp",
+        "url_checked_at": "2026-11-07T12:04:24.150873+00:00",
+        "image": "assets/noticias/cebc8a12ab8c38ae11ac.jpg",
         "image_credit": "Gigantes del Basket"
       },
       {
-        "title": "La lista de España para la Ventana FIBA: Pendande sustituye a la lesionada Marta Suárez",
-        "url": "https://www.gigantes.com/selecciones/espana-ventana-fiba-noviembre-lista",
+        "title": "Qué está fallando en los Miami Heat: El encaje de Giannis Antetokounmpo y una plantilla corta",
+        "url": "https://www.gigantes.com/nba/que-esta-fallando-miami-heat-giannis-antetokounmpo",
         "outlet": "Gigantes del Basket",
         "region": "España",
         "independent": true,
         "section": "Básquetbol",
-        "published_at": "2026-11-06T10:51:06+00:00",
-        "excerpt": "España jugará 3 partidos en noviembre para intentar encarrilar su billete al EuroBasket Women 2027. La entrada La lista de España para la Ventana FIBA: Pendande sustituye a la lesionada Marta Suárez…",
+        "published_at": "2026-11-07T09:32:16+00:00",
+        "excerpt": "La llegada de Giannis Antetokounmpo auguraba el comienzo de algo grande en los Miami Heat, pero los resultados no están siendo muy positivos. La entrada Qué está fallando en los Miami Heat: El…",
         "coverage": [
           "Gigantes del Basket"
         ],
-        "score": 9.787,
-        "id": "c48dcbc05ade6756",
+        "score": 9.578,
+        "id": "de1e95e454ec6931",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:06.141569+00:00",
-        "image": "assets/noticias/b246470d0452984b7124.webp",
+        "url_checked_at": "2026-11-07T12:04:35.295537+00:00",
+        "image": "assets/noticias/be78abdca72f52dc6480.png",
         "image_credit": "Gigantes del Basket"
       },
       {
-        "title": "España, la liga con más extranjeros según el informe de la FIBA: un 72,9%",
-        "url": "https://www.solobasket.com/liga-endesa/espana-liga-mas-extranjeros-informe-migracion-fiba",
-        "outlet": "Solo Basket",
-        "region": "España",
-        "independent": true,
+        "title": "Kristaps Porzingis se aleja del baloncesto para \"priorizar\" su salud",
+        "url": "https://www.infobae.com/america/agencias/2026/11/07/kristaps-porzingis-se-aleja-del-baloncesto-para-priorizar-su-salud",
+        "outlet": "Infobae",
+        "region": "Argentina",
+        "independent": false,
         "section": "Básquetbol",
-        "published_at": "2026-11-06T10:00:00+00:00",
-        "excerpt": "El Informe de Migración 2026 de la FIBA y el CIES sitúa a la Liga Endesa como la liga con más extranjeros (72,9%) y a España con el peor balance migratorio: -288.",
+        "published_at": "2026-11-07T11:30:56+00:00",
+        "excerpt": "",
         "coverage": [
+          "Gigantes del Basket",
+          "Infobae",
           "Solo Basket"
         ],
-        "score": 9.645,
-        "id": "f3ede2d86e81f962",
+        "score": 9.908,
+        "id": "059f918bfca3bb6c",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:17.955904+00:00",
-        "image": "assets/noticias/6c50ef8ae08b3ebd470a.jpg",
-        "image_credit": "Solo Basket"
+        "url_checked_at": "2026-11-07T12:04:37.044906+00:00",
+        "image": "assets/noticias/6f35264cdaa42ebecfd7.jpg",
+        "image_credit": "Infobae"
       },
       {
-        "title": "Liga Uruguaya: Goes se quedó con el clásico",
-        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/liga-uruguaya-goes-se-quedo-con-el-clasico",
-        "outlet": "la diaria",
-        "region": "Uruguay",
-        "independent": true,
+        "title": "¿Quién es Pedro Alliana? De jugador de baloncesto a nuevo presidente de Paraguay",
+        "url": "https://es.euronews.com/2026/11/07/quien-es-pedro-alliana-nuevo-presidente-paraguay",
+        "outlet": "Euronews en español",
+        "region": "Mundo",
+        "independent": false,
         "section": "Básquetbol",
-        "published_at": "2026-11-05T03:12:45+00:00",
-        "excerpt": "Con un triple de Juan Ignacio Ducasse sobre la chicharra, el misionero se quedó con un partidazo. Goes se impuso 87-84 a Aguada en el Palacio Peñarol, en partido correspondiente a la fecha 5 de la…",
+        "published_at": "2026-11-07T08:07:28+00:00",
+        "excerpt": "Exjugador de la selección paraguaya de baloncesto, empresario y figura destacada del Partido Colorado, Pedro Alliana ha pasado de vicepresidente a jefe del Estado tras la destitución de Santiago…",
         "coverage": [
-          "la diaria"
+          "Euronews en español"
         ],
-        "score": 4.514,
-        "id": "704aab8df2c9b38d",
+        "score": 5.343,
+        "id": "b67a1fcf01921b1e",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:24.504705+00:00",
-        "image": "assets/noticias/f030506a2bab84bb0926.webp",
-        "image_credit": "la diaria"
+        "url_checked_at": "2026-11-07T12:04:36.923568+00:00",
+        "image": "assets/noticias/439828786f76e3992e34.jpg",
+        "image_credit": "Euronews en español"
       },
       {
-        "title": "Noche histórica en la NBA: Wembanyama rompió un récord que llevaba 52 años con una actuación implacable para…",
-        "url": "https://www.infobae.com/deportes/2026/11/05/noche-historica-en-la-nba-wembanyama-rompio-un-record-que-llevaba-52-anos-con-una-actuacion-implacable-para-san-antonio-spurs",
+        "title": "El Mercedes-Maybach personalizado de LeBron James podría venderse por hasta USD 550.000 en una subasta…",
+        "url": "https://www.infobae.com/america/mundo/2026/11/06/el-mercedes-maybach-personalizado-de-lebron-james-podria-venderse-por-hasta-usd-550000-en-una-subasta-benefica",
         "outlet": "Infobae Deportes",
         "region": "Argentina",
         "independent": false,
         "section": "Básquetbol",
-        "published_at": "2026-11-05T15:52:33+00:00",
-        "excerpt": "El pivote francés fue clave en la victoria ante Dallas Mavericks y terminó el partido con 52 puntos, 24 rebotes y 8 tapas",
+        "published_at": "2026-11-06T13:06:37+00:00",
+        "excerpt": "La casa Gooding Christie's ofrecerá en noviembre una réplica del vehículo del basquetbolista, cuyos ingresos irán íntegramente a su fundación, dedicada a programas educativos y juveniles para…",
         "coverage": [
           "Infobae Deportes"
         ],
-        "score": 2.625,
-        "id": "16716da4d8361836",
+        "score": 2.174,
+        "id": "3341d8cf66b7447e",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:23.562332+00:00",
-        "image": "assets/noticias/588c06f8d7c20d1a8be9.jpg",
+        "url_checked_at": "2026-11-07T12:04:37.173943+00:00",
+        "image": "assets/noticias/09d5aca360df9336b932.jpg",
         "image_credit": "Infobae Deportes"
       }
     ],
     "Tenis": [
       {
-        "title": "Sinner se despide de Cahill con un emotivo vídeo",
-        "url": "https://www.puntodebreak.com/2026/11/06/sinner-despide-cahill-emotivo-video",
-        "outlet": "Punto de Break",
-        "region": "España",
-        "independent": true,
-        "section": "Tenis",
-        "published_at": "2026-11-06T09:33:53+00:00",
-        "excerpt": "El tenista italiano agradeció a su ya ex entrenador todo el tiempo juntos poniendo fin a una etapa en la que han levantado infinidad de títulos y han llegado a lo más alto.",
-        "coverage": [
-          "Punto de Break"
-        ],
-        "score": 9.573,
-        "id": "97ac54dc9e247e66",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:25.074482+00:00",
-        "image": "assets/noticias/b3d5f1f7f42a39f990f1.jpg",
-        "image_credit": "Punto de Break"
-      },
-      {
-        "title": "Jannik Sinner se separa de Darren Cahill: \"Mucho de lo que soy como jugador es gracias a ti\"",
-        "url": "https://www.infobae.com/america/agencias/2026/11/06/jannik-sinner-se-separa-de-darren-cahill-mucho-de-lo-que-soy-como-jugador-es-gracias-a-ti",
-        "outlet": "Infobae",
+        "title": "Francisco Mastelli, aquel chico que era mejor que Vilas y su convicción: “La única líder positiva que…",
+        "url": "https://www.lanacion.com.ar/deportes/tenis/francisco-mastelli-aquel-chico-que-era-mejor-que-vilas-y-su-conviccion-la-unica-lider-positiva-que-nid07112026",
+        "outlet": "La Nación",
         "region": "Argentina",
         "independent": false,
         "section": "Tenis",
-        "published_at": "2026-11-06T11:47:21+00:00",
-        "excerpt": "",
+        "published_at": "2026-11-07T10:00:00+00:00",
+        "excerpt": "Entrenador de alma, condujo a Luli Mancini en su momento dorado. Cómo ve el circuito, la aciaga experiencia copera y las razones del milagro argentino",
         "coverage": [
-          "Infobae"
+          "La Nación"
         ],
-        "score": 5.943,
-        "id": "7be888156490e88b",
+        "score": 5.655,
+        "id": "38a322b691056468",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:25.845059+00:00",
-        "image": "assets/noticias/b27de36453705a80cab2.jpg",
-        "image_credit": "Infobae"
+        "url_checked_at": "2026-11-07T12:04:38.624664+00:00",
+        "image": "assets/noticias/b553aeab92571bfc0a45.jpg",
+        "image_credit": "La Nación"
+      },
+      {
+        "title": "Los argentinos coparon las semifinales y el Challenger de Villa María tendrá un campeón nacional",
+        "url": "https://www.infobae.com/deportes/2026/11/06/los-argentinos-coparon-las-semifinales-y-el-challenger-de-villa-maria-tendra-un-campeon-nacional",
+        "outlet": "Infobae Deportes",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Tenis",
+        "published_at": "2026-11-06T23:29:37+00:00",
+        "excerpt": "Coria-Olivieri y La Serna-Kicker serán los cruces en busca de un lugar en la final del domingo",
+        "coverage": [
+          "Infobae Deportes"
+        ],
+        "score": 3.904,
+        "id": "3282ac10115224ac",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:38.496512+00:00",
+        "image": "assets/noticias/35b9384c26987ecfc4d8.jpg",
+        "image_credit": "Infobae Deportes"
       },
       {
         "title": "Dominio argentino en el AAT Challenger de Villa María: siete de los ocho clasificados a cuartos de final son…",
@@ -675,36 +670,76 @@
         "coverage": [
           "Infobae Deportes"
         ],
-        "score": 4.215,
+        "score": 0.225,
         "id": "4071c50a57c62c41",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:25.999871+00:00",
+        "url_checked_at": "2026-11-07T12:04:38.465079+00:00",
         "image": "assets/noticias/554c11d72df9b8acdfb2.jpg",
-        "image_credit": "Infobae Deportes"
-      },
-      {
-        "title": "Tomás Etcheverry no pudo sostener su nivel y cayó ante Hijikata en el Masters 1000 de París: ya no quedan…",
-        "url": "https://www.infobae.com/deportes/2026/11/05/tomas-etcheverry-no-pudo-sostener-su-nivel-y-cayo-ante-hijikata-en-el-masters-1000-de-paris-ya-no-quedan-argentinos-en-el-torneo",
-        "outlet": "Infobae Deportes",
-        "region": "Argentina",
-        "independent": false,
-        "section": "Tenis",
-        "published_at": "2026-11-05T17:25:35+00:00",
-        "excerpt": "Un día después de su primer triunfo ante un Top 10, el platense perdió en tres sets en un partido parejo por los octavos de final. Tras un buen comienzo, su nivel decayó y el australiano, que venía…",
-        "coverage": [
-          "Infobae Deportes"
-        ],
-        "score": 2.883,
-        "id": "583500c8baeb95a2",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:26.164043+00:00",
-        "image": "assets/noticias/7697adb03315ea2aa7b9.jpg",
         "image_credit": "Infobae Deportes"
       }
     ],
     "Tech": [
+      {
+        "title": "¿Tu PC se está quedando sin espacio? Esta carpeta de Windows podría tener parte de culpa",
+        "url": "https://hipertextual.com/guias/limpiar-espacio-disponible-carpeta-windows-installer",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-07T08:12:39+00:00",
+        "excerpt": "Windows 11 cumplió cinco años el pasado 5 de octubre. Y aunque no tuvo una bienvenida demasiado calurosa por culpa de sus exigentes requisitos mínimos, a base de actualizaciones y otras estrategias…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 9.357,
+        "id": "beaf6c33acf26f5a",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:25.956430+00:00",
+        "image": "assets/noticias/a45a14d0e51301f1a8ad.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "Windows 11 27H2: la gran actualización con la que Microsoft quiere reinventar Windows en 2027",
+        "url": "https://hipertextual.com/software/windows-11-27h2-actualizacion-2027-novedades",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-06T22:09:00+00:00",
+        "excerpt": "Durante años, la industria tecnológica dio por hecho que el siguiente gran salto de Microsoft sería Windows 12. No obstante, la compañía ha cambiado la trayectoria y decidió enfocarse en mejorar la…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 7.68,
+        "id": "7e32140fb65bf188",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:24.952600+00:00",
+        "image": "assets/noticias/fe841586b0e43992aace.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "El próximo iPhone podría quedarse sin su botón más útil",
+        "url": "https://hipertextual.com/apple/el-proximo-iphone-podria-quedarse-sin-el-boton-de-accion",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-06T21:00:00+00:00",
+        "excerpt": "Apple prepararía un importante cambio para sus próximos iPhone, que perderían su botón físico más útil. Según recoge MacRumors, una nueva filtración apunta a que los de Cupertino podrían eliminar el…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 7.489,
+        "id": "c46920fa5732b0b3",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:25.927622+00:00",
+        "image": "assets/noticias/e6acd9f4268f540438b0.jpg",
+        "image_credit": "Hipertextual"
+      },
       {
         "title": "La crisis de Ueno Bank en Paraguay golpea a la Argentina: la tecnológica ITTI suspende a mil trabajadores",
         "url": "https://www.eldiarioar.com/economia/crisis-ueno-bank-paraguay-golpea-argentina-tecnologica-itti-suspende-mil-trabajadores_1_13643681.html",
@@ -717,11 +752,11 @@
         "coverage": [
           "elDiarioAR"
         ],
-        "score": 9.978,
+        "score": 5.988,
         "id": "1f20577146c4788d",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:02.938564+00:00",
+        "url_checked_at": "2026-11-07T12:04:39.870921+00:00",
         "image": "assets/noticias/10a508e55d4f967ce410.jpg",
         "image_credit": "elDiarioAR"
       },
@@ -737,155 +772,93 @@
         "coverage": [
           "Delfino.cr"
         ],
-        "score": 8.787,
+        "score": 4.797,
         "id": "5e772077be4458de",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:27.504759+00:00",
+        "url_checked_at": "2026-11-07T12:04:39.402656+00:00",
         "image": "assets/noticias/2b19eea4fb78bcf45271.jpg",
         "image_credit": "Delfino.cr"
       },
       {
-        "title": "Más problemas para One UI 9, que rompe el WiFi y las redes móviles de varios Samsung Galaxy",
-        "url": "https://hipertextual.com/mobile/one-ui-9-problemas-wifi-redes-moviles-sim",
-        "outlet": "Hipertextual",
-        "region": "Mundo",
-        "independent": true,
-        "section": "Tech",
-        "published_at": "2026-11-05T13:55:38+00:00",
-        "excerpt": "Si tu Samsung Galaxy ha comenzado a tener problemas severos de conectividad, es posible que la culpa sea de One UI 9. Usuarios de dispositivos del fabricante coreano están reportando inconvenientes…",
-        "coverage": [
-          "Hipertextual"
-        ],
-        "score": 6.3,
-        "id": "ea59f50f5b035d72",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:28.160168+00:00",
-        "image": "assets/noticias/a3f9f38e94c17a1193c3.jpg",
-        "image_credit": "Hipertextual"
-      },
-      {
-        "title": "Motorola asalta la gama alta con un nuevo móvil de casi 2000 euros llamado Signature 27 y su impresionante…",
-        "url": "https://hipertextual.com/tecnologia/motorola-signature-27",
-        "outlet": "Hipertextual",
-        "region": "Mundo",
-        "independent": true,
-        "section": "Tech",
-        "published_at": "2026-11-05T13:01:00+00:00",
-        "excerpt": "Motorola pone al día su catálogo de smartphones con un nuevo modelo con el que busca llevar la mejor tecnología de la marca a un mercado cada vez más competitivo en la gama alta. La compañía apuesta…",
-        "coverage": [
-          "Hipertextual"
-        ],
-        "score": 6.148,
-        "id": "0eee133c579171e0",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:28.774799+00:00",
-        "image": "assets/noticias/a229604b601b8a49c705.jpg",
-        "image_credit": "Hipertextual"
-      },
-      {
-        "title": "Estos son los dos mejores iPhone en oferta que puedes comprar ahora mismo",
-        "url": "https://hipertextual.com/ofertas-descuentos/iphone-oferta",
-        "outlet": "Hipertextual",
-        "region": "Mundo",
-        "independent": true,
-        "section": "Tech",
-        "published_at": "2026-11-05T10:32:51+00:00",
-        "excerpt": "El otro día un amigo me dijo que quería comprar un iPhone. Como suele ser habitual, todo el mundo que se quiere comprar uno, tampoco quiere gastar mucho y cuando le digo los precios del iPhone 18…",
-        "coverage": [
-          "Hipertextual"
-        ],
-        "score": 5.737,
-        "id": "34c0a034676e5e9b",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:27.799349+00:00",
-        "image": "assets/noticias/05ab11f007ce40c797de.jpg",
-        "image_credit": "Hipertextual"
-      },
-      {
-        "title": "Sinpe Móvil y el diagnóstico equivocado de Hacienda",
-        "url": "https://www.nacion.com/opinion/columnistas/sinpe-movil-y-el-diagnostico-equivocado-de/ATH77RFWM5HTZFIYTMWIKTU52Y/story",
-        "outlet": "La Nación CR",
-        "region": "Costa Rica",
+        "title": "El femicidio de Nancy Godoy: un circuito de cotos de caza domina el escenario de un crimen que aún no tiene…",
+        "url": "https://www.lanacion.com.ar/seguridad/femicidio-de-nancy-godoy-las-sospechas-sobre-un-circuito-ilegal-de-caza-en-corrientes-nid07112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
         "independent": false,
         "section": "Tech",
-        "published_at": "2026-11-06T12:00:00+00:00",
-        "excerpt": "Hacienda está sufriendo las consecuencias fiscales de un proceso que imprudentemente desencadenó: menores ingresos aduaneros en colones, presiones sobre el turismo y deterioro de balances y…",
+        "published_at": "2026-11-07T09:00:00+00:00",
+        "excerpt": "El crimen de la docente, cuyo cuerpo fue encontrado en un bañado cerca de Esquina, puso bajo la lupa un entramado de cotos de caza, presuntas irregularidades en los controles provinciales y…",
         "coverage": [
-          "La Nación CR"
+          "La Nación"
         ],
-        "score": 5.979,
-        "id": "3b1063c5582d361a",
+        "score": 5.489,
+        "id": "3969f1e360ca620f",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:27.542152+00:00",
-        "image": "assets/noticias/4848514b889f440af886.jpg",
-        "image_credit": "La Nación CR"
+        "url_checked_at": "2026-11-07T12:04:40.902422+00:00",
+        "image": "assets/noticias/29ea8399b17b49b368dc.jpg",
+        "image_credit": "La Nación"
       }
     ],
     "IA": [
       {
-        "title": "¿Qué nos hace humanos? El papa León XIV frente a la inteligencia artificial",
-        "url": "https://cenital.com/que-nos-hace-humanos-el-papa-leon-xiv-frente-a-la-inteligencia-artificial",
-        "outlet": "Cenital",
-        "region": "Argentina",
+        "title": "Rodrigo Arim: Uruguay no puede quedar al margen de la “ola” que está impulsando la inteligencia artificial",
+        "url": "https://ladiaria.com.uy/futuro/articulo/2026/11/rodrigo-arim-uruguay-no-puede-quedar-al-margen-de-la-ola-que-esta-impulsando-la-inteligencia-artificial",
+        "outlet": "la diaria",
+        "region": "Uruguay",
         "independent": true,
         "section": "IA",
-        "published_at": "2026-11-05T12:30:00+00:00",
-        "excerpt": "La IA puso a la Iglesia frente a viejas preguntas sobre la conciencia, el dolor y el alma. Entre el Vaticano y Silicon Valley, se cruzan dos tradiciones.",
+        "published_at": "2026-11-07T03:38:18+00:00",
+        "excerpt": "El director de la OPP señaló que el país debe apostar por esta tecnología como una herramienta “transversal”; no obstante, advirtió que el avance tecnológico está desafiando el ingreso de los…",
         "coverage": [
-          "Cenital"
+          "la diaria"
         ],
-        "score": 6.062,
-        "id": "a672230d1120ba80",
+        "score": 8.595,
+        "id": "90acd7a93fa10c17",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:29.464690+00:00",
-        "image": "assets/noticias/0814db91c5a54c9fc7ed.jpg",
-        "image_credit": "Cenital"
+        "url_checked_at": "2026-11-07T12:04:22.708047+00:00",
+        "image": "assets/noticias/51b8dc85e612854a3892.webp",
+        "image_credit": "la diaria"
       },
       {
-        "title": "La bolsa de Corea del Sur se desploma 6% por el temor a frenos para la inteligencia artificial",
-        "url": "https://www.infobae.com/tecno/2026/11/06/la-bolsa-de-corea-del-sur-se-desploma-6-por-el-temor-a-frenos-para-la-inteligencia-artificial",
-        "outlet": "Infobae",
-        "region": "Argentina",
+        "title": "Más de 19.000 modelos de inteligencia artificial abierta ya hablan español",
+        "url": "https://es.euronews.com/2026/11/06/19000-modelos-inteligencia-artificial-abierta-hablan-espanol",
+        "outlet": "Euronews en español",
+        "region": "Mundo",
         "independent": false,
         "section": "IA",
-        "published_at": "2026-11-06T11:45:03+00:00",
-        "excerpt": "El Kospi interrumpió las operaciones durante 20 minutos tras perder 8,78%, mientras Japón, Taiwán y Wall Street sufrieron retrocesos, con Tokio en su peor jornada desde abril de 2025",
+        "published_at": "2026-11-06T21:28:32+00:00",
+        "excerpt": "Más de 19.000 modelos abiertos de inteligencia artificial están etiquetados en español, situándolo como el cuarto idioma en este ámbito, según el informe 'Panorama del español en la inteligencia…",
         "coverage": [
-          "Infobae"
+          "Euronews en español"
         ],
-        "score": 5.937,
-        "id": "3455914e79ce988c",
+        "score": 3.568,
+        "id": "3e41bb6fba3bca2f",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:30.936777+00:00",
-        "image": "assets/noticias/7f94314d16fe65e3803d.jpg",
-        "image_credit": "Infobae"
+        "url_checked_at": "2026-11-07T12:04:41.391255+00:00",
+        "image": "assets/noticias/758b605c46c990988297.jpg",
+        "image_credit": "Euronews en español"
       },
       {
-        "title": "¿Puede la inteligencia artificial ser una artista?",
-        "url": "https://perfil.com/edicion-impresa/puede-la-inteligencia-artificial-ser-una-artista-acTgb5T0gTIB",
-        "outlet": "Perfil",
-        "region": "Argentina",
+        "title": "The Download: un humanoide limpia la casa y Samsung se prepara para el auge de la IA",
+        "url": "https://www.technologyreview.es/article/the-download-un-humanoide-limpia-la-casa-y-samsung-se-prepara-para-el-auge-de-la-ia",
+        "outlet": "MIT Technology Review en español",
+        "region": "Mundo",
         "independent": false,
         "section": "IA",
-        "published_at": "2026-11-06T07:19:03+00:00",
-        "excerpt": "Las nuevas tecnologías producen imágenes, composiciones musicales y textos que pueden resultar difíciles de distinguir de los realizados por seres humanos. Pero, ¿alcanza con obtener resultados…",
+        "published_at": "2026-11-06T08:10:00+00:00",
+        "excerpt": "Además: casi 2,5 billones de dólares se han esfumado de las acciones tecnológicas.",
         "coverage": [
-          "Perfil"
+          "MIT Technology Review en español"
         ],
-        "score": 5.198,
-        "id": "e7a9e0448a0ed2b9",
+        "score": 1.35,
+        "id": "561746236ca813e9",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:29.430378+00:00",
-        "image": "assets/noticias/817f6f144a93891910fe.webp",
-        "image_credit": "Perfil"
+        "url_checked_at": "2026-11-07T12:04:42.069678+00:00"
       },
       {
         "title": "Vi a un robot humanoide limpiar mi piso. Parecía un anticipo del futuro.",
@@ -899,127 +872,127 @@
         "coverage": [
           "MIT Technology Review en español"
         ],
-        "score": 4.812,
+        "score": 0.822,
         "id": "42f4a5c4fe185ea8",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:29.567219+00:00",
+        "url_checked_at": "2026-11-07T12:04:41.929643+00:00",
         "image": "assets/noticias/0e8cde8b53cd2f5b1385.jpg",
         "image_credit": "MIT Technology Review en español"
       }
     ],
     "Viajes": [
       {
-        "title": "Consejos para visitar Sierra Nevada: cómo organizar tu viaje",
-        "url": "https://www.viajablog.com/consejos-para-visitar-sierra-nevada",
+        "title": "Cómo visitar el castillo de Malbork desde Gdansk: entradas, horarios y transporte",
+        "url": "https://www.viajablog.com/visitar-el-castillo-de-malbork-desde-gdansk",
         "outlet": "Viajablog",
         "region": "Mundo",
         "independent": true,
         "section": "Viajes",
-        "published_at": "2026-11-06T11:30:57+00:00",
-        "excerpt": "Visitar Sierra Nevada requiere algo más de planificación que una escapada convencional. La altitud, los cambios bruscos de temperatura, las […] La entrada Consejos para visitar Sierra Nevada: cómo…",
+        "published_at": "2026-11-06T19:07:13+00:00",
+        "excerpt": "Visitar el castillo de Malbork desde Gdansk es una de las excursiones más interesantes que puedes hacer durante un viaje […] La entrada Cómo visitar el castillo de Malbork desde Gdansk: entradas…",
         "coverage": [
           "Viajablog"
         ],
-        "score": 9.898,
-        "id": "45d01d87bab95c98",
+        "score": 7.175,
+        "id": "fa9fea20297d6e71",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:09.298450+00:00",
-        "image": "assets/noticias/c29e9d8afc96fbbea00d.jpg",
+        "url_checked_at": "2026-11-07T12:04:25.700620+00:00",
+        "image": "assets/noticias/089b0d767f0749ce3426.jpg",
         "image_credit": "Viajablog"
       },
       {
-        "title": "Qué ver en Sierra Nevada: 12 lugares imprescindibles y planes que hacer",
-        "url": "https://www.viajablog.com/que-ver-en-sierra-nevada",
+        "title": "Mercadillos navideños en Gdansk: guía del mejor de Europa",
+        "url": "https://www.viajablog.com/mercadillo-navideno-en-gdansk",
         "outlet": "Viajablog",
         "region": "Mundo",
         "independent": true,
         "section": "Viajes",
-        "published_at": "2026-11-06T09:50:27+00:00",
-        "excerpt": "Sierra Nevada es uno de los grandes tesoros naturales de Andalucía y un destino que merece la pena descubrir mucho […] La entrada Qué ver en Sierra Nevada: 12 lugares imprescindibles y planes que…",
+        "published_at": "2026-11-06T18:31:47+00:00",
+        "excerpt": "Hay ciudades que parecen diseñadas para vivir la Navidad y Gdansk es una de ellas. Situada junto al mar Báltico, […] La entrada Mercadillos navideños en Gdansk: guía del mejor de Europa se publicó…",
         "coverage": [
           "Viajablog"
         ],
-        "score": 9.619,
-        "id": "70fe3f8f219a9861",
+        "score": 7.077,
+        "id": "c38614751ca2e59b",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:07.446036+00:00",
-        "image": "assets/noticias/271540da6ee02ea1425b.jpg",
+        "url_checked_at": "2026-11-07T12:04:25.707698+00:00",
+        "image": "assets/noticias/41344e843ed536399cfa.jpg",
         "image_credit": "Viajablog"
       },
       {
-        "title": "Qué ver en Doñana: 10 lugares imprescindibles y planes que no te puedes perder",
-        "url": "https://www.viajablog.com/que-ver-en-donana",
+        "title": "Las 10 mejores excursiones en Gdansk y alrededores: tours, barcos y visitas guiadas",
+        "url": "https://www.viajablog.com/excursiones-en-gdansk",
         "outlet": "Viajablog",
         "region": "Mundo",
         "independent": true,
         "section": "Viajes",
-        "published_at": "2026-11-06T09:02:58+00:00",
-        "excerpt": "Siempre quise visitar Doñana y, cuando lo hice, me di cuenta de por qué es considerada una de las joyas […] La entrada Qué ver en Doñana: 10 lugares imprescindibles y planes que no te puedes perder…",
+        "published_at": "2026-11-06T17:53:32+00:00",
+        "excerpt": "Gdansk es una de esas ciudades europeas que sorprenden por la cantidad de planes que ofrecen. Su casco histórico, reconstruido […] La entrada Las 10 mejores excursiones en Gdansk y alrededores…",
         "coverage": [
           "Viajablog"
         ],
-        "score": 9.487,
-        "id": "b8cdff6911738256",
+        "score": 6.971,
+        "id": "707c929077200893",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:09.217455+00:00",
-        "image": "assets/noticias/d282324c339db96dc02c.jpg",
+        "url_checked_at": "2026-11-07T12:04:44.213138+00:00",
+        "image": "assets/noticias/ff70435e19e0290cc7aa.jpg",
         "image_credit": "Viajablog"
       },
       {
-        "title": "El aeropuerto de Copenhague recibe nuevas falsas amenazas que la Policía investiga",
-        "url": "https://www.infobae.com/america/agencias/2026/11/06/el-aeropuerto-de-copenhague-recibe-nuevas-falsas-amenazas-que-la-policia-investiga",
-        "outlet": "Infobae",
-        "region": "Argentina",
-        "independent": false,
-        "section": "Viajes",
-        "published_at": "2026-11-06T12:04:32+00:00",
-        "excerpt": "",
-        "coverage": [
-          "Infobae"
-        ],
-        "score": 5.991,
-        "id": "f8875e87a7de23c4",
-        "url_verified": true,
-        "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:32.545934+00:00",
-        "image": "assets/noticias/3e81bb9b51a55587fe79.png",
-        "image_credit": "Infobae"
-      },
-      {
-        "title": "El recuerdo de Cristina Koch, primera mujer en viajar a la Luna, sobre la misión: “Veíamos destellos azules…",
-        "url": "https://www.lanacion.com.ar/el-mundo/el-recuerdo-de-cristina-koch-primera-mujer-en-viajar-a-la-luna-sobre-la-mision-veiamos-destellos-nid03112026",
+        "title": "Visita de León XIV: las búsquedas de alojamiento crecieron más del 500% y los hoteles porteños tendrán una…",
+        "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/visita-de-leon-xiv-las-busquedas-de-alojamiento-crecieron-mas-del-500-y-los-hoteles-portenos-tendran-nid07112026",
         "outlet": "La Nación",
         "region": "Argentina",
         "independent": false,
         "section": "Viajes",
-        "published_at": "2026-11-06T11:55:53+00:00",
-        "excerpt": "Tras completar con éxito el histórico sobrevuelo lunar, se conoció una frase que la astronauta de la NASA pronunció mientras realizaba la misión Artemis II",
+        "published_at": "2026-11-07T09:58:00+00:00",
+        "excerpt": "Del total de visitantes el 40% son argentinos y le siguen los brasileros con el 20%",
         "coverage": [
           "La Nación"
         ],
-        "score": 5.967,
-        "id": "3bead4d711041c5e",
+        "score": 5.65,
+        "id": "74ecfb3bbd7b894a",
         "url_verified": true,
         "url_status": 200,
-        "url_checked_at": "2026-11-06T12:08:35.574916+00:00",
-        "image": "assets/noticias/0fe590be6c029d960dbd.jpg",
+        "url_checked_at": "2026-11-07T12:04:44.940592+00:00",
+        "image": "assets/noticias/0209c0f9a98fa73856b8.jpg",
+        "image_credit": "La Nación"
+      },
+      {
+        "title": "Frente a las Cataratas, un hotel premiado con historia, visitas ilustres y alta cocina",
+        "url": "https://www.lanacion.com.ar/revista-lugares/frente-a-las-cataratas-un-hotel-premiado-con-historia-visitas-ilustres-y-alta-cocina-nid07112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Viajes",
+        "published_at": "2026-11-07T03:15:00+00:00",
+        "excerpt": "Con tres Llaves Michelin y un lugar entre los mejores hoteles del mundo, ofrece una experiencia única frente a uno de los mayores espectáculos naturales del planeta",
+        "coverage": [
+          "La Nación"
+        ],
+        "score": 4.53,
+        "id": "c4ca0881300a4f47",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:44.713627+00:00",
+        "image": "assets/noticias/f8c3c8d6645d6733b558.jpg",
         "image_credit": "La Nación"
       }
     ]
   },
   "resumen": [
-    "Por qué el Congreso de Paraguay no acepta la renuncia de Santiago Peña como presidente y qué supone ahora el… (El Observador CR).",
-    "¿Quién es Santiago Peña, el presidente de Paraguay que presentó la renuncia tras un escándalo financiero? (elDiarioAR).",
-    "Santiago Peña, quien sigue siendo el presidente paraguayo pese a su renuncia, se defenderá en el juicio… (la diaria).",
-    "La Fiscalía Europea abre otra investigación por fraude en la alta velocidad tras el accidente de Urda (elDiario.es)."
+    "El presidente destituido de Paraguay, Santiago Peña, fue detenido en su casa en Asunción (El Observador CR).",
+    "La debacle de Trump en las 'midterms' evidencia el desgaste de las guerras culturales impulsadas por la… (elDiarioAR).",
+    "El Senado de Paraguay destituyó por unanimidad al presidente Santiago Peña (la diaria).",
+    "Kristaps Porzingis se aparta del baloncesto: “He tomado la decisión de priorizar mi salud” (Solo Basket)."
   ],
   "resumen_method": "extractivo",
   "counts": {
-    "total": 48,
+    "total": 47,
     "lead": 1,
     "destacadas": 5,
     "sections": {
@@ -1027,19 +1000,19 @@
       "Economía": 6,
       "Fútbol": 6,
       "Básquetbol": 5,
-      "Tenis": 4,
+      "Tenis": 3,
       "Tech": 6,
       "IA": 4,
       "Viajes": 5
     },
-    "independent": 37,
-    "images": 48,
+    "independent": 31,
+    "images": 46,
     "regions": {
       "Argentina": 15,
       "Uruguay": 5,
-      "Costa Rica": 8,
+      "Costa Rica": 5,
       "España": 10,
-      "Mundo": 10
+      "Mundo": 12
     }
   },
   "feed_status": [
@@ -1047,7 +1020,7 @@
       "outlet": "elDiarioAR",
       "rss": "https://www.eldiarioar.com/rss/",
       "status": 200,
-      "recent_items": 11,
+      "recent_items": 12,
       "note": null,
       "final_url": "https://www.eldiarioar.com/rss/"
     },
@@ -1055,7 +1028,7 @@
       "outlet": "Cenital",
       "rss": "https://cenital.com/feed/",
       "status": 200,
-      "recent_items": 3,
+      "recent_items": 1,
       "note": null,
       "final_url": "https://cenital.com/feed/"
     },
@@ -1063,7 +1036,7 @@
       "outlet": "Revista Anfibia",
       "rss": "https://www.revistaanfibia.com/feed/",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 1,
       "note": null,
       "final_url": "https://www.revistaanfibia.com/feed/"
     },
@@ -1079,7 +1052,7 @@
       "outlet": "la diaria",
       "rss": "https://ladiaria.com.uy/feeds/articulos/",
       "status": 200,
-      "recent_items": 20,
+      "recent_items": 11,
       "note": null,
       "final_url": "https://ladiaria.com.uy/feeds/articulos/"
     },
@@ -1087,7 +1060,7 @@
       "outlet": "Montevideo Portal",
       "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
       "status": 200,
-      "recent_items": 12,
+      "recent_items": 7,
       "note": null,
       "final_url": "https://www.montevideo.com.uy/anxml.aspx?58"
     },
@@ -1095,7 +1068,7 @@
       "outlet": "Delfino.cr",
       "rss": "https://delfino.cr/feed",
       "status": 200,
-      "recent_items": 9,
+      "recent_items": 5,
       "note": null,
       "final_url": "https://delfino.cr/feed"
     },
@@ -1119,7 +1092,7 @@
       "outlet": "elDiario.es",
       "rss": "https://www.eldiario.es/rss/",
       "status": 200,
-      "recent_items": 26,
+      "recent_items": 25,
       "note": null,
       "final_url": "https://www.eldiario.es/rss/"
     },
@@ -1135,7 +1108,7 @@
       "outlet": "infoLibre",
       "rss": "https://www.infolibre.es/rss/",
       "status": 200,
-      "recent_items": 10,
+      "recent_items": 9,
       "note": null,
       "final_url": "https://www.infolibre.es/rss/"
     },
@@ -1143,7 +1116,7 @@
       "outlet": "Xataka",
       "rss": "https://www.xataka.com/index.xml",
       "status": 200,
-      "recent_items": 7,
+      "recent_items": 6,
       "note": null,
       "final_url": "https://www.xataka.com/feedburner.xml"
     },
@@ -1159,7 +1132,7 @@
       "outlet": "BBC Mundo",
       "rss": "https://feeds.bbci.co.uk/mundo/rss.xml",
       "status": 200,
-      "recent_items": 7,
+      "recent_items": 8,
       "note": null,
       "final_url": "https://feeds.bbci.co.uk/mundo/rss.xml"
     },
@@ -1167,7 +1140,7 @@
       "outlet": "DW español",
       "rss": "https://rss.dw.com/rdf/rss-sp-all",
       "status": 200,
-      "recent_items": 4,
+      "recent_items": 6,
       "note": null,
       "final_url": "https://rss.dw.com/rdf/rss-sp-all"
     },
@@ -1175,7 +1148,7 @@
       "outlet": "France24 español",
       "rss": "https://www.france24.com/es/rss",
       "status": 200,
-      "recent_items": 12,
+      "recent_items": 11,
       "note": null,
       "final_url": "https://www.france24.com/es/rss"
     },
@@ -1191,7 +1164,7 @@
       "outlet": "Olé",
       "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
       "status": 200,
-      "recent_items": 1,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/"
     },
@@ -1207,7 +1180,7 @@
       "outlet": "Marca",
       "rss": "https://e00-marca.uecdn.es/rss/portada.xml",
       "status": 200,
-      "recent_items": 25,
+      "recent_items": 9,
       "note": null,
       "final_url": "https://e00-xlk-ue-marca.uecdn.es/rss/googlenews/portada.xml"
     },
@@ -1247,7 +1220,7 @@
       "outlet": "Hipertextual",
       "rss": "https://hipertextual.com/feed",
       "status": 200,
-      "recent_items": 6,
+      "recent_items": 7,
       "note": null,
       "final_url": "https://hipertextual.com/feed/"
     },
@@ -1271,7 +1244,7 @@
       "outlet": "elDiario.es Viajes",
       "rss": "https://www.eldiario.es/rss/viajes/",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://www.eldiario.es/rss/viajes/"
     },
@@ -1279,7 +1252,7 @@
       "outlet": "Viajablog",
       "rss": "https://www.viajablog.com/feed/",
       "status": 200,
-      "recent_items": 9,
+      "recent_items": 8,
       "note": null,
       "final_url": "https://www.viajablog.com/feed/"
     },
@@ -1303,7 +1276,7 @@
       "outlet": "Infobae",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 25,
+      "recent_items": 18,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -1311,7 +1284,7 @@
       "outlet": "La Nación",
       "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 10,
+      "recent_items": 15,
       "note": null,
       "final_url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -1327,7 +1300,7 @@
       "outlet": "Perfil",
       "rss": "https://www.perfil.com/feed",
       "status": 200,
-      "recent_items": 18,
+      "recent_items": 10,
       "note": null,
       "final_url": "https://www.perfil.com/feed"
     },
@@ -1335,7 +1308,7 @@
       "outlet": "Infobae Deportes",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
       "status": 200,
-      "recent_items": 20,
+      "recent_items": 15,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"
     },
@@ -1351,7 +1324,7 @@
       "outlet": "La Nación CR",
       "rss": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 25,
+      "recent_items": 29,
       "note": null,
       "final_url": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -1375,7 +1348,7 @@
       "outlet": "Euronews en español",
       "rss": "https://es.euronews.com/rss",
       "status": 200,
-      "recent_items": 19,
+      "recent_items": 15,
       "note": null,
       "final_url": "https://es.euronews.com/rss"
     },
@@ -1383,10 +1356,12 @@
       "outlet": "MIT Technology Review en español",
       "rss": "https://www.technologyreview.es/rss",
       "status": 200,
-      "recent_items": 1,
+      "recent_items": 2,
       "note": null,
       "final_url": "https://www.technologyreview.es/rss/all"
     }
   ],
-  "section_shortages": {}
+  "section_shortages": {
+    "Tenis": 3
+  }
 }
