@@ -1,0 +1,1367 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T12:04:04.817007+00:00",
+  "timezone": "America/Costa_Rica",
+  "window_hours": 36,
+  "lead": {
+    "title": "El presidente destituido de Paraguay, Santiago Peña, fue detenido en su casa en Asunción",
+    "url": "https://observador.cr/el-presidente-destituido-de-paraguay-santiago-pena-fue-detenido-en-su-casa-en-asuncion",
+    "outlet": "El Observador CR",
+    "region": "Costa Rica",
+    "independent": true,
+    "section": "Política",
+    "published_at": "2026-11-07T00:12:00+00:00",
+    "excerpt": "(Asunción, Paraguay) El expresidente paraguayo Santiago Peña fue detenido este viernes en su casa en Asunción minutos después de haber sido destituido en un acelerado juicio político iniciado a raíz…",
+    "coverage": [
+      "BBC Mundo",
+      "El Observador CR",
+      "El País",
+      "France24 español",
+      "La Nación CR"
+    ],
+    "score": 16.022,
+    "id": "44b5f26fe5cc5e1b",
+    "url_verified": true,
+    "url_status": 200,
+    "url_checked_at": "2026-11-07T12:04:20.547821+00:00",
+    "image": "assets/noticias/ab7e5855132f47424ff8.webp",
+    "image_credit": "El Observador CR"
+  },
+  "destacadas": [
+    {
+      "title": "La debacle de Trump en las 'midterms' evidencia el desgaste de las guerras culturales impulsadas por la…",
+      "url": "https://www.eldiarioar.com/mundo/debacle-trump-midterms-evidencia-desgaste-guerras-culturales-impulsadas-ultraderecha_1_13645827.html",
+      "outlet": "elDiarioAR",
+      "region": "Argentina",
+      "independent": true,
+      "section": "Política",
+      "published_at": "2026-11-07T03:01:56+00:00",
+      "excerpt": "Las elecciones de medio término situaron en la Cámara Alta al primer senador abiertamente gay y al primer senador musulmán, al tiempo que mostraron un avance socialista y el agotamiento movilizador…",
+      "coverage": [
+        "elDiario.es",
+        "elDiarioAR"
+      ],
+      "score": 10.494,
+      "id": "85f7a4487b791827",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-07T12:04:20.753587+00:00",
+      "image": "assets/noticias/2fe1712c93e5292a77d9.jpg",
+      "image_credit": "elDiarioAR"
+    },
+    {
+      "title": "El Senado de Paraguay destituyó por unanimidad al presidente Santiago Peña",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/el-senado-de-paraguay-destituyo-por-unanimidad-al-presidente-santiago-pena",
+      "outlet": "la diaria",
+      "region": "Uruguay",
+      "independent": true,
+      "section": "Política",
+      "published_at": "2026-11-06T22:44:53+00:00",
+      "excerpt": "El exmandatario fue detenido en su casa en Asunción, investigado por diversos delitos vinculados a las maniobras fraudulentas de Ueno Bank. El presidente paraguayo, Santiago Peña, fue destituido…",
+      "coverage": [
+        "El País",
+        "France24 español",
+        "La Nación CR",
+        "elDiarioAR",
+        "la diaria"
+      ],
+      "score": 15.78,
+      "id": "a42541c4106d3de8",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-07T12:04:20.361391+00:00",
+      "image": "assets/noticias/15ffd17d42e2b95629d6.webp",
+      "image_credit": "la diaria"
+    },
+    {
+      "title": "Kristaps Porzingis se aparta del baloncesto: “He tomado la decisión de priorizar mi salud”",
+      "url": "https://www.solobasket.com/nba/porzingis-se-aparta-baloncesto-priorizar-salud",
+      "outlet": "Solo Basket",
+      "region": "España",
+      "independent": true,
+      "section": "Básquetbol",
+      "published_at": "2026-11-07T10:00:00+00:00",
+      "excerpt": "Kristaps Porzingis, pívot de los Warriors formado en la cantera del Baloncesto Sevilla, anuncia que se aparta del baloncesto porque su cuerpo no respondió.",
+      "coverage": [
+        "Infobae",
+        "Solo Basket"
+      ],
+      "score": 11.655,
+      "id": "2c90427e195baaa6",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-07T12:04:23.210296+00:00",
+      "image": "assets/noticias/93677b8e3cec4340e414.jpg",
+      "image_credit": "Solo Basket"
+    },
+    {
+      "title": "Llevo meses usando esta app gratuita para Android y mis auriculares suenan mejor que nunca",
+      "url": "https://hipertextual.com/mobile/wavelet-android-mejorar-sonido-auriculares",
+      "outlet": "Hipertextual",
+      "region": "Mundo",
+      "independent": true,
+      "section": "Tech",
+      "published_at": "2026-11-07T12:00:00+00:00",
+      "excerpt": "Cuando compras unos auriculares, uno de los procesos más comunes es buscar reseñas, comparar modelos y elegir la mejor opción calidad/precio. Algunos considerarán ciertas marcas, mientras que otros…",
+      "coverage": [
+        "Hipertextual"
+      ],
+      "score": 9.989,
+      "id": "901d040bd2b6e8eb",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-07T12:04:25.173514+00:00",
+      "image": "assets/noticias/3d73b633bd233fe420ae.jpg",
+      "image_credit": "Hipertextual"
+    },
+    {
+      "title": "La liga española vuelve a ser la competición con más extranjeros, según un informe de FIBA",
+      "url": "https://www.gigantes.com/mas-basket/liga-endesa-mas-jugadores-extranjeros-informe-fiba",
+      "outlet": "Gigantes del Basket",
+      "region": "España",
+      "independent": true,
+      "section": "Básquetbol",
+      "published_at": "2026-11-07T09:32:04+00:00",
+      "excerpt": "Repite como la liga con más presencia extranjera, aunque el porcentaje ha bajado ligeramente. La entrada La liga española vuelve a ser la competición con más extranjeros, según un informe de FIBA se…",
+      "coverage": [
+        "Gigantes del Basket",
+        "Solo Basket"
+      ],
+      "score": 11.578,
+      "id": "a01cae8582b1e34b",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-07T12:04:23.869717+00:00",
+      "image": "assets/noticias/8e00cabee4fc92609f8b.jpg",
+      "image_credit": "Gigantes del Basket"
+    }
+  ],
+  "sections": {
+    "Política": [
+      {
+        "title": "Cómo la caída del banco Ueno en Paraguay acabó con el gobierno del presidente Santiago Peña",
+        "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/como-la-caida-del-banco-ueno-en-paraguay-acabo-con-el-gobierno-del-presidente-santiago-pena",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-07T00:23:35+00:00",
+        "excerpt": "El destape de una descomunal estafa financiera dejó a millones de ciudadanos sin acceder a sus ahorros y llevó al colorado Peña a un juicio político. El martes 3 de noviembre de 2026, casi tres…",
+        "coverage": [
+          "BBC Mundo",
+          "elDiarioAR",
+          "la diaria"
+        ],
+        "score": 12.054,
+        "id": "9ee0d1d45aae815c",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:20.584811+00:00",
+        "image": "assets/noticias/8baf6cb19dc3804cb8a7.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Presidente de Paraguay es destituido en juicio político por escándalo bancario",
+        "url": "https://observador.cr/presidente-de-paraguay-es-destituido-en-juicio-politico-por-escandalo-bancario",
+        "outlet": "El Observador CR",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-06T23:08:40+00:00",
+        "excerpt": "(Asunción, Paraguay). El Senado de Paraguay destituyó este viernes al presidente Santiago Peña en un juicio político por un escándalo bancario que afectó a tres millones de clientes, algunos de los…",
+        "coverage": [
+          "El Observador CR",
+          "La Nación CR",
+          "elDiario.es"
+        ],
+        "score": 11.846,
+        "id": "1a1d14a627b8ab65",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:20.652668+00:00",
+        "image": "assets/noticias/4f1f7e690cd4af529591.webp",
+        "image_credit": "El Observador CR"
+      },
+      {
+        "title": "La Policía de Paraguay detiene al expresidente Santiago Peña tras su destitución",
+        "url": "https://www.eldiario.es/internacional/policia-paraguay-detiene-expresidente-santiago-pena-destitucion_1_13645965.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-07T07:29:39+00:00",
+        "excerpt": "La destitución activó la sucesión en el Ejecutivo, que pasó a manos del vicepresidente, Pedro Alliana, quien juró en una sesión extraordinaria del Congreso. Ejercerá el cargo hasta agosto de 2028…",
+        "coverage": [
+          "France24 español",
+          "elDiario.es"
+        ],
+        "score": 11.238,
+        "id": "c8af942d9f2386b0",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:20.189625+00:00",
+        "image": "assets/noticias/7a664238409377d2d48e.jpg",
+        "image_credit": "elDiario.es"
+      },
+      {
+        "title": "Sánchez acude este lunes al programa de Javier Ruiz en La Séptima",
+        "url": "https://www.infolibre.es/politica/sanchez-acude-lunes-programa-javier-ruiz-septima_1_2239681.html",
+        "outlet": "infoLibre",
+        "region": "España",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-07T11:20:00+00:00",
+        "excerpt": "El presidente del Gobierno y candidato del PSOE a la reelección será entrevistado este lunes a las nueve de la noche en el programa ‘La Última Hora’ en La Séptima. Así lo ha confirmado oficialmente…",
+        "coverage": [
+          "infoLibre"
+        ],
+        "score": 9.878,
+        "id": "ea3dc9b2bc968acd",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:20.114705+00:00",
+        "image": "assets/noticias/4e3af00917b0c1123a5b.jpg",
+        "image_credit": "infoLibre"
+      },
+      {
+        "title": "De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a un juicio político tras la…",
+        "url": "https://observador.cr/de-que-se-acusa-a-santiago-pena-el-presidente-de-paraguay-que-se-enfrenta-a-un-juicio-politico-tras-la-crisis-de-ueno-bank",
+        "outlet": "El Observador CR",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-06T22:10:00+00:00",
+        "excerpt": "La acusación por conflicto de intereses está relacionada con participación accionarial de Peña en Ueno Holding. The post De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a…",
+        "coverage": [
+          "BBC Mundo",
+          "El Observador CR"
+        ],
+        "score": 9.683,
+        "id": "7f035088991c5321",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:20.581210+00:00",
+        "image": "assets/noticias/bae81fc02b9d3687a1a5.jpg",
+        "image_credit": "El Observador CR"
+      },
+      {
+        "title": "Paraguay: el Senado destituyó a Santiago Peña tras el escándalo del banco Ueno",
+        "url": "https://www.eldiarioar.com/latinoamerica/paraguay-senado-destituyo-santiago-pena-escandalo-banco-ueno_1_13645805.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-06T22:06:43+00:00",
+        "excerpt": "El mandatario fue apartado de la Presidencia en un juicio político por mal desempeño de sus funciones. Había presentado su renuncia, pero el Congreso no llegó a tratarla. Pedro Alliana deberá asumir…",
+        "coverage": [
+          "elDiarioAR",
+          "la diaria"
+        ],
+        "score": 9.674,
+        "id": "94929cd45799cdbb",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:21.658509+00:00",
+        "image": "assets/noticias/2868c48c1271ebf53fd0.jpg",
+        "image_credit": "elDiarioAR"
+      }
+    ],
+    "Economía": [
+      {
+        "title": "Cómo se organiza la huelga del 11N: del desahucio de Maricarmen a parar un país por la vivienda",
+        "url": "https://www.eldiario.es/economia/organiza-huelga-11n-desahucio-maricarmen-parar-pais-vivienda_1_13639701.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-06T21:22:07+00:00",
+        "excerpt": "Una agenda frenética de asambleas, de barrio y de trabajadores, impulsan la llama de indignación por la vivienda para vaciar los centros de trabajo, con sindicatos e Inquilinas unidos de manera…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 7.55,
+        "id": "dcfc25514faff0a7",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:27.813697+00:00",
+        "image": "assets/noticias/ecadcdccb1a57568b94f.jpg",
+        "image_credit": "elDiario.es"
+      },
+      {
+        "title": "Francia, entre la tensión social y la deuda",
+        "url": "https://www.eldiario.es/opinion/tribuna-abierta/francia-tension-social-deuda_129_13634676.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-06T21:22:14+00:00",
+        "excerpt": "Solo hay dos formas de abordar la crisis de deuda. O se limitan los gastos públicos o se aumentan los impuestos de un modo progresivo. No es posible adoptar las dos políticas a la vez A escasos…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 7.55,
+        "id": "680dd4aff9769d51",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:27.917357+00:00",
+        "image": "assets/noticias/9b2f7089806f0c5729ac.jpg",
+        "image_credit": "elDiario.es"
+      },
+      {
+        "title": "Las ideas de PP y Vox en lo laboral: cuestionar las bajas o presionar a los sindicatos para parar la huelga",
+        "url": "https://www.infolibre.es/economia-y-sociedad/empleo/ideas-pp-vox-laboral-cuestionar-bajas-presionar-sindicatos-parar-huelga_1_2239546.html",
+        "outlet": "infoLibre",
+        "region": "España",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-06T19:21:44+00:00",
+        "excerpt": "En lo relativo al mercado laboral, las discrepancias entre el Gobierno y los principales partidos de la oposición, PP y Vox, se suelen escenificar en cuestiones como la subida del SMI, la gestión…",
+        "coverage": [
+          "infoLibre"
+        ],
+        "score": 7.216,
+        "id": "b1b30c0a0fe11a00",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:27.632145+00:00",
+        "image": "assets/noticias/b0dba99c67fdbc3d65cd.jpg",
+        "image_credit": "infoLibre"
+      },
+      {
+        "title": "La inflación en la Ciudad de Buenos Aires fue de 1,9% en octubre y acumula un alza de 26,1% en 2026",
+        "url": "https://www.eldiarioar.com/economia/inflacion-ciudad-buenos-aires-1-9-octubre-acumula-alza-26-1-2026_1_13644646.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-06T14:43:41+00:00",
+        "excerpt": "En septiembre, el dato había sido de 1,8%. La suba fue de 32,5% en los últimos 12 meses. La inflación en la Ciudad de Buenos Aires en octubre fue del 1,9% con una leve aceleración con relación al…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 6.443,
+        "id": "26ab853bea52779a",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:21.617857+00:00",
+        "image": "assets/noticias/1e963ca19e308ef0d550.jpg",
+        "image_credit": "elDiarioAR"
+      },
+      {
+        "title": "He probado el Lepas L6 PHEV en China: ¿va a reventar el mercado este nuevo SUV?",
+        "url": "https://hipertextual.com/movilidad/he-probado-el-lepas-l6-phev-en-china-va-a-reventar-el-mercado-este-nuevo-suv",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-06T10:16:11+00:00",
+        "excerpt": "En el reciente viaje que hice a China para cubrir el Chery User Summit tuve la ocasión de probar muchas de sus novedades. Vimos el Lepas Aura como parte de la Lepas Elegance Week y, también, pudimos…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 5.7,
+        "id": "7ee6de1fd0c25baf",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:28.195635+00:00",
+        "image": "assets/noticias/aa8f81c302edbc4b7f99.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "Sindicato pide a la CCSS solución para restablecer servicio de radiografías en hospital de San Vito",
+        "url": "https://delfino.cr/2026/11/sindicato-pide-a-la-ccss-solucion-para-restablecer-servicio-de-radiografias-en-hospital-de-san-vito",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-06T04:47:18+00:00",
+        "excerpt": "Siprocimeca solicita una alternativa mientras la Caja adquiere e instala un nuevo equipo de rayos X para el Hospital Juana Pirola.",
+        "coverage": [
+          "Delfino.cr"
+        ],
+        "score": 4.787,
+        "id": "7183e5a682ada4fc",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:28.560261+00:00",
+        "image": "assets/noticias/217a7046a5a065dc7315.jpg",
+        "image_credit": "Delfino.cr"
+      }
+    ],
+    "Fútbol": [
+      {
+        "title": "Se confirmó la lista de Forlán para los amistosos con Argentina y República Dominicana",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/se-confirmo-la-lista-de-forlan-para-los-amistosos-con-argentina-y-republica-dominicana",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-06T15:08:45+00:00",
+        "excerpt": "Entre los convocados están los goleros Diego Jaume e Ignacio de Arruabarrena, y el delantero Bruno Damiani, también vuelven Nicolás de la Cruz y Agustín Canobbio. La Asociación Uruguaya de Fútbol…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 6.513,
+        "id": "52c919003f536a34",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:32.092731+00:00",
+        "image": "assets/noticias/ec393b07acd272d66244.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Montevideo City Torque se metió entre los ocho mejores de la Copa AUF Uruguay",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/montevideo-city-torque-se-metio-entre-los-ocho-mejores-de-la-copa-auf-uruguay",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-06T02:21:33+00:00",
+        "excerpt": "El equipo de Marcelo Méndez goleó 6-0 a Libertad de San Carlos y completó el cuadro de cuartos de final, sin equipos de OFI. Montevideo City Torque se impuso con un contundente 6-0 ante Libertad de…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 4.382,
+        "id": "4afd821ada2fd24b",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:32.374448+00:00",
+        "image": "assets/noticias/aaab72127ebb8a565f40.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Boca, Argentinos Juniors y Rosario Central buscarán el título de la Tabla Anual: hora y todo lo que hay que…",
+        "url": "https://www.infobae.com/deportes/2026/11/07/boca-argentinos-juniors-y-rosario-central-buscaran-el-titulo-de-la-tabla-anual-hora-y-todo-lo-que-hay-que-saber",
+        "outlet": "Infobae",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-07T11:47:58+00:00",
+        "excerpt": "Este sábado se define quién se quedará con el trofeo de campeón de Liga en el fútbol argentino. Los encuentros arrancarán a las 17:30",
+        "coverage": [
+          "Infobae",
+          "Infobae Deportes"
+        ],
+        "score": 7.955,
+        "id": "87aa166cb673cdd4",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:31.608337+00:00",
+        "image": "assets/noticias/cc8926e618ef7a491458.jpg",
+        "image_credit": "Infobae"
+      },
+      {
+        "title": "A qué hora juega Boca vs. Defensa y Justicia y por dónde se puede ver en vivo",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-boca-vs-defensa-y-justicia-y-por-donde-se-puede-ver-en-vivo-nid07112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-07T12:00:00+00:00",
+        "excerpt": "El xeneize recibe al Halcón de Varela con la ilusión de quedarse con la Tabla Anual, que dejaría atrás su sequía de títulos de tres años",
+        "coverage": [
+          "La Nación"
+        ],
+        "score": 5.989,
+        "id": "131672a4e98c3185",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:31.663468+00:00",
+        "image": "assets/noticias/1d5f6e074f6fa472c84b.jpg",
+        "image_credit": "La Nación"
+      },
+      {
+        "title": "El balance de Pedro Troglio antes de enfrentar a Boca",
+        "url": "https://www.ole.com.ar/banfield/copa-argentina-banfield-pedro-troglio-boca-semi_0_brOe7pK3wM.html",
+        "outlet": "Olé",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-07T11:01:04+00:00",
+        "excerpt": "Tras empatar 2-2 con Atlético Tucumán en la fecha 16 del Torneo Clausura, el entrenador de Banfield palpitó el cruce que tendrá con el Xeneize en la semi de la Copa Argentina.",
+        "coverage": [
+          "Olé"
+        ],
+        "score": 5.825,
+        "id": "369a2fb8498559b5",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:31.397493+00:00",
+        "image": "assets/noticias/e42ebac9e21f20bc7533.jpg",
+        "image_credit": "Olé"
+      },
+      {
+        "title": "Rafa Nadal, alumno de Florentino Pérez para aprender a ser presidente del Real Madrid",
+        "url": "https://elpais.com/deportes/futbol/2026-11-07/rafa-nadal-alumno-de-florentino-perez-para-aprender-a-ser-presidente-del-real-madrid.html",
+        "outlet": "El País",
+        "region": "España",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-07T04:30:01+00:00",
+        "excerpt": "Una vez entre en la directiva del club, el extenista acompañará al mandatario para empaparse del funcionamiento de la entidad con vistas a un posible acceso al cargo",
+        "coverage": [
+          "El País"
+        ],
+        "score": 4.739,
+        "id": "8aea58eadb954957",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:32.527564+00:00",
+        "image": "assets/noticias/0916a95bc4dfdfa92085.jpg",
+        "image_credit": "El País"
+      }
+    ],
+    "Básquetbol": [
+      {
+        "title": "Kristaps Porzingis se aleja del mundo del baloncesto: Su comunicado en redes sociales",
+        "url": "https://www.gigantes.com/nba/kristaps-porzingis-warriors-baloncesto-comunicado-aleja",
+        "outlet": "Gigantes del Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-06T21:58:58+00:00",
+        "excerpt": "El letón abre una nueva etapa para centrarse en su recuperación. La entrada Kristaps Porzingis se aleja del mundo del baloncesto: Su comunicado en redes sociales se publicó primero en Gigantes del…",
+        "coverage": [
+          "Gigantes del Basket",
+          "Infobae"
+        ],
+        "score": 9.652,
+        "id": "412150ffb1207842",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:24.150873+00:00",
+        "image": "assets/noticias/cebc8a12ab8c38ae11ac.jpg",
+        "image_credit": "Gigantes del Basket"
+      },
+      {
+        "title": "Qué está fallando en los Miami Heat: El encaje de Giannis Antetokounmpo y una plantilla corta",
+        "url": "https://www.gigantes.com/nba/que-esta-fallando-miami-heat-giannis-antetokounmpo",
+        "outlet": "Gigantes del Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-07T09:32:16+00:00",
+        "excerpt": "La llegada de Giannis Antetokounmpo auguraba el comienzo de algo grande en los Miami Heat, pero los resultados no están siendo muy positivos. La entrada Qué está fallando en los Miami Heat: El…",
+        "coverage": [
+          "Gigantes del Basket"
+        ],
+        "score": 9.578,
+        "id": "de1e95e454ec6931",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:35.295537+00:00",
+        "image": "assets/noticias/be78abdca72f52dc6480.png",
+        "image_credit": "Gigantes del Basket"
+      },
+      {
+        "title": "Kristaps Porzingis se aleja del baloncesto para \"priorizar\" su salud",
+        "url": "https://www.infobae.com/america/agencias/2026/11/07/kristaps-porzingis-se-aleja-del-baloncesto-para-priorizar-su-salud",
+        "outlet": "Infobae",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Básquetbol",
+        "published_at": "2026-11-07T11:30:56+00:00",
+        "excerpt": "",
+        "coverage": [
+          "Gigantes del Basket",
+          "Infobae",
+          "Solo Basket"
+        ],
+        "score": 9.908,
+        "id": "059f918bfca3bb6c",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:37.044906+00:00",
+        "image": "assets/noticias/6f35264cdaa42ebecfd7.jpg",
+        "image_credit": "Infobae"
+      },
+      {
+        "title": "¿Quién es Pedro Alliana? De jugador de baloncesto a nuevo presidente de Paraguay",
+        "url": "https://es.euronews.com/2026/11/07/quien-es-pedro-alliana-nuevo-presidente-paraguay",
+        "outlet": "Euronews en español",
+        "region": "Mundo",
+        "independent": false,
+        "section": "Básquetbol",
+        "published_at": "2026-11-07T08:07:28+00:00",
+        "excerpt": "Exjugador de la selección paraguaya de baloncesto, empresario y figura destacada del Partido Colorado, Pedro Alliana ha pasado de vicepresidente a jefe del Estado tras la destitución de Santiago…",
+        "coverage": [
+          "Euronews en español"
+        ],
+        "score": 5.343,
+        "id": "b67a1fcf01921b1e",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:36.923568+00:00",
+        "image": "assets/noticias/439828786f76e3992e34.jpg",
+        "image_credit": "Euronews en español"
+      },
+      {
+        "title": "El Mercedes-Maybach personalizado de LeBron James podría venderse por hasta USD 550.000 en una subasta…",
+        "url": "https://www.infobae.com/america/mundo/2026/11/06/el-mercedes-maybach-personalizado-de-lebron-james-podria-venderse-por-hasta-usd-550000-en-una-subasta-benefica",
+        "outlet": "Infobae Deportes",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Básquetbol",
+        "published_at": "2026-11-06T13:06:37+00:00",
+        "excerpt": "La casa Gooding Christie's ofrecerá en noviembre una réplica del vehículo del basquetbolista, cuyos ingresos irán íntegramente a su fundación, dedicada a programas educativos y juveniles para…",
+        "coverage": [
+          "Infobae Deportes"
+        ],
+        "score": 2.174,
+        "id": "3341d8cf66b7447e",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:37.173943+00:00",
+        "image": "assets/noticias/09d5aca360df9336b932.jpg",
+        "image_credit": "Infobae Deportes"
+      }
+    ],
+    "Tenis": [
+      {
+        "title": "Francisco Mastelli, aquel chico que era mejor que Vilas y su convicción: “La única líder positiva que…",
+        "url": "https://www.lanacion.com.ar/deportes/tenis/francisco-mastelli-aquel-chico-que-era-mejor-que-vilas-y-su-conviccion-la-unica-lider-positiva-que-nid07112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Tenis",
+        "published_at": "2026-11-07T10:00:00+00:00",
+        "excerpt": "Entrenador de alma, condujo a Luli Mancini en su momento dorado. Cómo ve el circuito, la aciaga experiencia copera y las razones del milagro argentino",
+        "coverage": [
+          "La Nación"
+        ],
+        "score": 5.655,
+        "id": "38a322b691056468",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:38.624664+00:00",
+        "image": "assets/noticias/b553aeab92571bfc0a45.jpg",
+        "image_credit": "La Nación"
+      },
+      {
+        "title": "Los argentinos coparon las semifinales y el Challenger de Villa María tendrá un campeón nacional",
+        "url": "https://www.infobae.com/deportes/2026/11/06/los-argentinos-coparon-las-semifinales-y-el-challenger-de-villa-maria-tendra-un-campeon-nacional",
+        "outlet": "Infobae Deportes",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Tenis",
+        "published_at": "2026-11-06T23:29:37+00:00",
+        "excerpt": "Coria-Olivieri y La Serna-Kicker serán los cruces en busca de un lugar en la final del domingo",
+        "coverage": [
+          "Infobae Deportes"
+        ],
+        "score": 3.904,
+        "id": "3282ac10115224ac",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:38.496512+00:00",
+        "image": "assets/noticias/35b9384c26987ecfc4d8.jpg",
+        "image_credit": "Infobae Deportes"
+      },
+      {
+        "title": "Dominio argentino en el AAT Challenger de Villa María: siete de los ocho clasificados a cuartos de final son…",
+        "url": "https://www.infobae.com/deportes/2026/11/06/dominio-argentino-en-el-aat-challenger-de-villa-maria-siete-de-los-ocho-clasificados-a-cuartos-de-final-son-locales",
+        "outlet": "Infobae Deportes",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Tenis",
+        "published_at": "2026-11-06T01:24:58+00:00",
+        "excerpt": "Federico Coria, Genaro Olivieri, Bautista Torres y Juan Pablo Ficovich dieron otro paso en el certamen cordobés. Se sumaron a Juan Manuel La Serna, Nicolás Kicker y Carlos Zárate. Habrá tres cruces…",
+        "coverage": [
+          "Infobae Deportes"
+        ],
+        "score": 0.225,
+        "id": "4071c50a57c62c41",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:38.465079+00:00",
+        "image": "assets/noticias/554c11d72df9b8acdfb2.jpg",
+        "image_credit": "Infobae Deportes"
+      }
+    ],
+    "Tech": [
+      {
+        "title": "¿Tu PC se está quedando sin espacio? Esta carpeta de Windows podría tener parte de culpa",
+        "url": "https://hipertextual.com/guias/limpiar-espacio-disponible-carpeta-windows-installer",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-07T08:12:39+00:00",
+        "excerpt": "Windows 11 cumplió cinco años el pasado 5 de octubre. Y aunque no tuvo una bienvenida demasiado calurosa por culpa de sus exigentes requisitos mínimos, a base de actualizaciones y otras estrategias…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 9.357,
+        "id": "beaf6c33acf26f5a",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:25.956430+00:00",
+        "image": "assets/noticias/a45a14d0e51301f1a8ad.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "Windows 11 27H2: la gran actualización con la que Microsoft quiere reinventar Windows en 2027",
+        "url": "https://hipertextual.com/software/windows-11-27h2-actualizacion-2027-novedades",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-06T22:09:00+00:00",
+        "excerpt": "Durante años, la industria tecnológica dio por hecho que el siguiente gran salto de Microsoft sería Windows 12. No obstante, la compañía ha cambiado la trayectoria y decidió enfocarse en mejorar la…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 7.68,
+        "id": "7e32140fb65bf188",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:24.952600+00:00",
+        "image": "assets/noticias/fe841586b0e43992aace.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "El próximo iPhone podría quedarse sin su botón más útil",
+        "url": "https://hipertextual.com/apple/el-proximo-iphone-podria-quedarse-sin-el-boton-de-accion",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-06T21:00:00+00:00",
+        "excerpt": "Apple prepararía un importante cambio para sus próximos iPhone, que perderían su botón físico más útil. Según recoge MacRumors, una nueva filtración apunta a que los de Cupertino podrían eliminar el…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 7.489,
+        "id": "c46920fa5732b0b3",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:25.927622+00:00",
+        "image": "assets/noticias/e6acd9f4268f540438b0.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "La crisis de Ueno Bank en Paraguay golpea a la Argentina: la tecnológica ITTI suspende a mil trabajadores",
+        "url": "https://www.eldiarioar.com/economia/crisis-ueno-bank-paraguay-golpea-argentina-tecnologica-itti-suspende-mil-trabajadores_1_13643681.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-06T11:59:40+00:00",
+        "excerpt": "La caída de una de las compañías más influyentes del ecosistema tecnológico y financiero de Paraguay ya tiene consecuencias concretas en la Argentina. Suspensiones, salarios adeudados e…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 5.988,
+        "id": "1f20577146c4788d",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:39.870921+00:00",
+        "image": "assets/noticias/10a508e55d4f967ce410.jpg",
+        "image_credit": "elDiarioAR"
+      },
+      {
+        "title": "Cuando el corazón falla en la cancha, la tecnología puede salvar vidas",
+        "url": "https://delfino.cr/2026/11/cuando-el-corazon-falla-en-la-cancha-la-tecnologia-puede-salvar-vidas",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-06T04:51:05+00:00",
+        "excerpt": "La necesidad de fortalecer los espacios cardioprotegidos trasciende los estadios profesionales y debe extenderse a gimnasios, centros educativos, universidades, instalaciones recreativas y otros…",
+        "coverage": [
+          "Delfino.cr"
+        ],
+        "score": 4.797,
+        "id": "5e772077be4458de",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:39.402656+00:00",
+        "image": "assets/noticias/2b19eea4fb78bcf45271.jpg",
+        "image_credit": "Delfino.cr"
+      },
+      {
+        "title": "El femicidio de Nancy Godoy: un circuito de cotos de caza domina el escenario de un crimen que aún no tiene…",
+        "url": "https://www.lanacion.com.ar/seguridad/femicidio-de-nancy-godoy-las-sospechas-sobre-un-circuito-ilegal-de-caza-en-corrientes-nid07112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Tech",
+        "published_at": "2026-11-07T09:00:00+00:00",
+        "excerpt": "El crimen de la docente, cuyo cuerpo fue encontrado en un bañado cerca de Esquina, puso bajo la lupa un entramado de cotos de caza, presuntas irregularidades en los controles provinciales y…",
+        "coverage": [
+          "La Nación"
+        ],
+        "score": 5.489,
+        "id": "3969f1e360ca620f",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:40.902422+00:00",
+        "image": "assets/noticias/29ea8399b17b49b368dc.jpg",
+        "image_credit": "La Nación"
+      }
+    ],
+    "IA": [
+      {
+        "title": "Rodrigo Arim: Uruguay no puede quedar al margen de la “ola” que está impulsando la inteligencia artificial",
+        "url": "https://ladiaria.com.uy/futuro/articulo/2026/11/rodrigo-arim-uruguay-no-puede-quedar-al-margen-de-la-ola-que-esta-impulsando-la-inteligencia-artificial",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "IA",
+        "published_at": "2026-11-07T03:38:18+00:00",
+        "excerpt": "El director de la OPP señaló que el país debe apostar por esta tecnología como una herramienta “transversal”; no obstante, advirtió que el avance tecnológico está desafiando el ingreso de los…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 8.595,
+        "id": "90acd7a93fa10c17",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:22.708047+00:00",
+        "image": "assets/noticias/51b8dc85e612854a3892.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Más de 19.000 modelos de inteligencia artificial abierta ya hablan español",
+        "url": "https://es.euronews.com/2026/11/06/19000-modelos-inteligencia-artificial-abierta-hablan-espanol",
+        "outlet": "Euronews en español",
+        "region": "Mundo",
+        "independent": false,
+        "section": "IA",
+        "published_at": "2026-11-06T21:28:32+00:00",
+        "excerpt": "Más de 19.000 modelos abiertos de inteligencia artificial están etiquetados en español, situándolo como el cuarto idioma en este ámbito, según el informe 'Panorama del español en la inteligencia…",
+        "coverage": [
+          "Euronews en español"
+        ],
+        "score": 3.568,
+        "id": "3e41bb6fba3bca2f",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:41.391255+00:00",
+        "image": "assets/noticias/758b605c46c990988297.jpg",
+        "image_credit": "Euronews en español"
+      },
+      {
+        "title": "The Download: un humanoide limpia la casa y Samsung se prepara para el auge de la IA",
+        "url": "https://www.technologyreview.es/article/the-download-un-humanoide-limpia-la-casa-y-samsung-se-prepara-para-el-auge-de-la-ia",
+        "outlet": "MIT Technology Review en español",
+        "region": "Mundo",
+        "independent": false,
+        "section": "IA",
+        "published_at": "2026-11-06T08:10:00+00:00",
+        "excerpt": "Además: casi 2,5 billones de dólares se han esfumado de las acciones tecnológicas.",
+        "coverage": [
+          "MIT Technology Review en español"
+        ],
+        "score": 1.35,
+        "id": "561746236ca813e9",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:42.069678+00:00"
+      },
+      {
+        "title": "Vi a un robot humanoide limpiar mi piso. Parecía un anticipo del futuro.",
+        "url": "https://www.technologyreview.es/article/vi-a-un-robot-humanoide-limpiar-mi-piso-parecia-un-anticipo-del-futuro",
+        "outlet": "MIT Technology Review en español",
+        "region": "Mundo",
+        "independent": false,
+        "section": "IA",
+        "published_at": "2026-11-06T05:00:00+00:00",
+        "excerpt": "La startup Tau Robotics está enviando robots humanoides a limpiar hogares en San Francisco. Todavía necesitan mucha supervisión humana, pero están aprendiendo.",
+        "coverage": [
+          "MIT Technology Review en español"
+        ],
+        "score": 0.822,
+        "id": "42f4a5c4fe185ea8",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:41.929643+00:00",
+        "image": "assets/noticias/0e8cde8b53cd2f5b1385.jpg",
+        "image_credit": "MIT Technology Review en español"
+      }
+    ],
+    "Viajes": [
+      {
+        "title": "Cómo visitar el castillo de Malbork desde Gdansk: entradas, horarios y transporte",
+        "url": "https://www.viajablog.com/visitar-el-castillo-de-malbork-desde-gdansk",
+        "outlet": "Viajablog",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-06T19:07:13+00:00",
+        "excerpt": "Visitar el castillo de Malbork desde Gdansk es una de las excursiones más interesantes que puedes hacer durante un viaje […] La entrada Cómo visitar el castillo de Malbork desde Gdansk: entradas…",
+        "coverage": [
+          "Viajablog"
+        ],
+        "score": 7.175,
+        "id": "fa9fea20297d6e71",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:25.700620+00:00",
+        "image": "assets/noticias/089b0d767f0749ce3426.jpg",
+        "image_credit": "Viajablog"
+      },
+      {
+        "title": "Mercadillos navideños en Gdansk: guía del mejor de Europa",
+        "url": "https://www.viajablog.com/mercadillo-navideno-en-gdansk",
+        "outlet": "Viajablog",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-06T18:31:47+00:00",
+        "excerpt": "Hay ciudades que parecen diseñadas para vivir la Navidad y Gdansk es una de ellas. Situada junto al mar Báltico, […] La entrada Mercadillos navideños en Gdansk: guía del mejor de Europa se publicó…",
+        "coverage": [
+          "Viajablog"
+        ],
+        "score": 7.077,
+        "id": "c38614751ca2e59b",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:25.707698+00:00",
+        "image": "assets/noticias/41344e843ed536399cfa.jpg",
+        "image_credit": "Viajablog"
+      },
+      {
+        "title": "Las 10 mejores excursiones en Gdansk y alrededores: tours, barcos y visitas guiadas",
+        "url": "https://www.viajablog.com/excursiones-en-gdansk",
+        "outlet": "Viajablog",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-06T17:53:32+00:00",
+        "excerpt": "Gdansk es una de esas ciudades europeas que sorprenden por la cantidad de planes que ofrecen. Su casco histórico, reconstruido […] La entrada Las 10 mejores excursiones en Gdansk y alrededores…",
+        "coverage": [
+          "Viajablog"
+        ],
+        "score": 6.971,
+        "id": "707c929077200893",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:44.213138+00:00",
+        "image": "assets/noticias/ff70435e19e0290cc7aa.jpg",
+        "image_credit": "Viajablog"
+      },
+      {
+        "title": "Visita de León XIV: las búsquedas de alojamiento crecieron más del 500% y los hoteles porteños tendrán una…",
+        "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/visita-de-leon-xiv-las-busquedas-de-alojamiento-crecieron-mas-del-500-y-los-hoteles-portenos-tendran-nid07112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Viajes",
+        "published_at": "2026-11-07T09:58:00+00:00",
+        "excerpt": "Del total de visitantes el 40% son argentinos y le siguen los brasileros con el 20%",
+        "coverage": [
+          "La Nación"
+        ],
+        "score": 5.65,
+        "id": "74ecfb3bbd7b894a",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:44.940592+00:00",
+        "image": "assets/noticias/0209c0f9a98fa73856b8.jpg",
+        "image_credit": "La Nación"
+      },
+      {
+        "title": "Frente a las Cataratas, un hotel premiado con historia, visitas ilustres y alta cocina",
+        "url": "https://www.lanacion.com.ar/revista-lugares/frente-a-las-cataratas-un-hotel-premiado-con-historia-visitas-ilustres-y-alta-cocina-nid07112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Viajes",
+        "published_at": "2026-11-07T03:15:00+00:00",
+        "excerpt": "Con tres Llaves Michelin y un lugar entre los mejores hoteles del mundo, ofrece una experiencia única frente a uno de los mayores espectáculos naturales del planeta",
+        "coverage": [
+          "La Nación"
+        ],
+        "score": 4.53,
+        "id": "c4ca0881300a4f47",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-07T12:04:44.713627+00:00",
+        "image": "assets/noticias/f8c3c8d6645d6733b558.jpg",
+        "image_credit": "La Nación"
+      }
+    ]
+  },
+  "resumen": [
+    "El presidente destituido de Paraguay, Santiago Peña, fue detenido en su casa en Asunción (El Observador CR).",
+    "La debacle de Trump en las 'midterms' evidencia el desgaste de las guerras culturales impulsadas por la… (elDiarioAR).",
+    "El Senado de Paraguay destituyó por unanimidad al presidente Santiago Peña (la diaria).",
+    "Kristaps Porzingis se aparta del baloncesto: “He tomado la decisión de priorizar mi salud” (Solo Basket)."
+  ],
+  "resumen_method": "extractivo",
+  "counts": {
+    "total": 47,
+    "lead": 1,
+    "destacadas": 5,
+    "sections": {
+      "Política": 6,
+      "Economía": 6,
+      "Fútbol": 6,
+      "Básquetbol": 5,
+      "Tenis": 3,
+      "Tech": 6,
+      "IA": 4,
+      "Viajes": 5
+    },
+    "independent": 31,
+    "images": 46,
+    "regions": {
+      "Argentina": 15,
+      "Uruguay": 5,
+      "Costa Rica": 5,
+      "España": 10,
+      "Mundo": 12
+    }
+  },
+  "feed_status": [
+    {
+      "outlet": "elDiarioAR",
+      "rss": "https://www.eldiarioar.com/rss/",
+      "status": 200,
+      "recent_items": 12,
+      "note": null,
+      "final_url": "https://www.eldiarioar.com/rss/"
+    },
+    {
+      "outlet": "Cenital",
+      "rss": "https://cenital.com/feed/",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://cenital.com/feed/"
+    },
+    {
+      "outlet": "Revista Anfibia",
+      "rss": "https://www.revistaanfibia.com/feed/",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://www.revistaanfibia.com/feed/"
+    },
+    {
+      "outlet": "Chequeado",
+      "rss": "https://chequeado.com/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://chequeado.com/feed/"
+    },
+    {
+      "outlet": "la diaria",
+      "rss": "https://ladiaria.com.uy/feeds/articulos/",
+      "status": 200,
+      "recent_items": 11,
+      "note": null,
+      "final_url": "https://ladiaria.com.uy/feeds/articulos/"
+    },
+    {
+      "outlet": "Montevideo Portal",
+      "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
+      "status": 200,
+      "recent_items": 7,
+      "note": null,
+      "final_url": "https://www.montevideo.com.uy/anxml.aspx?58"
+    },
+    {
+      "outlet": "Delfino.cr",
+      "rss": "https://delfino.cr/feed",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://delfino.cr/feed"
+    },
+    {
+      "outlet": "Semanario Universidad",
+      "rss": "https://semanariouniversidad.com/feed/",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://semanariouniversidad.com/feed/"
+    },
+    {
+      "outlet": "El Observador CR",
+      "rss": "https://observador.cr/feed/",
+      "status": 200,
+      "recent_items": 4,
+      "note": null,
+      "final_url": "https://observador.cr/feed/"
+    },
+    {
+      "outlet": "elDiario.es",
+      "rss": "https://www.eldiario.es/rss/",
+      "status": 200,
+      "recent_items": 25,
+      "note": null,
+      "final_url": "https://www.eldiario.es/rss/"
+    },
+    {
+      "outlet": "El Confidencial",
+      "rss": "https://rss.elconfidencial.com/espana/",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://rss.elconfidencial.com/espana/"
+    },
+    {
+      "outlet": "infoLibre",
+      "rss": "https://www.infolibre.es/rss/",
+      "status": 200,
+      "recent_items": 9,
+      "note": null,
+      "final_url": "https://www.infolibre.es/rss/"
+    },
+    {
+      "outlet": "Xataka",
+      "rss": "https://www.xataka.com/index.xml",
+      "status": 200,
+      "recent_items": 6,
+      "note": null,
+      "final_url": "https://www.xataka.com/feedburner.xml"
+    },
+    {
+      "outlet": "Genbeta",
+      "rss": "https://www.genbeta.com/index.xml",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://www.genbeta.com/feedburner.xml"
+    },
+    {
+      "outlet": "BBC Mundo",
+      "rss": "https://feeds.bbci.co.uk/mundo/rss.xml",
+      "status": 200,
+      "recent_items": 8,
+      "note": null,
+      "final_url": "https://feeds.bbci.co.uk/mundo/rss.xml"
+    },
+    {
+      "outlet": "DW español",
+      "rss": "https://rss.dw.com/rdf/rss-sp-all",
+      "status": 200,
+      "recent_items": 6,
+      "note": null,
+      "final_url": "https://rss.dw.com/rdf/rss-sp-all"
+    },
+    {
+      "outlet": "France24 español",
+      "rss": "https://www.france24.com/es/rss",
+      "status": 200,
+      "recent_items": 11,
+      "note": null,
+      "final_url": "https://www.france24.com/es/rss"
+    },
+    {
+      "outlet": "Agencia Pública",
+      "rss": "https://apublica.org/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": "Feed verificado, excluido de la edición por idioma: pt-BR",
+      "final_url": "https://apublica.org/feed/"
+    },
+    {
+      "outlet": "Olé",
+      "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
+      "status": 200,
+      "recent_items": 4,
+      "note": null,
+      "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/"
+    },
+    {
+      "outlet": "ESPN",
+      "rss": "https://www.espn.com/espn/rss/news?section=deportes",
+      "status": 200,
+      "recent_items": 0,
+      "note": "Feed verificado, excluido de la edición por idioma: en",
+      "final_url": "https://www.espn.com/espn/rss/news?section=deportes"
+    },
+    {
+      "outlet": "Marca",
+      "rss": "https://e00-marca.uecdn.es/rss/portada.xml",
+      "status": 200,
+      "recent_items": 9,
+      "note": null,
+      "final_url": "https://e00-xlk-ue-marca.uecdn.es/rss/googlenews/portada.xml"
+    },
+    {
+      "outlet": "Gigantes del Basket",
+      "rss": "https://www.gigantes.com/feed/",
+      "status": 200,
+      "recent_items": 10,
+      "note": null,
+      "final_url": "https://www.gigantes.com/feed/"
+    },
+    {
+      "outlet": "Punto de Break",
+      "rss": "https://www.puntodebreak.com/rss.xml",
+      "status": 200,
+      "recent_items": 10,
+      "note": null,
+      "final_url": "https://www.puntodebreak.com/rss.xml"
+    },
+    {
+      "outlet": "Lonely Planet ES",
+      "rss": "https://www.lonelyplanet.es/rss.xml",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.lonelyplanet.es/rss.xml"
+    },
+    {
+      "outlet": "Viajeros Callejeros",
+      "rss": "https://www.viajeroscallejeros.com/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.viajeroscallejeros.com/feed/"
+    },
+    {
+      "outlet": "Hipertextual",
+      "rss": "https://hipertextual.com/feed",
+      "status": 200,
+      "recent_items": 7,
+      "note": null,
+      "final_url": "https://hipertextual.com/feed/"
+    },
+    {
+      "outlet": "Microsiervos",
+      "rss": "https://www.microsiervos.com/index.xml",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://www.microsiervos.com/index.xml"
+    },
+    {
+      "outlet": "Solo Basket",
+      "rss": "https://www.solobasket.com/rss.xml",
+      "status": 200,
+      "recent_items": 9,
+      "note": null,
+      "final_url": "https://www.solobasket.com/feed"
+    },
+    {
+      "outlet": "elDiario.es Viajes",
+      "rss": "https://www.eldiario.es/rss/viajes/",
+      "status": 200,
+      "recent_items": 4,
+      "note": null,
+      "final_url": "https://www.eldiario.es/rss/viajes/"
+    },
+    {
+      "outlet": "Viajablog",
+      "rss": "https://www.viajablog.com/feed/",
+      "status": 200,
+      "recent_items": 8,
+      "note": null,
+      "final_url": "https://www.viajablog.com/feed/"
+    },
+    {
+      "outlet": "El Pachinko",
+      "rss": "https://www.elpachinko.com/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://queverentusviajes.com/feed"
+    },
+    {
+      "outlet": "Diario del Viajero",
+      "rss": "https://www.diariodelviajero.com/index.xml",
+      "status": 200,
+      "recent_items": 7,
+      "note": null,
+      "final_url": "https://www.diariodelviajero.com/feedburner.xml"
+    },
+    {
+      "outlet": "Infobae",
+      "rss": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": 200,
+      "recent_items": 18,
+      "note": null,
+      "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "outlet": "La Nación",
+      "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
+      "status": 200,
+      "recent_items": 15,
+      "note": null,
+      "final_url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "outlet": "Clarín",
+      "rss": "https://www.clarin.com/rss/lo-ultimo/",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://www.clarin.com/rss/lo-ultimo/"
+    },
+    {
+      "outlet": "Perfil",
+      "rss": "https://www.perfil.com/feed",
+      "status": 200,
+      "recent_items": 10,
+      "note": null,
+      "final_url": "https://www.perfil.com/feed"
+    },
+    {
+      "outlet": "Infobae Deportes",
+      "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
+      "status": 200,
+      "recent_items": 15,
+      "note": null,
+      "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"
+    },
+    {
+      "outlet": "Montevideo Deportes",
+      "rss": "https://www.montevideo.com.uy/anxml.aspx?59",
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://www.montevideo.com.uy/anxml.aspx?59"
+    },
+    {
+      "outlet": "La Nación CR",
+      "rss": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": 200,
+      "recent_items": 29,
+      "note": null,
+      "final_url": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "outlet": "El País",
+      "rss": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "status": 200,
+      "recent_items": 50,
+      "note": null,
+      "final_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
+    },
+    {
+      "outlet": "RTVE",
+      "rss": "https://api2.rtve.es/rss/temas_noticias.xml",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://api2.rtve.es/rss/temas_noticias.xml"
+    },
+    {
+      "outlet": "Euronews en español",
+      "rss": "https://es.euronews.com/rss",
+      "status": 200,
+      "recent_items": 15,
+      "note": null,
+      "final_url": "https://es.euronews.com/rss"
+    },
+    {
+      "outlet": "MIT Technology Review en español",
+      "rss": "https://www.technologyreview.es/rss",
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://www.technologyreview.es/rss/all"
+    }
+  ],
+  "section_shortages": {
+    "Tenis": 3
+  }
+}
