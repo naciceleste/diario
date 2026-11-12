@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-11T12:16:47.180607+00:00",
+  "at": "2026-11-12T12:19:47.740857+00:00",
   "feeds": [
     {
       "outlet": "elDiarioAR",
       "rss": "https://www.eldiarioar.com/rss/",
       "status": 200,
-      "recent_items": 8,
+      "recent_items": 10,
       "note": null,
       "final_url": "https://www.eldiarioar.com/rss/"
     },
@@ -21,7 +21,7 @@
       "outlet": "Revista Anfibia",
       "rss": "https://www.revistaanfibia.com/feed/",
       "status": 200,
-      "recent_items": 0,
+      "recent_items": 1,
       "note": null,
       "final_url": "https://www.revistaanfibia.com/feed/"
     },
@@ -37,7 +37,7 @@
       "outlet": "la diaria",
       "rss": "https://ladiaria.com.uy/feeds/articulos/",
       "status": 200,
-      "recent_items": 25,
+      "recent_items": 22,
       "note": null,
       "final_url": "https://ladiaria.com.uy/feeds/articulos/"
     },
@@ -45,7 +45,7 @@
       "outlet": "Montevideo Portal",
       "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
       "status": 200,
-      "recent_items": 13,
+      "recent_items": 15,
       "note": null,
       "final_url": "https://www.montevideo.com.uy/anxml.aspx?58"
     },
@@ -53,7 +53,7 @@
       "outlet": "Delfino.cr",
       "rss": "https://delfino.cr/feed",
       "status": 200,
-      "recent_items": 4,
+      "recent_items": 10,
       "note": null,
       "final_url": "https://delfino.cr/feed"
     },
@@ -61,7 +61,7 @@
       "outlet": "Semanario Universidad",
       "rss": "https://semanariouniversidad.com/feed/",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 6,
       "note": null,
       "final_url": "https://semanariouniversidad.com/feed/"
     },
@@ -69,7 +69,7 @@
       "outlet": "El Observador CR",
       "rss": "https://observador.cr/feed/",
       "status": 200,
-      "recent_items": 3,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://observador.cr/feed/"
     },
@@ -77,14 +77,17 @@
       "outlet": "elDiario.es",
       "rss": "https://www.eldiario.es/rss/",
       "status": 200,
-      "recent_items": 38,
+      "recent_items": 26,
       "note": null,
       "final_url": "https://www.eldiario.es/rss/"
     },
     {
       "outlet": "El Confidencial",
       "rss": "https://rss.elconfidencial.com/espana/",
-      "error": "HTTP Error 404: Not Found"
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://rss.elconfidencial.com/espana/"
     },
     {
       "outlet": "infoLibre",
@@ -98,7 +101,7 @@
       "outlet": "Xataka",
       "rss": "https://www.xataka.com/index.xml",
       "status": 200,
-      "recent_items": 11,
+      "recent_items": 8,
       "note": null,
       "final_url": "https://www.xataka.com/feedburner.xml"
     },
@@ -106,7 +109,7 @@
       "outlet": "Genbeta",
       "rss": "https://www.genbeta.com/index.xml",
       "status": 200,
-      "recent_items": 7,
+      "recent_items": 3,
       "note": null,
       "final_url": "https://www.genbeta.com/feedburner.xml"
     },
@@ -122,7 +125,7 @@
       "outlet": "DW español",
       "rss": "https://rss.dw.com/rdf/rss-sp-all",
       "status": 200,
-      "recent_items": 7,
+      "recent_items": 6,
       "note": null,
       "final_url": "https://rss.dw.com/rdf/rss-sp-all"
     },
@@ -146,7 +149,7 @@
       "outlet": "Olé",
       "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/"
     },
@@ -162,7 +165,7 @@
       "outlet": "Marca",
       "rss": "https://e00-marca.uecdn.es/rss/portada.xml",
       "status": 200,
-      "recent_items": 10,
+      "recent_items": 17,
       "note": null,
       "final_url": "https://e00-xlk-ue-marca.uecdn.es/rss/googlenews/portada.xml"
     },
@@ -202,7 +205,7 @@
       "outlet": "Hipertextual",
       "rss": "https://hipertextual.com/feed",
       "status": 200,
-      "recent_items": 4,
+      "recent_items": 6,
       "note": null,
       "final_url": "https://hipertextual.com/feed/"
     },
@@ -210,7 +213,7 @@
       "outlet": "Microsiervos",
       "rss": "https://www.microsiervos.com/index.xml",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 1,
       "note": null,
       "final_url": "https://www.microsiervos.com/index.xml"
     },
@@ -218,7 +221,7 @@
       "outlet": "Solo Basket",
       "rss": "https://www.solobasket.com/rss.xml",
       "status": 200,
-      "recent_items": 10,
+      "recent_items": 9,
       "note": null,
       "final_url": "https://www.solobasket.com/feed"
     },
@@ -226,7 +229,7 @@
       "outlet": "elDiario.es Viajes",
       "rss": "https://www.eldiario.es/rss/viajes/",
       "status": 200,
-      "recent_items": 4,
+      "recent_items": 3,
       "note": null,
       "final_url": "https://www.eldiario.es/rss/viajes/"
     },
@@ -242,7 +245,7 @@
       "outlet": "El Pachinko",
       "rss": "https://www.elpachinko.com/feed/",
       "status": 200,
-      "recent_items": 1,
+      "recent_items": 0,
       "note": null,
       "final_url": "https://queverentusviajes.com/feed"
     },
@@ -266,7 +269,7 @@
       "outlet": "La Nación",
       "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 9,
+      "recent_items": 16,
       "note": null,
       "final_url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -274,7 +277,7 @@
       "outlet": "Clarín",
       "rss": "https://www.clarin.com/rss/lo-ultimo/",
       "status": 200,
-      "recent_items": 3,
+      "recent_items": 0,
       "note": null,
       "final_url": "https://www.clarin.com/rss/lo-ultimo/"
     },
@@ -282,7 +285,7 @@
       "outlet": "Perfil",
       "rss": "https://www.perfil.com/feed",
       "status": 200,
-      "recent_items": 15,
+      "recent_items": 13,
       "note": null,
       "final_url": "https://www.perfil.com/feed"
     },
@@ -290,7 +293,7 @@
       "outlet": "Infobae Deportes",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
       "status": 200,
-      "recent_items": 22,
+      "recent_items": 18,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"
     },
@@ -298,7 +301,7 @@
       "outlet": "Montevideo Deportes",
       "rss": "https://www.montevideo.com.uy/anxml.aspx?59",
       "status": 200,
-      "recent_items": 1,
+      "recent_items": 3,
       "note": null,
       "final_url": "https://www.montevideo.com.uy/anxml.aspx?59"
     },
@@ -306,7 +309,7 @@
       "outlet": "La Nación CR",
       "rss": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 17,
+      "recent_items": 15,
       "note": null,
       "final_url": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -314,7 +317,7 @@
       "outlet": "El País",
       "rss": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
       "status": 200,
-      "recent_items": 54,
+      "recent_items": 41,
       "note": null,
       "final_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
     },
@@ -330,7 +333,7 @@
       "outlet": "Euronews en español",
       "rss": "https://es.euronews.com/rss",
       "status": 200,
-      "recent_items": 13,
+      "recent_items": 15,
       "note": null,
       "final_url": "https://es.euronews.com/rss"
     },
@@ -345,57 +348,53 @@
   ],
   "failed_urls": [
     {
-      "url": "https://www.montevideo.com.uy/auc.aspx",
-      "outlet": "Montevideo Portal",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "http://www.microsiervos.com/archivo/gadgets/proyectos-hardware-electronica-mitxela.html",
+      "url": "http://www.microsiervos.com/archivo/hackers/tiktok-destripado-ia-sensores-movil-no-salir-aplicacion-jamas.html",
       "outlet": "Microsiervos",
       "error": "HTTP Error 500: Internal Server Error"
     },
     {
-      "url": "https://elpais.com/icon/2026-11-11/el-cringe-se-ha-cargado-internet-por-que-los-jovenes-prefieren-no-subir-nada-a-las-redes.html",
+      "url": "https://www.dw.com/es/selección-de-fútbol-de-ee-uu-¿se-va-pochettino-y-llega-guardiola/a-79928141?maca=spa-rss-sp-all-1122-rdf",
+      "outlet": "DW español",
+      "error": "'ascii' codec can't encode character '\\xf3' in position 15: ordinal not in range(128)"
+    },
+    {
+      "url": "https://elpais.com/opinion/2026-11-12/la-fabula-del-terrateniente-los-lobos-y-los-corderos.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "https://www.dw.com/es/alemania-prevé-perder-800-000-empleos-por-la-inteligencia-artificial/a-79912582?maca=spa-rss-sp-all-1122-rdf",
-      "outlet": "DW español",
-      "error": "'ascii' codec can't encode character '\\xe9' in position 21: ordinal not in range(128)"
-    },
-    {
-      "url": "http://www.microsiervos.com/archivo/aerotrastorno/libro-guiness-records-certifica-vuelo-melbourne-toulouse-a350ulr-qantas.html",
-      "outlet": "Microsiervos",
-      "error": "HTTP Error 500: Internal Server Error"
+      "url": "https://elpais.com/tecnologia/2026-11-11/jose-luis-ponton-ingeniero-informatico-una-ia-que-entiende-el-movimiento-humano-puede-aprender-a-imitar-a-una-persona-y-suplantarla.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
     }
   ],
   "section_shortages": {
+    "Básquetbol": 2,
     "Tenis": 3
   },
   "success": true,
   "counts": {
-    "total": 48,
+    "total": 46,
     "lead": 1,
     "destacadas": 5,
     "sections": {
       "Política": 6,
       "Economía": 6,
       "Fútbol": 6,
-      "Básquetbol": 5,
+      "Básquetbol": 2,
       "Tenis": 3,
       "Tech": 5,
       "IA": 6,
-      "Viajes": 5
+      "Viajes": 6
     },
-    "independent": 35,
-    "images": 48,
+    "independent": 36,
+    "images": 45,
     "regions": {
-      "Argentina": 15,
+      "Argentina": 12,
       "Uruguay": 8,
-      "Costa Rica": 5,
+      "Costa Rica": 7,
       "España": 10,
-      "Mundo": 10
+      "Mundo": 9
     }
   }
 }
