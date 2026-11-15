@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-14T12:17:32.724652+00:00",
+  "at": "2026-11-15T12:19:14.531322+00:00",
   "feeds": [
     {
       "outlet": "elDiarioAR",
       "rss": "https://www.eldiarioar.com/rss/",
       "status": 200,
-      "recent_items": 14,
+      "recent_items": 8,
       "note": null,
       "final_url": "https://www.eldiarioar.com/rss/"
     },
@@ -21,7 +21,7 @@
       "outlet": "Revista Anfibia",
       "rss": "https://www.revistaanfibia.com/feed/",
       "status": 200,
-      "recent_items": 1,
+      "recent_items": 0,
       "note": null,
       "final_url": "https://www.revistaanfibia.com/feed/"
     },
@@ -37,7 +37,7 @@
       "outlet": "la diaria",
       "rss": "https://ladiaria.com.uy/feeds/articulos/",
       "status": 200,
-      "recent_items": 16,
+      "recent_items": 10,
       "note": null,
       "final_url": "https://ladiaria.com.uy/feeds/articulos/"
     },
@@ -45,7 +45,7 @@
       "outlet": "Montevideo Portal",
       "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
       "status": 200,
-      "recent_items": 16,
+      "recent_items": 12,
       "note": null,
       "final_url": "https://www.montevideo.com.uy/anxml.aspx?58"
     },
@@ -53,14 +53,17 @@
       "outlet": "Delfino.cr",
       "rss": "https://delfino.cr/feed",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 6,
       "note": null,
       "final_url": "https://delfino.cr/feed"
     },
     {
       "outlet": "Semanario Universidad",
       "rss": "https://semanariouniversidad.com/feed/",
-      "error": "The read operation timed out"
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://semanariouniversidad.com/feed/"
     },
     {
       "outlet": "El Observador CR",
@@ -74,7 +77,7 @@
       "outlet": "elDiario.es",
       "rss": "https://www.eldiario.es/rss/",
       "status": 200,
-      "recent_items": 33,
+      "recent_items": 16,
       "note": null,
       "final_url": "https://www.eldiario.es/rss/"
     },
@@ -90,7 +93,7 @@
       "outlet": "infoLibre",
       "rss": "https://www.infolibre.es/rss/",
       "status": 200,
-      "recent_items": 8,
+      "recent_items": 5,
       "note": null,
       "final_url": "https://www.infolibre.es/rss/"
     },
@@ -98,7 +101,7 @@
       "outlet": "Xataka",
       "rss": "https://www.xataka.com/index.xml",
       "status": 200,
-      "recent_items": 9,
+      "recent_items": 8,
       "note": null,
       "final_url": "https://www.xataka.com/feedburner.xml"
     },
@@ -114,7 +117,7 @@
       "outlet": "BBC Mundo",
       "rss": "https://feeds.bbci.co.uk/mundo/rss.xml",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 2,
       "note": null,
       "final_url": "https://feeds.bbci.co.uk/mundo/rss.xml"
     },
@@ -122,7 +125,7 @@
       "outlet": "DW español",
       "rss": "https://rss.dw.com/rdf/rss-sp-all",
       "status": 200,
-      "recent_items": 7,
+      "recent_items": 2,
       "note": null,
       "final_url": "https://rss.dw.com/rdf/rss-sp-all"
     },
@@ -146,7 +149,7 @@
       "outlet": "Olé",
       "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
       "status": 200,
-      "recent_items": 3,
+      "recent_items": 5,
       "note": null,
       "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/"
     },
@@ -170,7 +173,7 @@
       "outlet": "Gigantes del Basket",
       "rss": "https://www.gigantes.com/feed/",
       "status": 200,
-      "recent_items": 10,
+      "recent_items": 9,
       "note": null,
       "final_url": "https://www.gigantes.com/feed/"
     },
@@ -194,7 +197,7 @@
       "outlet": "Viajeros Callejeros",
       "rss": "https://www.viajeroscallejeros.com/feed/",
       "status": 200,
-      "recent_items": 0,
+      "recent_items": 1,
       "note": null,
       "final_url": "https://www.viajeroscallejeros.com/feed/"
     },
@@ -210,7 +213,7 @@
       "outlet": "Microsiervos",
       "rss": "https://www.microsiervos.com/index.xml",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 1,
       "note": null,
       "final_url": "https://www.microsiervos.com/index.xml"
     },
@@ -233,10 +236,7 @@
     {
       "outlet": "Viajablog",
       "rss": "https://www.viajablog.com/feed/",
-      "status": 200,
-      "recent_items": 9,
-      "note": null,
-      "final_url": "https://www.viajablog.com/feed/"
+      "error": "mismatched tag: line 93, column 2"
     },
     {
       "outlet": "El Pachinko",
@@ -258,7 +258,7 @@
       "outlet": "Infobae",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 24,
+      "recent_items": 22,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -266,7 +266,7 @@
       "outlet": "La Nación",
       "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 15,
+      "recent_items": 29,
       "note": null,
       "final_url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -282,7 +282,7 @@
       "outlet": "Perfil",
       "rss": "https://www.perfil.com/feed",
       "status": 200,
-      "recent_items": 15,
+      "recent_items": 10,
       "note": null,
       "final_url": "https://www.perfil.com/feed"
     },
@@ -290,7 +290,7 @@
       "outlet": "Infobae Deportes",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
       "status": 200,
-      "recent_items": 27,
+      "recent_items": 22,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"
     },
@@ -298,7 +298,7 @@
       "outlet": "Montevideo Deportes",
       "rss": "https://www.montevideo.com.uy/anxml.aspx?59",
       "status": 200,
-      "recent_items": 1,
+      "recent_items": 2,
       "note": null,
       "final_url": "https://www.montevideo.com.uy/anxml.aspx?59"
     },
@@ -306,7 +306,7 @@
       "outlet": "La Nación CR",
       "rss": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 24,
+      "recent_items": 21,
       "note": null,
       "final_url": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -314,7 +314,7 @@
       "outlet": "El País",
       "rss": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
       "status": 200,
-      "recent_items": 48,
+      "recent_items": 44,
       "note": null,
       "final_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
     },
@@ -330,7 +330,7 @@
       "outlet": "Euronews en español",
       "rss": "https://es.euronews.com/rss",
       "status": 200,
-      "recent_items": 18,
+      "recent_items": 13,
       "note": null,
       "final_url": "https://es.euronews.com/rss"
     },
@@ -338,7 +338,7 @@
       "outlet": "MIT Technology Review en español",
       "rss": "https://www.technologyreview.es/rss",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 0,
       "note": null,
       "final_url": "https://www.technologyreview.es/rss/all"
     }
@@ -350,67 +350,97 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "url": "https://elpais.com/deportes/futbol/2026-11-14/la-intolerancia-en-pantalones-cortos.html",
+      "url": "https://elpais.com/deportes/futbol/2026-11-15/inglaterra-examina-a-la-espana-invencible.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "https://elpais.com/deportes/futbol/2026-11-14/lamine-yamal-el-talento-que-no-regatea-el-ruido.html",
+      "url": "https://elpais.com/deportes/futbol/2026-11-15/jobe-bellingham-y-su-ansiado-debut-con-jude-en-inglaterra.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "http://www.microsiervos.com/archivo/juegos-y-diversion/sand-arena-virtual-simulador.html",
+      "url": "https://elpais.com/deportes/futbol/2026-11-15/perder-la-gloria.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://elpais.com/deportes/baloncesto/2026-11-15/el-largo-viaje-de-pedro-martinez-del-1-al-1111-y-el-record-de-aito.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://elpais.com/deportes/tenis/2026-11-15/el-meteorico-vuelo-de-rafa-jodar-un-debutante-extraordinario-todavia-no-lo-he-asimilado.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://elpais.com/deportes/tenis/2026-11-14/alcaraz-y-ferrero-juntos-un-ano-despues-sera-raro-quiero-darle-un-abrazo.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "http://www.microsiervos.com/archivo/ciencia/diez-preguntas-sin-respuesta-cientifica-nosotros-mundo-universo-tecnologia.html",
       "outlet": "Microsiervos",
       "error": "HTTP Error 500: Internal Server Error"
     },
     {
-      "url": "https://www.dw.com/es/microsoft-lamenta-profundamente-problemas-causados-por-caída-global/a-79946074?maca=spa-rss-sp-all-1122-rdf",
-      "outlet": "DW español",
-      "error": "'ascii' codec can't encode character '\\xed' in position 65: ordinal not in range(128)"
-    },
-    {
-      "url": "https://elpais.com/economia/negocios/2026-11-14/el-fulgor-de-nvidia-se-oscurece-sin-su-rey-midas.html",
+      "url": "https://cincodias.elpais.com/opinion/2026-11-15/emma-walmsley-una-filologa-en-lo-mas-alto-de-hp.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "https://www.dw.com/es/¿va-a-estallar-la-burbuja-de-la-ia-con-anthropic-a-punto-de-salir-a-bolsa/a-79944577?maca=spa-rss-sp-all-1122-rdf",
-      "outlet": "DW español",
-      "error": "'ascii' codec can't encode character '\\xbf' in position 8: ordinal not in range(128)"
+      "url": "https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-no-vale-el-silencio.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "http://www.microsiervos.com/archivo/noticias/detenido-trafico-aeropuertos-estados-unidos-faa-problemas-comunicaciones.html",
-      "outlet": "Microsiervos",
-      "error": "HTTP Error 500: Internal Server Error"
+      "url": "https://elpais.com/educacion/2026-11-15/la-soledad-del-profesor-en-el-aula-y-como-acabar-con-ella.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cincodias.elpais.com/fondos-y-planes/2026-11-15/osman-ali-goldman-sachs-la-inversion-minorista-distorsiona-los-precios-el-mercado-es-ahora-mas-complejo-que-nunca-y-menos-eficiente.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://elpais.com/television/series/2026-11-14/las-series-hechas-con-ia-no-son-el-futuro-son-el-presente.html",
+      "outlet": "El País",
+      "error": "HTTP Error 403: Forbidden"
     }
   ],
   "section_shortages": {
-    "Tenis": 3
+    "IA": 3
   },
   "success": true,
   "counts": {
-    "total": 49,
+    "total": 48,
     "lead": 1,
     "destacadas": 5,
     "sections": {
       "Política": 6,
       "Economía": 6,
-      "Fútbol": 6,
-      "Básquetbol": 6,
-      "Tenis": 3,
+      "Fútbol": 5,
+      "Básquetbol": 5,
+      "Tenis": 5,
       "Tech": 6,
-      "IA": 4,
+      "IA": 3,
       "Viajes": 6
     },
-    "independent": 38,
-    "images": 49,
+    "independent": 33,
+    "images": 48,
     "regions": {
       "Argentina": 15,
-      "Uruguay": 6,
+      "Uruguay": 7,
       "Costa Rica": 8,
       "España": 10,
-      "Mundo": 10
+      "Mundo": 8
     }
   }
 }
