@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-22T12:17:20.984186+00:00",
+  "at": "2026-11-23T12:11:53.821146+00:00",
   "feeds": [
     {
       "outlet": "elDiarioAR",
       "rss": "https://www.eldiarioar.com/rss/",
       "status": 200,
-      "recent_items": 7,
+      "recent_items": 6,
       "note": null,
       "final_url": "https://www.eldiarioar.com/rss/"
     },
@@ -13,7 +13,7 @@
       "outlet": "Cenital",
       "rss": "https://cenital.com/feed/",
       "status": 200,
-      "recent_items": 1,
+      "recent_items": 2,
       "note": null,
       "final_url": "https://cenital.com/feed/"
     },
@@ -21,7 +21,7 @@
       "outlet": "Revista Anfibia",
       "rss": "https://www.revistaanfibia.com/feed/",
       "status": 200,
-      "recent_items": 0,
+      "recent_items": 2,
       "note": null,
       "final_url": "https://www.revistaanfibia.com/feed/"
     },
@@ -45,7 +45,7 @@
       "outlet": "Montevideo Portal",
       "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
       "status": 200,
-      "recent_items": 16,
+      "recent_items": 17,
       "note": null,
       "final_url": "https://www.montevideo.com.uy/anxml.aspx?58"
     },
@@ -53,7 +53,7 @@
       "outlet": "Delfino.cr",
       "rss": "https://delfino.cr/feed",
       "status": 200,
-      "recent_items": 6,
+      "recent_items": 0,
       "note": null,
       "final_url": "https://delfino.cr/feed"
     },
@@ -61,7 +61,7 @@
       "outlet": "Semanario Universidad",
       "rss": "https://semanariouniversidad.com/feed/",
       "status": 200,
-      "recent_items": 4,
+      "recent_items": 3,
       "note": null,
       "final_url": "https://semanariouniversidad.com/feed/"
     },
@@ -69,7 +69,7 @@
       "outlet": "El Observador CR",
       "rss": "https://observador.cr/feed/",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 5,
       "note": null,
       "final_url": "https://observador.cr/feed/"
     },
@@ -77,7 +77,7 @@
       "outlet": "elDiario.es",
       "rss": "https://www.eldiario.es/rss/",
       "status": 200,
-      "recent_items": 20,
+      "recent_items": 21,
       "note": null,
       "final_url": "https://www.eldiario.es/rss/"
     },
@@ -85,7 +85,7 @@
       "outlet": "El Confidencial",
       "rss": "https://rss.elconfidencial.com/espana/",
       "status": 200,
-      "recent_items": 3,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://rss.elconfidencial.com/espana/"
     },
@@ -93,7 +93,7 @@
       "outlet": "infoLibre",
       "rss": "https://www.infolibre.es/rss/",
       "status": 200,
-      "recent_items": 6,
+      "recent_items": 5,
       "note": null,
       "final_url": "https://www.infolibre.es/rss/"
     },
@@ -117,7 +117,7 @@
       "outlet": "BBC Mundo",
       "rss": "https://feeds.bbci.co.uk/mundo/rss.xml",
       "status": 200,
-      "recent_items": 2,
+      "recent_items": 5,
       "note": null,
       "final_url": "https://feeds.bbci.co.uk/mundo/rss.xml"
     },
@@ -125,14 +125,17 @@
       "outlet": "DW español",
       "rss": "https://rss.dw.com/rdf/rss-sp-all",
       "status": 200,
-      "recent_items": 3,
+      "recent_items": 0,
       "note": null,
       "final_url": "https://rss.dw.com/rdf/rss-sp-all"
     },
     {
       "outlet": "France24 español",
       "rss": "https://www.france24.com/es/rss",
-      "error": "HTTP Error 403: Forbidden"
+      "status": 200,
+      "recent_items": 9,
+      "note": null,
+      "final_url": "https://www.france24.com/es/rss"
     },
     {
       "outlet": "Agencia Pública",
@@ -146,7 +149,7 @@
       "outlet": "Olé",
       "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 7,
       "note": null,
       "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/"
     },
@@ -170,14 +173,17 @@
       "outlet": "Gigantes del Basket",
       "rss": "https://www.gigantes.com/feed/",
       "status": 200,
-      "recent_items": 7,
+      "recent_items": 10,
       "note": null,
       "final_url": "https://www.gigantes.com/feed/"
     },
     {
       "outlet": "Punto de Break",
       "rss": "https://www.puntodebreak.com/rss.xml",
-      "error": "mismatched tag: line 93, column 2"
+      "status": 200,
+      "recent_items": 10,
+      "note": null,
+      "final_url": "https://www.puntodebreak.com/rss.xml"
     },
     {
       "outlet": "Lonely Planet ES",
@@ -199,19 +205,22 @@
       "outlet": "Hipertextual",
       "rss": "https://hipertextual.com/feed",
       "status": 200,
-      "recent_items": 6,
+      "recent_items": 5,
       "note": null,
       "final_url": "https://hipertextual.com/feed/"
     },
     {
       "outlet": "Microsiervos",
       "rss": "https://www.microsiervos.com/index.xml",
-      "error": "mismatched tag: line 93, column 2"
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://www.microsiervos.com/index.xml"
     },
     {
       "outlet": "Solo Basket",
       "rss": "https://www.solobasket.com/rss.xml",
-      "error": "not well-formed (invalid token): line 23, column 16"
+      "error": "not well-formed (invalid token): line 96, column 16"
     },
     {
       "outlet": "elDiario.es Viajes",
@@ -224,7 +233,10 @@
     {
       "outlet": "Viajablog",
       "rss": "https://www.viajablog.com/feed/",
-      "error": "mismatched tag: line 93, column 2"
+      "status": 200,
+      "recent_items": 9,
+      "note": null,
+      "final_url": "https://www.viajablog.com/feed/"
     },
     {
       "outlet": "El Pachinko",
@@ -246,7 +258,7 @@
       "outlet": "Infobae",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 26,
+      "recent_items": 27,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -254,7 +266,7 @@
       "outlet": "La Nación",
       "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 28,
+      "recent_items": 29,
       "note": null,
       "final_url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -262,7 +274,7 @@
       "outlet": "Clarín",
       "rss": "https://www.clarin.com/rss/lo-ultimo/",
       "status": 200,
-      "recent_items": 0,
+      "recent_items": 1,
       "note": null,
       "final_url": "https://www.clarin.com/rss/lo-ultimo/"
     },
@@ -270,7 +282,7 @@
       "outlet": "Perfil",
       "rss": "https://www.perfil.com/feed",
       "status": 200,
-      "recent_items": 14,
+      "recent_items": 21,
       "note": null,
       "final_url": "https://www.perfil.com/feed"
     },
@@ -278,7 +290,7 @@
       "outlet": "Infobae Deportes",
       "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
       "status": 200,
-      "recent_items": 34,
+      "recent_items": 39,
       "note": null,
       "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"
     },
@@ -286,7 +298,7 @@
       "outlet": "Montevideo Deportes",
       "rss": "https://www.montevideo.com.uy/anxml.aspx?59",
       "status": 200,
-      "recent_items": 5,
+      "recent_items": 4,
       "note": null,
       "final_url": "https://www.montevideo.com.uy/anxml.aspx?59"
     },
@@ -294,7 +306,7 @@
       "outlet": "La Nación CR",
       "rss": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml",
       "status": 200,
-      "recent_items": 16,
+      "recent_items": 17,
       "note": null,
       "final_url": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml"
     },
@@ -318,7 +330,7 @@
       "outlet": "Euronews en español",
       "rss": "https://es.euronews.com/rss",
       "status": 200,
-      "recent_items": 12,
+      "recent_items": 16,
       "note": null,
       "final_url": "https://es.euronews.com/rss"
     },
@@ -333,57 +345,49 @@
   ],
   "failed_urls": [
     {
-      "url": "https://www.dw.com/es/una-huelga-nacional-a-la-que-se-sumarán-los-controladores-paralizará-el-lunes-el-tráfico-aéreo-en-bélgica/a-80012267?maca=spa-rss-sp-all-1122-rdf",
-      "outlet": "DW español",
-      "error": "'ascii' codec can't encode character '\\xe1' in position 45: ordinal not in range(128)"
-    },
-    {
-      "url": "https://perfil.com/deportes/de-la-mano-de-paredes-boca-volvio-a-festejar-y-ahora-va-por-el-desafio-que-le-falta-aQCte6P0r5hH",
-      "outlet": "Perfil",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "https://cincodias.elpais.com/opinion/2026-11-22/christian-sewing-el-aficionado-al-tenis-que-pelea-otro-reves-para-su-banco.html",
+      "url": "https://elpais.com/planeta-futuro/2026-11-23/abhijit-banerjee-premio-nobel-de-economia-cuando-las-personas-reciben-una-transferencia-de-efectivo-trabajan-mas-duro-no-hay-ninguna-evidencia-de-que-se-vuelvan-perezosas.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-mediamarkt-marketplace.html",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-23/federico-barriga-fitch-la-flexibilidad-para-bajar-impuestos-en-espana-no-es-muy-significativa.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "https://elpais.com/escaparate/2026-11-22/probamos-robot-aspirador-dyson-r2-nurovi.html",
+      "url": "https://elpais.com/economia/negocios/2026-11-22/crisis-de-la-vivienda-desigualdad-y-crecimiento.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "https://cincodias.elpais.com/opinion/2026-11-22/la-opv-de-2-billones-de-anthropic-puede-ser-el-ultimo-gran-festejo.html",
+      "url": "http://www.microsiervos.com/archivo/mundoreal/cruce-cables-116-dificultades-voto-internet-elecciones.html",
+      "outlet": "Microsiervos",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "url": "https://elpais.com/escaparate/ofertas-y-descuentos/ofertas-pccomponentes-black-friday-2026.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-22/asml-con-armas-para-defender-su-dominio-tecnologico-en-la-voragine-de-la-ia.html",
+      "url": "http://www.microsiervos.com/archivo/ia/el-manifiesto-misantropico.html",
+      "outlet": "Microsiervos",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "url": "https://elpais.com/opinion/2026-11-23/la-burbuja-de-trump.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "url": "https://elpais.com/us/2026-11-21/un-matematico-de-anthropic-asegura-haber-resuelto-la-hipotesis-de-riemann-el-mayor-enigma-de-las-matematicas-con-ayuda-de-la-ia.html",
-      "outlet": "El País",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "url": "https://elpais.com/cultura/2026-11-22/un-documental-para-visitar-los-otros-mundos-de-cristina-fernandez-cubas-una-escritora-permanentemente-en-la-cuerda-floja.html",
-      "outlet": "El País",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "url": "https://elpais.com/america/2026-11-22/andre-janones-el-general-del-ejercito-digital-de-lula-quiero-contribuir-al-fin-de-la-extrema-derecha-en-el-mundo.html",
+      "url": "https://elpais.com/tecnologia/2026-11-23/luciano-floridi-filosofo-la-teoria-del-apocalipsis-de-la-ia-es-la-suma-de-desinformacion-propaganda-intereses-y-codicia.html",
       "outlet": "El País",
       "error": "HTTP Error 403: Forbidden"
     }
   ],
-  "section_shortages": {},
+  "section_shortages": {
+    "Básquetbol": 3
+  },
   "success": true,
   "counts": {
     "total": 49,
@@ -392,21 +396,21 @@
     "sections": {
       "Política": 6,
       "Economía": 6,
-      "Fútbol": 5,
-      "Básquetbol": 4,
-      "Tenis": 5,
-      "Tech": 6,
+      "Fútbol": 6,
+      "Básquetbol": 3,
+      "Tenis": 6,
+      "Tech": 4,
       "IA": 6,
-      "Viajes": 5
+      "Viajes": 6
     },
-    "independent": 34,
-    "images": 48,
+    "independent": 35,
+    "images": 47,
     "regions": {
       "Argentina": 15,
       "Uruguay": 7,
-      "Costa Rica": 8,
+      "Costa Rica": 6,
       "España": 10,
-      "Mundo": 9
+      "Mundo": 11
     }
   }
 }

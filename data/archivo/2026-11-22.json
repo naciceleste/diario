@@ -1,0 +1,1378 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T12:17:20.984186+00:00",
+  "timezone": "America/Costa_Rica",
+  "window_hours": 36,
+  "lead": {
+    "title": "Peloteo, sonrisas incómodas y un invitado sorpresa: Trump convierte la Casa Blanca en un concurso para su…",
+    "url": "https://www.eldiarioar.com/mundo/peloteo-sonrisas-incomodas-invitado-sorpresa-trump-convierte-casa-blanca-concurso-sucesion_129_13683505.html",
+    "outlet": "elDiarioAR",
+    "region": "Argentina",
+    "independent": true,
+    "section": "Política",
+    "published_at": "2026-11-22T03:01:49+00:00",
+    "excerpt": "Trump pone a prueba ante la prensa a JD Vance y Marco Rubio como potenciales candidatos a la presidencia en 2028 en una comparecencia en la que el ultra Stephen Miller acabó robándoles el foco El…",
+    "coverage": [
+      "elDiario.es",
+      "elDiarioAR"
+    ],
+    "score": 10.457,
+    "id": "5c5c280aa80c00e6",
+    "url_verified": true,
+    "url_status": 200,
+    "url_checked_at": "2026-11-22T12:17:33.597997+00:00",
+    "image": "assets/noticias/cf288bd5a3fed5ef32ae.jpg",
+    "image_credit": "elDiarioAR"
+  },
+  "destacadas": [
+    {
+      "title": "Boca Juniors campeón de la Copa Sudamericana 2026",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/boca-juniors-campeon-de-la-copa-sudamericana-2026",
+      "outlet": "la diaria",
+      "region": "Uruguay",
+      "independent": true,
+      "section": "Fútbol",
+      "published_at": "2026-11-22T00:59:27+00:00",
+      "excerpt": "El xeneize le ganó 2-0 a Atlético Mineiro en la final de Barranquilla, con un gol de Miguel Merentiel y un partidazo de Leandro Lozano. Boca Juniors se impuso por 2-0 ante un opaco Atlético Mineiro…",
+      "coverage": [
+        "Infobae Deportes",
+        "Perfil",
+        "la diaria"
+      ],
+      "score": 12.117,
+      "id": "a726f33d7ca66f7c",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-22T12:17:34.478620+00:00",
+      "image": "assets/noticias/1fcb76cba7afe3b9e6c8.webp",
+      "image_credit": "la diaria"
+    },
+    {
+      "title": "Cenfotec realizará jornada gratuita sobre inteligencia artificial y ciberseguridad",
+      "url": "https://delfino.cr/2026/11/cenfotec-realizara-jornada-gratuita-sobre-inteligencia-artificial-y-ciberseguridad",
+      "outlet": "Delfino.cr",
+      "region": "Costa Rica",
+      "independent": true,
+      "section": "IA",
+      "published_at": "2026-11-21T22:35:12+00:00",
+      "excerpt": "El AI & Cyber Security Day 2026 se realizará el miércoles 25 de noviembre en San José, con conferencias, talleres, paneles y simulaciones en vivo.",
+      "coverage": [
+        "Delfino.cr"
+      ],
+      "score": 7.716,
+      "id": "a350460904a5ca98",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-22T12:17:35.275727+00:00",
+      "image": "assets/noticias/6a721d9eaa2776d08fa0.jpg",
+      "image_credit": "Delfino.cr"
+    },
+    {
+      "title": "Sánchez exige a Ayuso que revoque su orden educativa por \"atentar\" contra el profesorado: \"Es la represión…",
+      "url": "https://www.eldiario.es/madrid/sanchez-exige-ayuso-revoque-orden-educativa-atentar-profesorado-represion-volviendo-vidas_1_13683808.html",
+      "outlet": "elDiario.es",
+      "region": "España",
+      "independent": true,
+      "section": "Política",
+      "published_at": "2026-11-22T10:13:17+00:00",
+      "excerpt": "\"No es un fake, no es una exageración, es la represión volviendo a nuestras vidas\", ha asegurado el presidente del Gobierno Clamor del profesorado contra la orden de “neutralidad” de Ayuso: “Al…",
+      "coverage": [
+        "elDiario.es"
+      ],
+      "score": 9.655,
+      "id": "9334de6b17c21bf1",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-22T12:17:33.587619+00:00",
+      "image": "assets/noticias/5d9a80ed347ed4a92722.jpg",
+      "image_credit": "elDiario.es"
+    },
+    {
+      "title": "Android 17 por fin introduce una característica que llevamos años pidiendo",
+      "url": "https://hipertextual.com/mobile/android-17-bloqueo-de-apps-huella-dactilar",
+      "outlet": "Hipertextual",
+      "region": "Mundo",
+      "independent": true,
+      "section": "Tech",
+      "published_at": "2026-11-22T11:00:00+00:00",
+      "excerpt": "El bloqueo de apps con huella dactilar, PIN o patrón es una función de seguridad y privacidad muy útil, pero que, lo creas o no, Android no soportaba de forma nativa. Por suerte esto va a cambiar…",
+      "coverage": [
+        "Hipertextual"
+      ],
+      "score": 9.785,
+      "id": "ddcd05f5df7024f0",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-22T12:17:35.381218+00:00",
+      "image": "assets/noticias/c9a2aaeb9c657ceed0d1.jpg",
+      "image_credit": "Hipertextual"
+    },
+    {
+      "title": "Este Android pasó más de 11 años encendido y nadie esperaba que durara tanto",
+      "url": "https://hipertextual.com/mobile/android-encendido-mas-de-11-anos-sin-reiniciarse",
+      "outlet": "Hipertextual",
+      "region": "Mundo",
+      "independent": true,
+      "section": "Tech",
+      "published_at": "2026-11-22T10:00:00+00:00",
+      "excerpt": "La mayoría de los usuarios reinicia el móvil de vez en cuando, ya sea por una actualización, un problema de rendimiento o simplemente porque la batería se agotó. Sin embargo, existe un caso insólito…",
+      "coverage": [
+        "Hipertextual"
+      ],
+      "score": 9.618,
+      "id": "790829b9cadd4a5c",
+      "url_verified": true,
+      "url_status": 200,
+      "url_checked_at": "2026-11-22T12:17:35.476866+00:00",
+      "image": "assets/noticias/ef7998c50adfc26108d1.jpg",
+      "image_credit": "Hipertextual"
+    }
+  ],
+  "sections": {
+    "Política": [
+      {
+        "title": "Puede fallar: la riesgosa alquimia de Milei y el golpe electoral que comparten CFK y Axel",
+        "url": "https://cenital.com/puede-fallar-la-riesgosa-alquimia-de-milei-y-el-golpe-electoral-que-comparten-cfk-y-axel",
+        "outlet": "Cenital",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-22T11:05:00+00:00",
+        "excerpt": "Con las PASO, el Gobierno muestra vitalidad política, pero no le alcanza para apagar la incertidumbre. Las quejas de Bullrich sobre Toto Caputo. La tesis del “one shot” del peronismo. ¿Bonos argy a…",
+        "coverage": [
+          "Cenital"
+        ],
+        "score": 9.799,
+        "id": "e9d0be5644275591",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:33.626971+00:00",
+        "image": "assets/noticias/8e03e5a875de71f0e59a.jpg",
+        "image_credit": "Cenital"
+      },
+      {
+        "title": "Las elecciones del GTA: matar y matar",
+        "url": "https://www.eldiario.es/blog/politica-para-supervivientes/elecciones-gta-matar-matar_132_13681458.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-22T07:18:06+00:00",
+        "excerpt": "'Política para supervivientes' es una carta semanal de Iñigo Sáenz de Ugarte exclusiva para socios y socias de elDiario.es con historias sobre política nacional. Si tú también lo quieres leer y…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 9.169,
+        "id": "5802b18982657f50",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:33.189411+00:00",
+        "image": "assets/noticias/1303169592fc8233483f.jpg",
+        "image_credit": "elDiario.es"
+      },
+      {
+        "title": "Pedro Sánchez revela en Salvados que Zapatero le está \"ayudando\" y \"aconsejando\" en la campaña electoral",
+        "url": "https://www.eldiario.es/politica/pedro-sanchez-revela-salvados-zapatero-le-ayudando-aconsejando-campana-electoral_1_13683140.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-22T05:01:39+00:00",
+        "excerpt": "El presidente del Gobierno y candidato a la reelección asegura en la entrevista del programa de La Sexta que tanto el adelanto de las generales como el plante ante la OTAN por el gasto en Defensa…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 8.79,
+        "id": "cf47f4588182552e",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:33.458704+00:00",
+        "image": "assets/noticias/7c1fb0fe7b2875f005cb.jpg",
+        "image_credit": "elDiario.es"
+      },
+      {
+        "title": "Soy un ciudadano, no un producto electoral",
+        "url": "https://www.infolibre.es/club-infolibre/librepensadores/ciudadano-no-producto-electoral_129_2240511.html",
+        "outlet": "infoLibre",
+        "region": "España",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-22T05:01:12+00:00",
+        "excerpt": "El reciente debate entre los candidatos a la presidencia del gobierno y la posterior explicación de las estrategias del mismo por parte de los partidos me hizo tomar conciencia (saber ya lo sabía)…",
+        "coverage": [
+          "infoLibre"
+        ],
+        "score": 8.788,
+        "id": "88344ff0652ad071",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:33.402217+00:00"
+      },
+      {
+        "title": "Vialidad en la era Milei: empleados advierten sobre presunto fraude en el bacheo de rutas",
+        "url": "https://www.eldiarioar.com/economia/vialidad-milei-empleados-advierten-presunto-fraude-bacheo-rutas_1_13681641.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-22T03:01:46+00:00",
+        "excerpt": "Trabajadores advierten que el presupuesto de una ruta triplicó las necesidades, se desvió parte para accesos privados y faltaron controles. Alertan que no es un caso aislado sino un accionar que con…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 8.457,
+        "id": "4589e9da976a76c0",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:37.089135+00:00",
+        "image": "assets/noticias/d2c2c6c6fc044b7dc682.jpg",
+        "image_credit": "elDiarioAR"
+      },
+      {
+        "title": "La agria sombra del final de Macri se proyecta sobre un Milei abstraído",
+        "url": "https://www.eldiarioar.com/opinion/agria-sombra-final-macri-proyecta-milei-abstraido_129_13683517.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Política",
+        "published_at": "2026-11-22T03:01:46+00:00",
+        "excerpt": "El ultra gastó la carta del salvataje de Trump y agotó el margen de motosierra. La cantinela del “riesgo k” se vuelve inocua y los mercados responden con el bolsillo. Saltos infantiloides ante Musk…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 8.457,
+        "id": "0ab2c64d07140b4e",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:36.969680+00:00",
+        "image": "assets/noticias/b1f745ab76c5257b7c0b.jpg",
+        "image_credit": "elDiarioAR"
+      }
+    ],
+    "Economía": [
+      {
+        "title": "Sindicato del Frigorífico Carrasco se declaró en conflicto y ocupó durante unas horas la planta, propiedad…",
+        "url": "https://ladiaria.com.uy/trabajo/articulo/2026/11/sindicato-del-frigorifico-carrasco-se-declaro-en-conflicto-y-ocupo-durante-unas-horas-la-planta-propiedad-de-minerva-foods",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-21T21:59:45+00:00",
+        "excerpt": "En un comunicado, los trabajadores manifestaron que la empresa “usa el seguro de paro como herramienta para manejar su economía” y también como una “eficaz arma de extorsión para llegar a sus…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 7.618,
+        "id": "e53c38fec52ceabc",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:34.833127+00:00",
+        "image": "assets/noticias/07f23106b9eb1ee7cc78.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Impuestos a los más ricos y más vivienda pública: con qué medidas podría seducir la izquierda a los votantes…",
+        "url": "https://www.eldiario.es/catalunya/impuestos-ricos-vivienda-publica-medidas-seducir-izquierda-votantes-derecha_1_13513102.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-21T21:10:46+00:00",
+        "excerpt": "Una encuesta elaborada por IDRA muestra cuáles son las propuestas electorales que decantan a los simpatizantes de cada formación a la hora de decidir a quién darán su apoyo en las próximas…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 7.482,
+        "id": "e57b8e7b9e554ce4",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:37.708903+00:00",
+        "image": "assets/noticias/8acbbf4ccf4a53e32275.jpg",
+        "image_credit": "elDiario.es"
+      },
+      {
+        "title": "Ni discriminados ni \"reemplazados\": el pleno empleo entre los hombres españoles que desmonta a la ultraderecha",
+        "url": "https://www.eldiario.es/economia/discriminados-reemplazados-pleno-empleo-hombres-espanoles-desmonta-ultraderecha_129_13678028.html",
+        "outlet": "elDiario.es",
+        "region": "España",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-21T21:10:47+00:00",
+        "excerpt": "El mandato de Sánchez no sólo ha mostrado el éxito de una alta capacidad de integración en el empleo de las personas migrantes sino que, paralelamente, se han alcanzado cotas de desempleo cercanas…",
+        "coverage": [
+          "elDiario.es"
+        ],
+        "score": 7.482,
+        "id": "bd9267a13cf99140",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:37.612607+00:00",
+        "image": "assets/noticias/51efc81cc0d21e603cea.jpg",
+        "image_credit": "elDiario.es"
+      },
+      {
+        "title": "¿Cobra por Sinpe Móvil? Hacienda le pedirá registrar el número: esto lo que debe saber para no exponerse a…",
+        "url": "https://observador.cr/cobra-por-sinpe-movil-hacienda-le-pedira-registrar-el-numero-esto-lo-que-debe-saber-para-no-exponerse-a-una-multa",
+        "outlet": "El Observador CR",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Economía",
+        "published_at": "2026-11-21T20:01:56+00:00",
+        "excerpt": "No crea un impuesto ni alcanza las transferencias personales, pero sí abre la puerta a sanciones de hasta 100 salarios base The post ¿Cobra por Sinpe Móvil? Hacienda le pedirá registrar el número…",
+        "coverage": [
+          "El Observador CR"
+        ],
+        "score": 7.291,
+        "id": "e74e63807b059378",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:35.050482+00:00",
+        "image": "assets/noticias/cbd3be7b88f75757c303.webp",
+        "image_credit": "El Observador CR"
+      },
+      {
+        "title": "La ciudad europea que se transforma en Navidad con dos mercados, pista de hielo y un gigante de ocho metros",
+        "url": "https://www.infobae.com/turismo/2026/11/22/la-ciudad-europea-que-se-transforma-en-navidad-con-dos-mercados-pista-de-hielo-y-un-gigante-de-ocho-metros",
+        "outlet": "Infobae",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Economía",
+        "published_at": "2026-11-22T12:05:16+00:00",
+        "excerpt": "Brujas abrirá el 20 de noviembre su programación invernal, con puestos en plazas históricas, una feria de artesanos, sabores belgas y actividades hasta enero de 2027",
+        "coverage": [
+          "Infobae"
+        ],
+        "score": 5.966,
+        "id": "52d0709d2c9518fe",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:37.702676+00:00",
+        "image": "assets/noticias/fd5677d79c730372cdc4.jpg",
+        "image_credit": "Infobae"
+      },
+      {
+        "title": "Carlos Slim, empresario mexicano: “Aumentar la inversión significa más empleo y desarrollo económico”",
+        "url": "https://www.lanacion.com.ar/estados-unidos/famosos/carlos-slim-empresario-mexicano-aumentar-la-inversion-significa-mas-empleo-y-desarrollo-economico-nid20112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Economía",
+        "published_at": "2026-11-22T12:00:00+00:00",
+        "excerpt": "Carlos Slim defendió la inversión en México como motor de empleo y desarrollo social al recibir un reconocimiento por su trayectoria en el Museo Soumaya.",
+        "coverage": [
+          "La Nación"
+        ],
+        "score": 5.952,
+        "id": "7751b09c1a1c08a8",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:37.860592+00:00",
+        "image": "assets/noticias/2a99a32bbd4b5b4779d9.jpg",
+        "image_credit": "La Nación"
+      }
+    ],
+    "Fútbol": [
+      {
+        "title": "¡Cerro, Cerro!",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/cerro-cerro",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Fútbol",
+        "published_at": "2026-11-21T00:25:26+00:00",
+        "excerpt": "Descubriendo la emoción de eludir la parca del descenso y las sensaciones que de esa acción afloran. Cuando salió el sol, cuando el Emi giró y metió ese fierrazo de zurda que hizo explotar a las…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 4.022,
+        "id": "3374fe1fef2baf99",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:48.378758+00:00",
+        "image": "assets/noticias/f14502172a875c0c665a.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Boca Juniors le ganó con autoridad a Atlético Mineiro y se consagró campeón de la Copa Sudamericana",
+        "url": "https://www.infobae.com/deportes/2026/11/21/boca-juniors-va-por-la-gloria-en-la-final-de-la-copa-sudamericana-ante-atletico-mineiro-en-barranquilla-hora-tv-y-posibles-formaciones",
+        "outlet": "Infobae Deportes",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-22T02:17:49+00:00",
+        "excerpt": "El Xeneize rompió una racha de 18 años sin títulos internacionales gracias a los goles de Santiago Ascacibar y Miguel Merentiel",
+        "coverage": [
+          "Infobae Deportes",
+          "La Nación CR",
+          "la diaria"
+        ],
+        "score": 8.335,
+        "id": "a8fb0a0a343300d8",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:47.202607+00:00",
+        "image": "assets/noticias/71e3147eb5d67bbbe871.jpg",
+        "image_credit": "Infobae Deportes"
+      },
+      {
+        "title": "Los millones que acumuló Boca Juniors por ser campeón de la Copa Sudamericana y el otro título internacional…",
+        "url": "https://www.infobae.com/deportes/2026/11/22/los-millones-que-acumulo-boca-juniors-por-ser-campeon-de-la-copa-sudamericana-y-el-otro-titulo-internacional-que-disputara",
+        "outlet": "Infobae Deportes",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-22T01:17:48+00:00",
+        "excerpt": "El Xeneize venció a Atlético Mineiro en Barranquilla y embolsará un jugoso premio económico. Además jugará la Recopa Sudamericana en 2027",
+        "coverage": [
+          "Infobae",
+          "Infobae Deportes",
+          "la diaria"
+        ],
+        "score": 8.168,
+        "id": "88226027c1d374e7",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:47.194779+00:00",
+        "image": "assets/noticias/8fd2d720f3d5d8b5bae8.jpg",
+        "image_credit": "Infobae Deportes"
+      },
+      {
+        "title": "Los goles que convirtieron a Boca Juniors campeón de la Copa Sudamericana: el camino hasta el título",
+        "url": "https://www.infobae.com/deportes/2026/11/22/los-goles-que-convirtieron-a-boca-juniors-campeon-de-la-copa-sudamericana-el-camino-hasta-el-titulo",
+        "outlet": "Infobae Deportes",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-22T01:14:42+00:00",
+        "excerpt": "El Xeneize inició su campaña en los playoffs y demostró mucha personalidad para vencer a O’Higgins, Recoleta, Sao Paulo, Vasco da Gama y Atlético Mineiro",
+        "coverage": [
+          "Infobae",
+          "Infobae Deportes",
+          "la diaria"
+        ],
+        "score": 8.159,
+        "id": "754f3fb1b5774153",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:47.134021+00:00",
+        "image": "assets/noticias/8c174a8ad4fff9ccb7b8.jpg",
+        "image_credit": "Infobae Deportes"
+      },
+      {
+        "title": "Boca gana la Copa Sudamericana al vencer a Atlético Mineiro",
+        "url": "https://www.nacion.com/puro-deporte/boca-gana-la-copa-sudamericana-al-vencer-a/IJLQAJ5NJ5FN3L7STZHSNA7CAA/story",
+        "outlet": "La Nación CR",
+        "region": "Costa Rica",
+        "independent": false,
+        "section": "Fútbol",
+        "published_at": "2026-11-22T01:01:25+00:00",
+        "excerpt": "Boca Juniors conquistó su primer título internacional en 18 años.",
+        "coverage": [
+          "Infobae Deportes",
+          "La Nación CR"
+        ],
+        "score": 6.122,
+        "id": "3307cb4aa1aa2a20",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:48.969587+00:00",
+        "image": "assets/noticias/5b94df329b7be8acf77f.jpg",
+        "image_credit": "La Nación CR"
+      }
+    ],
+    "Básquetbol": [
+      {
+        "title": "Las fechas y sedes de los torneos de formación FIBA en 2027",
+        "url": "https://www.gigantes.com/baloncesto-cantera/las-fechas-y-sedes-de-los-torneos-de-formacion-fiba-en-2027",
+        "outlet": "Gigantes del Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-22T12:11:05+00:00",
+        "excerpt": "Toda la información confirmada por FIBA. La entrada Las fechas y sedes de los torneos de formación FIBA en 2027 se publicó primero en Gigantes del Basket .",
+        "coverage": [
+          "Gigantes del Basket"
+        ],
+        "score": 9.983,
+        "id": "50420256bfc00cc7",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:52.704907+00:00",
+        "image": "assets/noticias/841dff14e216499936c1.jpg",
+        "image_credit": "Gigantes del Basket"
+      },
+      {
+        "title": "La lista de 15 convocados de Eslovenia para la ventana FIBA de noviembre 2026",
+        "url": "https://www.gigantes.com/selecciones/plantilla-convocatoria-eslovenia-ventanas-fiba-noviembre-2026",
+        "outlet": "Gigantes del Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-22T10:10:40+00:00",
+        "excerpt": "Incluye varios jugadores de la Liga Endesa La entrada La lista de 15 convocados de Eslovenia para la ventana FIBA de noviembre 2026 se publicó primero en Gigantes del Basket .",
+        "coverage": [
+          "Gigantes del Basket"
+        ],
+        "score": 9.648,
+        "id": "6d3e8551af9785cc",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:52.721619+00:00",
+        "image": "assets/noticias/096a043c52f060cd91b9.webp",
+        "image_credit": "Gigantes del Basket"
+      },
+      {
+        "title": "El “nuevo” LaMelo Ball que impulsa a los Minnesota Timberwolves sin Anthony Edwards",
+        "url": "https://www.gigantes.com/nba/lamelo-ball-minnesota-timberwolves-anthony-edwards",
+        "outlet": "Gigantes del Basket",
+        "region": "España",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-22T09:04:34+00:00",
+        "excerpt": "LaMelo Ball es un jugador nuevo desde que está en los Minnesota Timberwolves y está maximizando su gran oportunidad. La entrada El “nuevo” LaMelo Ball que impulsa a los Minnesota Timberwolves sin…",
+        "coverage": [
+          "Gigantes del Basket"
+        ],
+        "score": 9.464,
+        "id": "60fa0336808eaa46",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:52.684873+00:00",
+        "image": "assets/noticias/c6fb7fa2f5d6c0131272.jpg",
+        "image_credit": "Gigantes del Basket"
+      },
+      {
+        "title": "Liga Uruguaya: Nacional se repuso y vapuleó a Defensor Sporting de visitante",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/liga-uruguaya-nacional-se-repuso-y-vapuleo-a-defensor-sporting-de-visitante",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Básquetbol",
+        "published_at": "2026-11-21T21:38:50+00:00",
+        "excerpt": "El tricolor volvió a la victoria, mientras que Hebraica Macabi superó a un Atenas que no levanta, en el cierre de la octava fecha. Este viernes se completó la octava fecha de la Liga Uruguaya de…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 7.56,
+        "id": "ec14a323a0af8a3d",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:34.882783+00:00",
+        "image": "assets/noticias/3c18e6902964f0c68429.webp",
+        "image_credit": "la diaria"
+      }
+    ],
+    "Tenis": [
+      {
+        "title": "Ya sin tenistas uruguayos en competencia, se define el Uruguay Open",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/ya-sin-tenistas-uruguayos-en-competencia-se-define-el-uruguay-open",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Tenis",
+        "published_at": "2026-11-21T21:27:34+00:00",
+        "excerpt": "El representante local, Franco Roncadelli, quedó eliminado en cuartos; el Challenger se define este domingo y tendrá un campeón inédito. La edición 25 del Uruguay Open, que llega a su fin este fin…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 7.528,
+        "id": "9077c965cb65ac52",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:34.503883+00:00",
+        "image": "assets/noticias/3af34f012cddfdacd63d.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Alcaraz entrenará una hora antes de la final; Zverev, con tres horas de margen",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/22/alcaraz-entrenara-una-hora-antes-de-la-final-zverev-con-tres-horas-de-margen",
+        "outlet": "Infobae",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Tenis",
+        "published_at": "2026-11-22T11:46:42+00:00",
+        "excerpt": "",
+        "coverage": [
+          "Infobae"
+        ],
+        "score": 5.915,
+        "id": "a0cd988c1a921be3",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:53.397276+00:00",
+        "image": "assets/noticias/3e81bb9b51a55587fe79.png",
+        "image_credit": "Infobae"
+      },
+      {
+        "title": "Zverev, el rey cuestionado al que encara Alcaraz: “Soy el único número uno que debe justificarse”",
+        "url": "https://elpais.com/deportes/tenis/2026-11-21/zverev-el-rey-cuestionado-al-que-encara-alcaraz-soy-el-unico-numero-uno-que-debe-justificarse.html",
+        "outlet": "El País",
+        "region": "España",
+        "independent": false,
+        "section": "Tenis",
+        "published_at": "2026-11-21T22:14:20+00:00",
+        "excerpt": "El alemán supera al ruso Medvedev en un duelo insípido (7-6(0) y 6-4, en 1h 27m) y busca redondear en la final (18.00) el gran año de su ascensión, envuelta de críticas",
+        "coverage": [
+          "El País"
+        ],
+        "score": 3.658,
+        "id": "600f506630bbe5c6",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:52.902769+00:00",
+        "image": "assets/noticias/416eeb9249a95de20cf5.jpg",
+        "image_credit": "El País"
+      },
+      {
+        "title": "Rafael Nadal es nombrado miembro de la junta directiva del Real Madrid",
+        "url": "https://www.nacion.com/puro-deporte/rafael-nadal-es-nombrado-miembro-de-la-junta/S7GSU74YFJDVLAZ3OI5SBULHOU/story",
+        "outlet": "La Nación CR",
+        "region": "Costa Rica",
+        "independent": false,
+        "section": "Tenis",
+        "published_at": "2026-11-21T17:25:50+00:00",
+        "excerpt": "Rafael Nadal es socio de honor del club desde 2011. Hace tres años dijo que algún día le gustaría ser presidente del Madrid.",
+        "coverage": [
+          "La Nación CR"
+        ],
+        "score": 2.857,
+        "id": "66053da9f4f2eccf",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:53.593007+00:00",
+        "image": "assets/noticias/d4c3fcc43f9bff9b7107.jpg",
+        "image_credit": "La Nación CR"
+      },
+      {
+        "title": "Carlos Alcaraz remonta a Shelton y jugará la final del Masters ATP",
+        "url": "https://www.nacion.com/puro-deporte/carlos-alcaraz-remonta-a-shelton-y-jugara-la-final/IVE62BXILFFUBKH5HCOCOXY7JA/story",
+        "outlet": "La Nación CR",
+        "region": "Costa Rica",
+        "independent": false,
+        "section": "Tenis",
+        "published_at": "2026-11-21T17:18:51+00:00",
+        "excerpt": "Carlos Alcaraz, de 23 años, encadenó su decimotercera victoria consecutiva.",
+        "coverage": [
+          "La Nación CR"
+        ],
+        "score": 2.838,
+        "id": "bd1ee7ce23c69bc5",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:53.985645+00:00",
+        "image": "assets/noticias/54a2856267d269b67492.jpg",
+        "image_credit": "La Nación CR"
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Ahorro de energía de Windows 11: qué es, cómo funciona y cómo te puede ayudar o perjudicar con el…",
+        "url": "https://hipertextual.com/guias/ahorro-de-energia-de-windows-ventajas-inconvenientes",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-22T08:00:00+00:00",
+        "excerpt": "El ordenador portátil es hoy un dispositivo más de los muchos que tenemos en casa. Y el componente que lo hace portátil es, precisamente, su batería. Por desgracia, le exigimos mucho. Y esto obliga…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 9.285,
+        "id": "17a01ca86da82d41",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:35.495550+00:00",
+        "image": "assets/noticias/8620c0a0643b797007a8.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "Costa Rica llevará por primera vez una innovación tecnológica a Ventana Sur",
+        "url": "https://delfino.cr/2026/11/costa-rica-llevara-por-primera-vez-una-innovacion-tecnologica-a-ventana-sur",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-21T19:47:23+00:00",
+        "excerpt": "La herramienta web desarrollada por Caramba Labs permite a cineastas generar paquetes digitales de proyección desde el navegador, sin necesidad de intermediarios ni conocimiento técnico especializado.",
+        "coverage": [
+          "Delfino.cr"
+        ],
+        "score": 7.25,
+        "id": "3ec039b8c9e422b1",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:35.125782+00:00",
+        "image": "assets/noticias/5dbe4b5592b7db2eab3c.jpg",
+        "image_credit": "Delfino.cr"
+      },
+      {
+        "title": "Microsoft cambia las reglas y actualizar a Windows 11 26H2 será mucho más fácil",
+        "url": "https://hipertextual.com/software/actualizar-windows-11-26h2-mucho-mas-facil",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-21T10:00:00+00:00",
+        "excerpt": "Obtener Windows 11 26H2, la más reciente versión del sistema operativo de Microsoft, será más fácil que nunca. Los de Redmond están implementando un cambio que simplifica el salto tanto desde…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 5.618,
+        "id": "de4be3aebcc09347",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:35.388147+00:00",
+        "image": "assets/noticias/641ea8414b59bf07d762.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "Windows 11 quiere copiar una de las mejores funciones del iPhone para proteger tu PC",
+        "url": "https://hipertextual.com/software/windows-11-copia-funcion-iphone-bloqueo-remoto-pc",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-21T09:00:00+00:00",
+        "excerpt": "Perder el portátil o sufrir el robo de un ordenador puede convertirse en una auténtica pesadilla. Hasta ahora, las opciones para actuar de forma remota en Windows suelen centrarse en localizar el…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 5.452,
+        "id": "81262b014940e998",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:35.376929+00:00",
+        "image": "assets/noticias/f57f51d4e6d929babb9b.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "La Casa Blanca sustituye a su jefe de ciberseguridad en medio de un cúmulo de fallas tecnológicas",
+        "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/la-casa-blanca-sustituye-a-su-jefe-de-ciberseguridad-en-medio-de-un-cumulo-de-fallas-tecnologicas",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "Tech",
+        "published_at": "2026-11-21T03:13:39+00:00",
+        "excerpt": "Aeropuertos, bancos, organismos del Estado y empresas de diferentes áreas quedaron fuera de servicio temporalmente en los últimos días. A una semana de que la Administración Federal de Aviación de…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 4.49,
+        "id": "f030d16d61473ec5",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:54.699218+00:00",
+        "image": "assets/noticias/f10e76e0b11d980d0346.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Kirsten Davies llega a la dirección nacional de ciberseguridad tras una serie de fallas en EE.UU.",
+        "url": "https://www.lanacion.com.ar/estados-unidos/washington/kirsten-davies-llega-a-la-direccion-nacional-de-ciberseguridad-tras-una-serie-de-fallas-en-eeuu-nid20112026",
+        "outlet": "La Nación",
+        "region": "Argentina",
+        "independent": false,
+        "section": "Tech",
+        "published_at": "2026-11-22T06:55:00+00:00",
+        "excerpt": "Kirsten Davies reemplazará a Sean Cairncross en la dirección nacional de ciberseguridad tras fallas que afectaron servicios en Estados Unidos",
+        "coverage": [
+          "La Nación"
+        ],
+        "score": 5.105,
+        "id": "0eb42f4e3255132f",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:55.728035+00:00",
+        "image": "assets/noticias/fa46f64605c52f149c6c.jpg",
+        "image_credit": "La Nación"
+      }
+    ],
+    "IA": [
+      {
+        "title": "Cómo bloquear conversaciones en ChatGPT para que nadie pueda leerlas aunque compartas dispositivo o cuenta",
+        "url": "https://hipertextual.com/tecnologia/bloquear-conversaciones-chatgpt-chats-bloqueados",
+        "outlet": "Hipertextual",
+        "region": "Mundo",
+        "independent": true,
+        "section": "IA",
+        "published_at": "2026-11-22T09:00:00+00:00",
+        "excerpt": "A nadie le gusta que le toquen sus cosas o que curioseen en sus teléfonos móviles o aplicaciones como WhatsApp, Gmail o ChatGPT. Son algunas de las apps más utilizadas y en ellas acabamos dejando…",
+        "coverage": [
+          "Hipertextual"
+        ],
+        "score": 9.452,
+        "id": "e032514c7edb0a27",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:35.475270+00:00",
+        "image": "assets/noticias/ffb5a3dfaa03d4f4fd3e.jpg",
+        "image_credit": "Hipertextual"
+      },
+      {
+        "title": "El terror según Mariana Enriquez: fantasmas de la dictadura, cuerpos violentados y “la bomba atómica” de la…",
+        "url": "https://www.eldiarioar.com/cultura/terror-mariana-enriquez-fantasmas-dictadura-cuerpos-violentados-bomba-atomica-inteligencia-artificial_1_13676552.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "IA",
+        "published_at": "2026-11-22T03:01:48+00:00",
+        "excerpt": "De paso por Buenos Aires, la escritora presentó ‘Conversación con la oscuridad’, un ensayo donde elabora algunas teorías alrededor de la ficción gótica, el miedo y lo espectral en la literatura a…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 8.457,
+        "id": "4fd78f83d2526599",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:56.327774+00:00",
+        "image": "assets/noticias/be69a275f1ecbd417238.jpg",
+        "image_credit": "elDiarioAR"
+      },
+      {
+        "title": "Álvaro Pena: El próximo “gran avance” de Uruguay no vendrá de la mano de la IA, sino de la “inteligencia…",
+        "url": "https://ladiaria.com.uy/futuro/articulo/2026/11/alvaro-pena-el-proximo-gran-avance-de-uruguay-no-vendra-de-la-mano-de-la-ia-sino-de-la-inteligencia-colectiva",
+        "outlet": "la diaria",
+        "region": "Uruguay",
+        "independent": true,
+        "section": "IA",
+        "published_at": "2026-11-21T03:13:42+00:00",
+        "excerpt": "El consejero de la UTEC afirmó que Uruguay debe aprovechar la inteligencia de toda su población para impulsar el desarrollo y destacó la educación como una herramienta clave para anticiparse a los…",
+        "coverage": [
+          "la diaria"
+        ],
+        "score": 4.49,
+        "id": "270fafcff4592bd2",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:34.679206+00:00",
+        "image": "assets/noticias/e3e27f841bf0ceca29d1.webp",
+        "image_credit": "la diaria"
+      },
+      {
+        "title": "Los “millonarios de papel” de la IA: Anthropic crea miles de ricos mientras blinda el poder de su cúpula",
+        "url": "https://www.eldiarioar.com/economia/millonarios-papel-ia-anthropic-crea-miles-ricos-blinda-cupula_1_13682169.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "IA",
+        "published_at": "2026-11-21T03:02:02+00:00",
+        "excerpt": "La mayor salida a bolsa de la historia limita como nunca antes el poder de voto de los accionistas en beneficio de los siete fundadores, una tendencia que se extiende por los nuevos gigantes de la…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 4.457,
+        "id": "f0b2adf06febd16a",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:56.420053+00:00",
+        "image": "assets/noticias/a9a910675125812176c6.jpg",
+        "image_credit": "elDiarioAR"
+      },
+      {
+        "title": "Gemini 4: cuándo conviene usar Hydrogen y cuándo Neon, el modelo solo para suscriptores de pago",
+        "url": "https://www.infobae.com/tecno/2026/11/22/gemini-4-cuando-conviene-usar-hydrogen-y-cuando-neon-el-modelo-solo-para-suscriptores-de-pago",
+        "outlet": "Infobae",
+        "region": "Argentina",
+        "independent": false,
+        "section": "IA",
+        "published_at": "2026-11-22T12:10:00+00:00",
+        "excerpt": "Google ofrece dos versiones con precios y accesos distintos, y en el celular la diferencia más concreta es quién puede elegir cada una desde el menú de modelos",
+        "coverage": [
+          "Infobae"
+        ],
+        "score": 5.98,
+        "id": "3316c74d048aa67b",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:55.962663+00:00",
+        "image": "assets/noticias/660eb05399cac926068b.jpg",
+        "image_credit": "Infobae"
+      },
+      {
+        "title": "Ministro de Educación surcoreano renuncia tras escándalo de trampas con inteligencia artificial",
+        "url": "https://www.nacion.com/el-mundo/ministro-de-educacion-surcoreano-renuncia-tras/T7OZCKX65BCFBMC3XKXU3TYUVU/story",
+        "outlet": "La Nación CR",
+        "region": "Costa Rica",
+        "independent": false,
+        "section": "IA",
+        "published_at": "2026-11-22T04:48:27+00:00",
+        "excerpt": "Candidato con máxima puntuación en examen nacional de contabilidad confesó haber usado IA para obtener nota casi perfecta.",
+        "coverage": [
+          "La Nación CR"
+        ],
+        "score": 4.753,
+        "id": "e31298b7dabebeaf",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:56.799659+00:00",
+        "image": "assets/noticias/fa577597ba0b9916dcdc.jpg",
+        "image_credit": "La Nación CR"
+      }
+    ],
+    "Viajes": [
+      {
+        "title": "FideSport celebrará final de torneo de esports con competencia femenina de Gran Turismo 7",
+        "url": "https://delfino.cr/2026/11/fidesport-celebrara-final-de-torneo-de-esports-con-competencia-femenina-de-gran-turismo-7",
+        "outlet": "Delfino.cr",
+        "region": "Costa Rica",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-21T22:10:34+00:00",
+        "excerpt": "La actividad se realizará el 28 de noviembre en Universidad Fidélitas y reunirá las finales de EA Sports FC 26 y Gran Turismo 7, además de una competencia exclusiva para mujeres.",
+        "coverage": [
+          "Delfino.cr"
+        ],
+        "score": 7.648,
+        "id": "ff9758df00f3d27f",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:35.081563+00:00",
+        "image": "assets/noticias/eaf31481178e25a156fe.jpg",
+        "image_credit": "Delfino.cr"
+      },
+      {
+        "title": "Visado para viajar a Australia desde España: cómo sacamos la ETA en familia",
+        "url": "https://queverentusviajes.com/visado-australia-espanoles-eta",
+        "outlet": "El Pachinko",
+        "region": "Mundo",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-21T17:38:54+00:00",
+        "excerpt": "Cuando contamos a nuestra familia y amigos que íbamos a viajar a Australia, la segunda pregunta, justo después de «¿cuántas horas de vuelo son?», suele ser «¿y necesitáis visado?». La respuesta…",
+        "coverage": [
+          "El Pachinko"
+        ],
+        "score": 6.893,
+        "id": "ac4d371f11422e49",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:35.802502+00:00",
+        "image": "assets/noticias/1e3b99153b540654001d.png",
+        "image_credit": "El Pachinko"
+      },
+      {
+        "title": "Detuvieron a una joven en el subte por viajar con su perra y cuestionan el procedimiento policial",
+        "url": "https://www.eldiarioar.com/sociedad/detuvieron-joven-subte-viajar-perra-cuestionan-procedimiento-policial_1_13683202.html",
+        "outlet": "elDiarioAR",
+        "region": "Argentina",
+        "independent": true,
+        "section": "Viajes",
+        "published_at": "2026-11-21T16:12:11+00:00",
+        "excerpt": "La Policía de la Ciudad la acusa de atentado y resistencia a la autoridad. Videos grabados por pasajeros muestran a dos agentes deteniendo salvajemente a la joven, que viajaba con su mascota con…",
+        "coverage": [
+          "elDiarioAR"
+        ],
+        "score": 6.652,
+        "id": "1c86ef2c27cf3f99",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:57.595647+00:00",
+        "image": "assets/noticias/58e1bbc054e7348dddf1.jpg",
+        "image_credit": "elDiarioAR"
+      },
+      {
+        "title": "Los geólogos siguen sin dar crédito: uno de cada 25 granos de arena de la playa del desembarco de Normandía…",
+        "url": "https://www.diariodelviajero.com/francia/geologos-siguen-dar-credito-uno-cada-25-granos-arena-playa-desembarco-normandia-metralla-dia-d",
+        "outlet": "Diario del Viajero",
+        "region": "Mundo",
+        "independent": false,
+        "section": "Viajes",
+        "published_at": "2026-11-22T11:00:27+00:00",
+        "excerpt": "Quien pasea hoy por Omaha Beach se topa con búnkeres, monumentos y un mar de lo más tranquilo. Ante un panorama así, cuesta imaginar que la huella del 6 de junio de 1944 siga ahí abajo , mezclada…",
+        "coverage": [
+          "Diario del Viajero"
+        ],
+        "score": 5.786,
+        "id": "4c943ed72eca2c77",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:35.763581+00:00",
+        "image": "assets/noticias/3798ab1a417491c0018e.jpg",
+        "image_credit": "Diario del Viajero"
+      },
+      {
+        "title": "Un granjero busca voluntarios para vivir gratis en su finca rural de la Alpujarra granadina a cambio de…",
+        "url": "https://www.diariodelviajero.com/alojamientos-y-hoteles/granjero-busca-voluntarios-para-vivir-gratis-su-finca-rural-alpujarra-granadina-a-cambio-ayudarles-mantenimiento-jardineria",
+        "outlet": "Diario del Viajero",
+        "region": "Mundo",
+        "independent": false,
+        "section": "Viajes",
+        "published_at": "2026-11-22T09:00:23+00:00",
+        "excerpt": "Alojarse en la Alpujarra granadina no es de lo más caro pero puede salir mucho más económico aprovechando ofertas como la de Chris, un granjero angloparlante que ofrece alojamiento en su finca…",
+        "coverage": [
+          "Diario del Viajero"
+        ],
+        "score": 5.453,
+        "id": "88ddac6e2f4b010c",
+        "url_verified": true,
+        "url_status": 200,
+        "url_checked_at": "2026-11-22T12:17:58.084660+00:00",
+        "image": "assets/noticias/d35ba58d4e6f67205cce.jpg",
+        "image_credit": "Diario del Viajero"
+      }
+    ]
+  },
+  "resumen": [
+    "Peloteo, sonrisas incómodas y un invitado sorpresa: Trump convierte la Casa Blanca en un concurso para su… (elDiarioAR).",
+    "Boca Juniors campeón de la Copa Sudamericana 2026 (la diaria).",
+    "Cenfotec realizará jornada gratuita sobre inteligencia artificial y ciberseguridad (Delfino.cr).",
+    "Sánchez exige a Ayuso que revoque su orden educativa por \"atentar\" contra el profesorado: \"Es la represión… (elDiario.es)."
+  ],
+  "resumen_method": "extractivo",
+  "counts": {
+    "total": 49,
+    "lead": 1,
+    "destacadas": 5,
+    "sections": {
+      "Política": 6,
+      "Economía": 6,
+      "Fútbol": 5,
+      "Básquetbol": 4,
+      "Tenis": 5,
+      "Tech": 6,
+      "IA": 6,
+      "Viajes": 5
+    },
+    "independent": 34,
+    "images": 48,
+    "regions": {
+      "Argentina": 15,
+      "Uruguay": 7,
+      "Costa Rica": 8,
+      "España": 10,
+      "Mundo": 9
+    }
+  },
+  "feed_status": [
+    {
+      "outlet": "elDiarioAR",
+      "rss": "https://www.eldiarioar.com/rss/",
+      "status": 200,
+      "recent_items": 7,
+      "note": null,
+      "final_url": "https://www.eldiarioar.com/rss/"
+    },
+    {
+      "outlet": "Cenital",
+      "rss": "https://cenital.com/feed/",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://cenital.com/feed/"
+    },
+    {
+      "outlet": "Revista Anfibia",
+      "rss": "https://www.revistaanfibia.com/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.revistaanfibia.com/feed/"
+    },
+    {
+      "outlet": "Chequeado",
+      "rss": "https://chequeado.com/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://chequeado.com/feed/"
+    },
+    {
+      "outlet": "la diaria",
+      "rss": "https://ladiaria.com.uy/feeds/articulos/",
+      "status": 200,
+      "recent_items": 12,
+      "note": null,
+      "final_url": "https://ladiaria.com.uy/feeds/articulos/"
+    },
+    {
+      "outlet": "Montevideo Portal",
+      "rss": "https://www.montevideo.com.uy/anxml.aspx?58",
+      "status": 200,
+      "recent_items": 16,
+      "note": null,
+      "final_url": "https://www.montevideo.com.uy/anxml.aspx?58"
+    },
+    {
+      "outlet": "Delfino.cr",
+      "rss": "https://delfino.cr/feed",
+      "status": 200,
+      "recent_items": 6,
+      "note": null,
+      "final_url": "https://delfino.cr/feed"
+    },
+    {
+      "outlet": "Semanario Universidad",
+      "rss": "https://semanariouniversidad.com/feed/",
+      "status": 200,
+      "recent_items": 4,
+      "note": null,
+      "final_url": "https://semanariouniversidad.com/feed/"
+    },
+    {
+      "outlet": "El Observador CR",
+      "rss": "https://observador.cr/feed/",
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://observador.cr/feed/"
+    },
+    {
+      "outlet": "elDiario.es",
+      "rss": "https://www.eldiario.es/rss/",
+      "status": 200,
+      "recent_items": 20,
+      "note": null,
+      "final_url": "https://www.eldiario.es/rss/"
+    },
+    {
+      "outlet": "El Confidencial",
+      "rss": "https://rss.elconfidencial.com/espana/",
+      "status": 200,
+      "recent_items": 3,
+      "note": null,
+      "final_url": "https://rss.elconfidencial.com/espana/"
+    },
+    {
+      "outlet": "infoLibre",
+      "rss": "https://www.infolibre.es/rss/",
+      "status": 200,
+      "recent_items": 6,
+      "note": null,
+      "final_url": "https://www.infolibre.es/rss/"
+    },
+    {
+      "outlet": "Xataka",
+      "rss": "https://www.xataka.com/index.xml",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://www.xataka.com/feedburner.xml"
+    },
+    {
+      "outlet": "Genbeta",
+      "rss": "https://www.genbeta.com/index.xml",
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://www.genbeta.com/feedburner.xml"
+    },
+    {
+      "outlet": "BBC Mundo",
+      "rss": "https://feeds.bbci.co.uk/mundo/rss.xml",
+      "status": 200,
+      "recent_items": 2,
+      "note": null,
+      "final_url": "https://feeds.bbci.co.uk/mundo/rss.xml"
+    },
+    {
+      "outlet": "DW español",
+      "rss": "https://rss.dw.com/rdf/rss-sp-all",
+      "status": 200,
+      "recent_items": 3,
+      "note": null,
+      "final_url": "https://rss.dw.com/rdf/rss-sp-all"
+    },
+    {
+      "outlet": "France24 español",
+      "rss": "https://www.france24.com/es/rss",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "outlet": "Agencia Pública",
+      "rss": "https://apublica.org/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": "Feed verificado, excluido de la edición por idioma: pt-BR",
+      "final_url": "https://apublica.org/feed/"
+    },
+    {
+      "outlet": "Olé",
+      "rss": "https://www.ole.com.ar/rss/ultimas-noticias/",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://www.ole.com.ar/rss/ultimas-noticias/"
+    },
+    {
+      "outlet": "ESPN",
+      "rss": "https://www.espn.com/espn/rss/news?section=deportes",
+      "status": 200,
+      "recent_items": 0,
+      "note": "Feed verificado, excluido de la edición por idioma: en",
+      "final_url": "https://www.espn.com/espn/rss/news?section=deportes"
+    },
+    {
+      "outlet": "Marca",
+      "rss": "https://e00-marca.uecdn.es/rss/portada.xml",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://e00-xlk-ue-marca.uecdn.es/rss/googlenews/portada.xml"
+    },
+    {
+      "outlet": "Gigantes del Basket",
+      "rss": "https://www.gigantes.com/feed/",
+      "status": 200,
+      "recent_items": 7,
+      "note": null,
+      "final_url": "https://www.gigantes.com/feed/"
+    },
+    {
+      "outlet": "Punto de Break",
+      "rss": "https://www.puntodebreak.com/rss.xml",
+      "error": "mismatched tag: line 93, column 2"
+    },
+    {
+      "outlet": "Lonely Planet ES",
+      "rss": "https://www.lonelyplanet.es/rss.xml",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.lonelyplanet.es/rss.xml"
+    },
+    {
+      "outlet": "Viajeros Callejeros",
+      "rss": "https://www.viajeroscallejeros.com/feed/",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.viajeroscallejeros.com/feed/"
+    },
+    {
+      "outlet": "Hipertextual",
+      "rss": "https://hipertextual.com/feed",
+      "status": 200,
+      "recent_items": 6,
+      "note": null,
+      "final_url": "https://hipertextual.com/feed/"
+    },
+    {
+      "outlet": "Microsiervos",
+      "rss": "https://www.microsiervos.com/index.xml",
+      "error": "mismatched tag: line 93, column 2"
+    },
+    {
+      "outlet": "Solo Basket",
+      "rss": "https://www.solobasket.com/rss.xml",
+      "error": "not well-formed (invalid token): line 23, column 16"
+    },
+    {
+      "outlet": "elDiario.es Viajes",
+      "rss": "https://www.eldiario.es/rss/viajes/",
+      "status": 200,
+      "recent_items": 4,
+      "note": null,
+      "final_url": "https://www.eldiario.es/rss/viajes/"
+    },
+    {
+      "outlet": "Viajablog",
+      "rss": "https://www.viajablog.com/feed/",
+      "error": "mismatched tag: line 93, column 2"
+    },
+    {
+      "outlet": "El Pachinko",
+      "rss": "https://www.elpachinko.com/feed/",
+      "status": 200,
+      "recent_items": 1,
+      "note": null,
+      "final_url": "https://queverentusviajes.com/feed"
+    },
+    {
+      "outlet": "Diario del Viajero",
+      "rss": "https://www.diariodelviajero.com/index.xml",
+      "status": 200,
+      "recent_items": 7,
+      "note": null,
+      "final_url": "https://www.diariodelviajero.com/feedburner.xml"
+    },
+    {
+      "outlet": "Infobae",
+      "rss": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": 200,
+      "recent_items": 26,
+      "note": null,
+      "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "outlet": "La Nación",
+      "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
+      "status": 200,
+      "recent_items": 28,
+      "note": null,
+      "final_url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "outlet": "Clarín",
+      "rss": "https://www.clarin.com/rss/lo-ultimo/",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.clarin.com/rss/lo-ultimo/"
+    },
+    {
+      "outlet": "Perfil",
+      "rss": "https://www.perfil.com/feed",
+      "status": 200,
+      "recent_items": 14,
+      "note": null,
+      "final_url": "https://www.perfil.com/feed"
+    },
+    {
+      "outlet": "Infobae Deportes",
+      "rss": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
+      "status": 200,
+      "recent_items": 34,
+      "note": null,
+      "final_url": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"
+    },
+    {
+      "outlet": "Montevideo Deportes",
+      "rss": "https://www.montevideo.com.uy/anxml.aspx?59",
+      "status": 200,
+      "recent_items": 5,
+      "note": null,
+      "final_url": "https://www.montevideo.com.uy/anxml.aspx?59"
+    },
+    {
+      "outlet": "La Nación CR",
+      "rss": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": 200,
+      "recent_items": 16,
+      "note": null,
+      "final_url": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "outlet": "El País",
+      "rss": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "status": 200,
+      "recent_items": 54,
+      "note": null,
+      "final_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
+    },
+    {
+      "outlet": "RTVE",
+      "rss": "https://api2.rtve.es/rss/temas_noticias.xml",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://api2.rtve.es/rss/temas_noticias.xml"
+    },
+    {
+      "outlet": "Euronews en español",
+      "rss": "https://es.euronews.com/rss",
+      "status": 200,
+      "recent_items": 12,
+      "note": null,
+      "final_url": "https://es.euronews.com/rss"
+    },
+    {
+      "outlet": "MIT Technology Review en español",
+      "rss": "https://www.technologyreview.es/rss",
+      "status": 200,
+      "recent_items": 0,
+      "note": null,
+      "final_url": "https://www.technologyreview.es/rss/all"
+    }
+  ],
+  "section_shortages": {}
+}
